@@ -1,0 +1,4 @@
+﻿Stage,Participants,Excluded,Description
+1. Raw dataset,398,0,All participants in the Health & Gait dataset
+2. Sensor quality control,330,68,"Implausible speed, contradictory reading, duplicate record, missing value"
+3. Pose and kinematic quality control,183,147,"Corrupted pose data, no valid gait cycle detected"

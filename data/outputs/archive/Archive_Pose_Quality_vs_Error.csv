@@ -1,0 +1,73 @@
+Parameter,Quality_Metric,Spearman_r,P_Value,Significant,Analysis,MAPE_Best_Quality,MAPE_Worst_Quality,Difference
+Cadence - fast gait,missing_rate,-0.042219598307835136,0.5703910057367322,False,Correlation,,,
+Cadence - fast gait,jitter_med,0.06161835313652849,0.40731170148994533,False,Correlation,,,
+Cadence - fast gait,spike_pct,0.0778551455671912,0.29483255350895055,False,Correlation,,,
+Cadence - fast gait,hs_cv,0.024402183703680497,0.7429921777966844,False,Correlation,,,
+Cadence - fast gait,lr_corr,-0.15223461499298993,0.03965861849317694,True,Correlation,,,
+Cadence - usual gait,missing_rate,0.06524740203215874,0.38019450312619574,False,Correlation,,,
+Cadence - usual gait,jitter_med,0.11569008325957723,0.1188677186368212,False,Correlation,,,
+Cadence - usual gait,spike_pct,0.09286810837060305,0.21115632498455927,False,Correlation,,,
+Cadence - usual gait,hs_cv,0.017288306846396657,0.8163153317284383,False,Correlation,,,
+Cadence - usual gait,lr_corr,0.018104845973698432,0.8078043456373605,False,Correlation,,,
+Double Support Time - fast gait,missing_rate,-0.2468460362550094,0.0007553102009587788,True,Correlation,,,
+Double Support Time - fast gait,jitter_med,0.09878268055046133,0.18338419963139602,False,Correlation,,,
+Double Support Time - fast gait,spike_pct,0.00676435442710875,0.9275875358698726,False,Correlation,,,
+Double Support Time - fast gait,hs_cv,0.004783707588775995,0.9487554471492615,False,Correlation,,,
+Double Support Time - fast gait,lr_corr,0.05481682443470715,0.4611093125212704,False,Correlation,,,
+Double Support Time - usual gait,missing_rate,0.04670083960672885,0.5301539702342053,False,Correlation,,,
+Double Support Time - usual gait,jitter_med,0.022161117738834356,0.7658768739162716,False,Correlation,,,
+Double Support Time - usual gait,spike_pct,0.03556450637787311,0.6326770047420907,False,Correlation,,,
+Double Support Time - usual gait,hs_cv,-0.16755019050143313,0.023384317728114515,True,Correlation,,,
+Double Support Time - usual gait,lr_corr,-0.0954362391795165,0.19874807948550763,False,Correlation,,,
+Gait Speed - fast gait,missing_rate,-0.018402661513706908,0.804705691005483,False,Correlation,,,
+Gait Speed - fast gait,jitter_med,0.015339970079813274,0.8367085282833018,False,Correlation,,,
+Gait Speed - fast gait,spike_pct,-0.027501899383581496,0.711710771397279,False,Correlation,,,
+Gait Speed - fast gait,hs_cv,-0.17693639218942142,0.0165711904750367,True,Correlation,,,
+Gait Speed - fast gait,lr_corr,0.0015919575791279285,0.9829361056443309,False,Correlation,,,
+Gait Speed - usual gait,missing_rate,0.012665292048377982,0.8648798116198868,False,Correlation,,,
+Gait Speed - usual gait,jitter_med,0.08223743469645112,0.2684062624493302,False,Correlation,,,
+Gait Speed - usual gait,spike_pct,0.06603980481386042,0.374423227241816,False,Correlation,,,
+Gait Speed - usual gait,hs_cv,0.07576386550014491,0.3080332164962269,False,Correlation,,,
+Gait Speed - usual gait,lr_corr,-0.06024178957179671,0.41788970458807173,False,Correlation,,,
+Single Support Time - fast gait,missing_rate,-0.04503641420302146,0.5449305392717578,False,Correlation,,,
+Single Support Time - fast gait,jitter_med,0.10043827808067422,0.1761140438558557,False,Correlation,,,
+Single Support Time - fast gait,spike_pct,0.08159814604407649,0.27215740779119635,False,Correlation,,,
+Single Support Time - fast gait,hs_cv,-0.1405006053064468,0.05782077280801229,False,Correlation,,,
+Single Support Time - fast gait,lr_corr,-0.0776907008973706,0.29585674020580965,False,Correlation,,,
+Single Support Time - usual gait,missing_rate,0.032699089659224474,0.6603488266558347,False,Correlation,,,
+Single Support Time - usual gait,jitter_med,-0.22789861599555114,0.0019172197093328622,True,Correlation,,,
+Single Support Time - usual gait,spike_pct,-0.11052258504147316,0.13637052519744694,False,Correlation,,,
+Single Support Time - usual gait,hs_cv,-0.1043838556311828,0.15965066328825045,False,Correlation,,,
+Single Support Time - usual gait,lr_corr,-0.1544394664494451,0.03684807663553746,True,Correlation,,,
+Step Length - fast gait,missing_rate,0.03538370861382036,0.6344085266546966,False,Correlation,,,
+Step Length - fast gait,jitter_med,0.1599672601098118,0.030532080221940355,True,Correlation,,,
+Step Length - fast gait,spike_pct,0.24169166542651935,0.000980210335693622,True,Correlation,,,
+Step Length - fast gait,hs_cv,0.2128229931152241,0.0038218881973253326,True,Correlation,,,
+Step Length - fast gait,lr_corr,-0.1465540873951423,0.04774125954738105,True,Correlation,,,
+Step Length - usual gait,missing_rate,-0.004973692301001867,0.9467232171015534,False,Correlation,,,
+Step Length - usual gait,jitter_med,-0.13653043321610678,0.06533874921602321,False,Correlation,,,
+Step Length - usual gait,spike_pct,-0.0798348123722322,0.28268786902271037,False,Correlation,,,
+Step Length - usual gait,hs_cv,-0.127805017505659,0.08468165347633044,False,Correlation,,,
+Step Length - usual gait,lr_corr,0.015962654594158517,0.8301783713512791,False,Correlation,,,
+Stride Length - fast gait,missing_rate,0.13589928861186282,0.06660446370523762,False,Correlation,,,
+Stride Length - fast gait,jitter_med,0.007147165023145066,0.9235016866887821,False,Correlation,,,
+Stride Length - fast gait,spike_pct,0.07509222780070963,0.31235377775029627,False,Correlation,,,
+Stride Length - fast gait,hs_cv,0.08132886358118006,0.2737480741015086,False,Correlation,,,
+Stride Length - fast gait,lr_corr,-0.1483966852819312,0.044981028908615085,True,Correlation,,,
+Stride Length - usual gait,missing_rate,-0.020552706453273856,0.7824283167221635,False,Correlation,,,
+Stride Length - usual gait,jitter_med,-0.07932765737469943,0.2857665957788416,False,Correlation,,,
+Stride Length - usual gait,spike_pct,-0.04463747229249725,0.5485021910470864,False,Correlation,,,
+Stride Length - usual gait,hs_cv,-0.12507734603244228,0.09159323771792321,False,Correlation,,,
+Stride Length - usual gait,lr_corr,-0.02518543466512106,0.7350456567076125,False,Correlation,,,
+Cadence - fast gait,,,0.5172555661312719,,Group_Comparison,8.094396864118362,8.48092811492771,0.38653125080934814
+Cadence - usual gait,,,0.07797669847507563,,Group_Comparison,6.342931463104055,7.6314311146589855,1.2884996515549307
+Double Support Time - fast gait,,,0.7397098960087753,,Group_Comparison,11.696206896551724,11.217827997489014,-0.4783788990627098
+Double Support Time - usual gait,,,0.4538920069656692,,Group_Comparison,16.251877036407425,14.441692880887043,-1.810184155520382
+Gait Speed - fast gait,,,0.28212915851738474,,Group_Comparison,5.768648838845884,4.147890456220613,-1.6207583826252714
+Gait Speed - usual gait,,,0.31346650120558506,,Group_Comparison,6.544380587484035,9.271030963338657,2.7266503758546214
+Single Support Time - fast gait,,,0.9237348298710573,,Group_Comparison,4.856037151702786,4.147109155359981,-0.7089279963428048
+Single Support Time - usual gait,,,0.04206835897505946,,Group_Comparison,7.589100680922776,4.18049516372349,-3.4086055171992857
+Step Length - fast gait,,,0.0020683648052055538,,Group_Comparison,5.814793103448276,16.323894496759962,10.509101393311687
+Step Length - usual gait,,,0.09223728285374778,,Group_Comparison,13.067227169782353,7.7082882672882675,-5.358938902494085
+Stride Length - fast gait,,,0.11880074191432047,,Group_Comparison,9.223108346745029,13.996483903194303,4.773375556449274
+Stride Length - usual gait,,,0.2923299553498574,,Group_Comparison,10.97752973929499,6.913304514103791,-4.064225225191199

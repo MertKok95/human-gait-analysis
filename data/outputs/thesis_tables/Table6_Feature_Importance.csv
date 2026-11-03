@@ -1,0 +1,129 @@
+﻿Target,Rank,Feature,Importance_Percent,Used_By_Model,Direction
+Step Length - usual gait,1,Step Length (derived) - usual gait,55.0,Yes,Increases
+Step Length - usual gait,2,Step Length (measured) - usual gait,45.0,Yes,Increases
+Step Length - usual gait,3,Cadence - usual gait,0.0,No,-
+Step Length - usual gait,4,Stride Length (measured) - fast gait,0.0,No,-
+Step Length - usual gait,5,Height,0.0,No,-
+Step Length - usual gait,6,Step Length (derived) - fast gait,0.0,No,-
+Step Length - usual gait,7,Knee Range of Motion - fast gait,0.0,No,-
+Step Length - usual gait,8,Knee Range of Motion - usual gait,0.0,No,-
+Step Length - usual gait,9,Cycle Duration - fast gait,0.0,No,-
+Step Length - usual gait,10,Cycle Duration - usual gait,0.0,No,-
+Stride Length - usual gait,1,Step Length (derived) - usual gait,22.2,Yes,Increases
+Stride Length - usual gait,2,Speed (displacement) - usual gait,19.7,Yes,Increases
+Stride Length - usual gait,3,Step Length (measured) - usual gait,16.9,Yes,Increases
+Stride Length - usual gait,4,Stride Length (measured) - usual gait,15.7,Yes,Increases
+Stride Length - usual gait,5,Step Length (derived) - fast gait,14.6,Yes,Increases
+Stride Length - usual gait,6,Speed (step x cadence) - usual gait,10.9,Yes,Increases
+Stride Length - usual gait,7,Cadence - usual gait,0.0,No,-
+Stride Length - usual gait,8,Knee Range of Motion - usual gait,0.0,No,-
+Stride Length - usual gait,9,Step Length (measured) - fast gait,0.0,No,-
+Stride Length - usual gait,10,Cycle Duration - usual gait,0.0,No,-
+Cadence - usual gait,1,Cadence (spectral) - usual gait,100.0,Yes,Increases
+Cadence - usual gait,2,Knee Range of Motion - usual gait,0.0,No,-
+Cadence - usual gait,3,Knee Range of Motion - fast gait,0.0,No,-
+Cadence - usual gait,4,Cycle Duration - fast gait,0.0,No,-
+Cadence - usual gait,5,Speed (displacement) - usual gait,0.0,No,-
+Cadence - usual gait,6,Step Length (derived) - fast gait,0.0,No,-
+Cadence - usual gait,7,Speed (step x cadence) - fast gait,0.0,No,-
+Cadence - usual gait,8,Speed (displacement) - fast gait,0.0,No,-
+Cadence - usual gait,9,Speed (step x cadence) - usual gait,0.0,No,-
+Cadence - usual gait,10,Step Length (measured) - usual gait,0.0,No,-
+Gait Speed - usual gait,1,Speed (displacement) - usual gait,83.9,Yes,Increases
+Gait Speed - usual gait,2,Cadence (spectral) - usual gait,16.1,Yes,Increases
+Gait Speed - usual gait,3,Cadence - usual gait,0.0,No,-
+Gait Speed - usual gait,4,Knee Range of Motion - usual gait,0.0,No,-
+Gait Speed - usual gait,5,Cycle Duration - usual gait,0.0,No,-
+Gait Speed - usual gait,6,Step Length (measured) - fast gait,0.0,No,-
+Gait Speed - usual gait,7,Speed (displacement) - fast gait,0.0,No,-
+Gait Speed - usual gait,8,Knee Range of Motion - fast gait,0.0,No,-
+Gait Speed - usual gait,9,Speed (step x cadence) - fast gait,0.0,No,-
+Gait Speed - usual gait,10,Step Length (derived) - fast gait,0.0,No,-
+Step Length - fast gait,1,Step Length (derived) - fast gait,100.0,Yes,Increases
+Step Length - fast gait,2,Cadence - usual gait,0.0,No,-
+Step Length - fast gait,3,Cadence - fast gait,0.0,No,-
+Step Length - fast gait,4,Height,0.0,No,-
+Step Length - fast gait,5,Step Length (derived) - usual gait,0.0,No,-
+Step Length - fast gait,6,Knee Range of Motion - fast gait,0.0,No,-
+Step Length - fast gait,7,Knee Range of Motion - usual gait,0.0,No,-
+Step Length - fast gait,8,Cycle Duration - fast gait,0.0,No,-
+Step Length - fast gait,9,Cycle Duration - usual gait,0.0,No,-
+Step Length - fast gait,10,Stride Length (measured) - fast gait,0.0,No,-
+Stride Length - fast gait,1,Step Length (derived) - fast gait,41.4,Yes,Increases
+Stride Length - fast gait,2,Height,26.6,Yes,Increases
+Stride Length - fast gait,3,Step Length (measured) - usual gait,17.1,Yes,Increases
+Stride Length - fast gait,4,Speed (displacement) - fast gait,14.9,Yes,Increases
+Stride Length - fast gait,5,Cadence - fast gait,0.0,No,-
+Stride Length - fast gait,6,Sex,0.0,No,-
+Stride Length - fast gait,7,Speed (step x cadence) - fast gait,0.0,No,-
+Stride Length - fast gait,8,Speed (displacement) - usual gait,0.0,No,-
+Stride Length - fast gait,9,Knee Range of Motion - fast gait,0.0,No,-
+Stride Length - fast gait,10,Speed (step x cadence) - usual gait,0.0,No,-
+Cadence - fast gait,1,Cadence (spectral) - fast gait,38.3,Yes,Increases
+Cadence - fast gait,2,Cadence - fast gait,22.6,Yes,Increases
+Cadence - fast gait,3,Cadence (spectral) - usual gait,21.1,Yes,Increases
+Cadence - fast gait,4,Speed (displacement) - fast gait,18.1,Yes,Increases
+Cadence - fast gait,5,Knee Range of Motion - fast gait,0.0,No,-
+Cadence - fast gait,6,Cadence - usual gait,0.0,No,-
+Cadence - fast gait,7,Knee Range of Motion - usual gait,0.0,No,-
+Cadence - fast gait,8,Cycle Duration - fast gait,0.0,No,-
+Cadence - fast gait,9,Step Length (derived) - fast gait,0.0,No,-
+Cadence - fast gait,10,Height,0.0,No,-
+Gait Speed - fast gait,1,Speed (displacement) - fast gait,100.0,Yes,Increases
+Gait Speed - fast gait,2,Height,0.0,No,-
+Gait Speed - fast gait,3,Sex,0.0,No,-
+Gait Speed - fast gait,4,Speed (step x cadence) - usual gait,0.0,No,-
+Gait Speed - fast gait,5,Speed (displacement) - usual gait,0.0,No,-
+Gait Speed - fast gait,6,Speed (step x cadence) - fast gait,0.0,No,-
+Gait Speed - fast gait,7,Knee Range of Motion - fast gait,0.0,No,-
+Gait Speed - fast gait,8,Cadence - fast gait,0.0,No,-
+Gait Speed - fast gait,9,Cycle Duration - fast gait,0.0,No,-
+Gait Speed - fast gait,10,Step Length (derived) - fast gait,0.0,No,-
+Single Support Time - usual gait,1,Cadence - usual gait,43.8,Yes,Decreases
+Single Support Time - usual gait,2,Cadence (spectral) - usual gait,37.7,Yes,Decreases
+Single Support Time - usual gait,3,Speed (displacement) - usual gait,18.5,Yes,Decreases
+Single Support Time - usual gait,4,Knee Range of Motion - usual gait,0.0,No,-
+Single Support Time - usual gait,5,Knee Range of Motion - fast gait,0.0,No,-
+Single Support Time - usual gait,6,Speed (displacement) - fast gait,0.0,No,-
+Single Support Time - usual gait,7,Speed (step x cadence) - usual gait,0.0,No,-
+Single Support Time - usual gait,8,Step Length (measured) - usual gait,0.0,No,-
+Single Support Time - usual gait,9,Step Length (derived) - usual gait,0.0,No,-
+Single Support Time - usual gait,10,Speed (step x cadence) - fast gait,0.0,No,-
+Double Support Time - usual gait,1,Cadence (spectral) - usual gait,17.5,Yes,Decreases
+Double Support Time - usual gait,2,Speed (displacement) - usual gait,12.5,Yes,Decreases
+Double Support Time - usual gait,3,Height,9.4,Yes,Increases
+Double Support Time - usual gait,4,Sex,9.2,Yes,Increases
+Double Support Time - usual gait,5,Cadence - usual gait,8.6,Yes,Decreases
+Double Support Time - usual gait,6,Stride Length (measured) - usual gait,6.2,Yes,Decreases
+Double Support Time - usual gait,7,Speed (displacement) - fast gait,5.5,Yes,Decreases
+Double Support Time - usual gait,8,Cycle Duration - fast gait,5.2,Yes,Decreases
+Double Support Time - usual gait,9,Speed (step x cadence) - fast gait,5.0,Yes,Decreases
+Double Support Time - usual gait,10,Knee Range of Motion - fast gait,4.8,Yes,Increases
+Double Support Time - usual gait,11,Cadence (spectral) - fast gait,4.7,Yes,Decreases
+Double Support Time - usual gait,12,Speed (step x cadence) - usual gait,4.1,Yes,Decreases
+Double Support Time - usual gait,13,Step Length (derived) - usual gait,4.0,Yes,Decreases
+Double Support Time - usual gait,14,Step Length (measured) - usual gait,1.7,Yes,Decreases
+Double Support Time - usual gait,15,Cadence - fast gait,1.1,Yes,Decreases
+Double Support Time - usual gait,16,Cycle Duration - usual gait,0.5,Yes,Decreases
+Single Support Time - fast gait,1,Cadence (spectral) - fast gait,100.0,Yes,Decreases
+Single Support Time - fast gait,2,Cadence - usual gait,0.0,No,-
+Single Support Time - fast gait,3,Height,0.0,No,-
+Single Support Time - fast gait,4,Cadence - fast gait,0.0,No,-
+Single Support Time - fast gait,5,Step Length (derived) - fast gait,0.0,No,-
+Single Support Time - fast gait,6,Knee Range of Motion - fast gait,0.0,No,-
+Single Support Time - fast gait,7,Cycle Duration - fast gait,0.0,No,-
+Single Support Time - fast gait,8,Cycle Duration - usual gait,0.0,No,-
+Single Support Time - fast gait,9,Stride Length (measured) - fast gait,0.0,No,-
+Single Support Time - fast gait,10,Step Length (derived) - usual gait,0.0,No,-
+Double Support Time - fast gait,1,Speed (displacement) - fast gait,17.2,Yes,Decreases
+Double Support Time - fast gait,2,Cadence - fast gait,15.6,Yes,Decreases
+Double Support Time - fast gait,3,Step Length (derived) - fast gait,12.6,Yes,Decreases
+Double Support Time - fast gait,4,Cadence (spectral) - fast gait,11.0,Yes,Decreases
+Double Support Time - fast gait,5,Speed (step x cadence) - usual gait,10.5,Yes,Increases
+Double Support Time - fast gait,6,Cadence (spectral) - usual gait,9.1,Yes,Decreases
+Double Support Time - fast gait,7,Cycle Duration - fast gait,7.7,Yes,Decreases
+Double Support Time - fast gait,8,Cadence - usual gait,5.0,Yes,Decreases
+Double Support Time - fast gait,9,Speed (displacement) - usual gait,4.8,Yes,Decreases
+Double Support Time - fast gait,10,Cycle Duration - usual gait,4.7,Yes,Decreases
+Double Support Time - fast gait,11,Speed (step x cadence) - fast gait,1.5,Yes,Increases
+Double Support Time - fast gait,12,Step Length (derived) - usual gait,0.4,Yes,Increases

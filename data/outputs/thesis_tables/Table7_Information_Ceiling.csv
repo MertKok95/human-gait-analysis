@@ -1,0 +1,13 @@
+﻿Target,Camera_Only_R2,R2_With_Sensor_Hints,Camera_Percent_Of_Ceiling
+Step Length - usual gait,0.155,0.471,32.9
+Stride Length - usual gait,0.188,0.545,34.5
+Cadence - usual gait,0.183,0.681,26.9
+Gait Speed - usual gait,0.43,0.578,74.4
+Step Length - fast gait,0.092,0.48,19.2
+Stride Length - fast gait,0.133,0.565,23.5
+Cadence - fast gait,0.291,0.729,39.9
+Gait Speed - fast gait,0.71,0.778,91.3
+Single Support Time - usual gait,0.002,0.233,0.9
+Double Support Time - usual gait,0.256,0.33,77.6
+Single Support Time - fast gait,0.475,0.639,74.3
+Double Support Time - fast gait,0.463,0.523,88.5

@@ -1,0 +1,18 @@
+﻿File,Folder,Previous_Name,Contents,In_Thesis,Status
+Table1_Sample_Chain.csv,thesis_tables,—,How the sample was reduced from 398 to 183,Yes - Section 4.1,produced
+Table2_Main_Results.csv,thesis_tables,Ozet_Karsilastirma_Tablosu.csv,Baseline vs model error with significance test,Yes - Section 4.6,produced
+Table3_Per_Participant_Comparison.csv,thesis_tables,Hasta_Bazli_Karsilastirma_183.csv,"Sensor, baseline and model values per participant and parameter",Yes - Appendix,produced
+Table4_Method_Comparison.csv,thesis_tables,Method_Correlation_Results.csv,Correlation of previous and new measurement methods with the sensor,Yes - Section 4.3,produced
+Table5_Measurement_Reliability.csv,thesis_tables,Measurement_Reliability.csv + Measurement_Ceiling_Analysis.csv,Test-retest reliability and theoretical ceiling,Yes - Section 4.2,produced
+Table6_Feature_Importance.csv,thesis_tables,SHAP_Feature_Importance.csv,How much the model relies on each measurement,Yes - Section 4.8,produced
+Table7_Information_Ceiling.csv,thesis_tables,Oracle_Ceiling_Results.csv,Predictability ceiling of each target,Yes - Section 4.7,produced
+Check1_Excluded_Participants.csv,validation,Corrupted_Patients_Log.csv,Which participants were excluded and why,No - validation,produced
+Check2_Clean_Sensor_Data.csv,validation,filtered_gait_sensor_data.csv,Sensor data that passed quality control (ground truth),No - validation,produced
+Check3_Gait_Cycles.csv,validation,ML_Master_Gait_Cycles.csv,"One row per gait cycle: duration, phases, step length, QC result",No - validation,produced
+Check4_Trial_Measurements.csv,validation,ML_Master_Subject_Features.csv,One row per participant x condition x trial: all video measurements,No - validation,produced
+Check5_Model_Dataset.csv,validation,ML_Regression_Dataset.csv,One row per participant: model inputs and targets,No - validation,produced
+Check6_Model_Predictions.csv,validation,Model_Predictions_CV.csv,Observed value and cross-validated prediction per participant,No - validation,produced
+Check7_Model_Stability.csv,validation,Model_R2_MultiSeed.csv,Mean and standard deviation of R2 across 20 splits,No - source of R2,produced
+Check8_Overfitting_Check.csv,validation,Chapter4_T45_Model_Selection.csv,Train/test R2 gap - evidence for selecting Ridge,No - validation,produced
+Check9_Frame_Level_Dataset.csv,validation,DeepLearning_Input_Dataset.csv,Frame-level measurements (for deep-learning experiments),No - optional,produced
+Check10_Cleaning_Summary.csv,validation,cleaning_summary.csv,Row counts before/after cleaning and the rules applied,No - validation,produced

@@ -1,0 +1,10 @@
+﻿Metric,Unit,Step Length - usual gait,Stride Length - usual gait,Cadence - usual gait,Gait Speed - usual gait,Step Length - fast gait,Stride Length - fast gait,Cadence - fast gait,Gait Speed - fast gait,Single Support Time - usual gait,Double Support Time - usual gait,Single Support Time - fast gait,Double Support Time - fast gait
+Baseline MAE,target unit,17.282,34.0313,9.0764,0.147,16.0851,31.9314,13.0701,0.1486,0.0322,0.0431,0.0266,0.0305
+MAE,target unit,7.8199,15.5544,9.2829,0.1237,8.0297,16.2372,14.0706,0.1502,0.0306,0.037,0.0186,0.0229
+RMSE,target unit,11.6291,22.9051,11.7851,0.1558,10.3995,21.5928,19.1103,0.1976,0.05,0.0475,0.0246,0.0284
+MAPE (%),%,12.95,12.73,8.27,8.1,11.6,11.32,10.03,6.61,18.69,23.48,5.8,19.75
+MedAPE (%),%,11.34,11.59,6.9,6.54,10.26,9.3,7.66,5.54,5.19,14.84,4.54,14.94
+R2 Score,-,0.155,0.188,0.183,0.43,0.092,0.133,0.291,0.71,0.002,0.256,0.475,0.463
+R2 SD (20 splits),-,0.02,0.01,0.012,0.009,0.039,0.033,0.015,0.005,0.022,0.017,0.009,0.018
+MAE Improvement (%),%,54.75,54.29,-2.28,15.85,50.08,49.15,-7.65,-1.08,4.97,14.15,30.08,24.92
+Model Better Patient (%),%,83.61,80.87,46.99,62.3,74.32,74.86,49.18,46.45,54.64,59.56,69.4,58.47

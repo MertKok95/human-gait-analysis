@@ -1,0 +1,17 @@
+﻿Measurement,Condition,Participants,Single_Trial_Reliability,Two_Trial_Mean_Reliability,Theoretical_Ceiling,Observed_r_With_Sensor,Percent_Of_Ceiling
+Speed (displacement),usual gait,183,0.94,0.969,0.984,0.674,68.5
+Speed (displacement),fast gait,183,0.92,0.958,0.979,0.856,87.5
+Cadence (spectral),usual gait,183,0.917,0.957,0.978,0.456,46.6
+Cadence (spectral),fast gait,183,0.516,0.68,0.825,0.566,68.6
+Speed (step x cadence),usual gait,183,0.708,0.829,0.911,0.511,56.2
+Speed (step x cadence),fast gait,183,0.534,0.696,0.834,0.483,57.9
+Cadence,usual gait,183,0.675,0.806,0.898,0.349,38.9
+Cadence,fast gait,183,0.482,0.651,0.807,0.472,58.6
+Step Length (measured),usual gait,183,0.485,0.653,0.808,0.433,53.6
+Step Length (measured),fast gait,183,0.233,0.378,0.615,0.185,30.0
+Stride Length (measured),usual gait,183,0.305,0.468,0.684,0.42,61.4
+Stride Length (measured),fast gait,183,0.215,0.353,0.595,0.132,22.2
+Cycle Duration,usual gait,183,0.402,0.574,0.757,,
+Cycle Duration,fast gait,183,0.338,0.506,0.711,,
+Knee Range of Motion,usual gait,183,0.628,0.771,0.878,,
+Knee Range of Motion,fast gait,183,0.431,0.603,0.776,,

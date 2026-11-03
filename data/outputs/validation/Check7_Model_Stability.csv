@@ -1,0 +1,17 @@
+﻿Target,Target_Code,Track,Split_Count,R2_Mean,R2_SD,R2_Min,R2_Max
+Step Length - usual gait,Step_UGS,All_Participants,20,0.155,0.02,0.112,0.184
+Stride Length - usual gait,Stride_UGS,All_Participants,20,0.188,0.01,0.163,0.203
+Cadence - usual gait,Cadence_UGS,All_Participants,20,0.183,0.012,0.15,0.196
+Gait Speed - usual gait,Velocity_UGS,All_Participants,20,0.43,0.009,0.411,0.445
+Step Length - fast gait,Step_FGS,All_Participants,20,0.092,0.039,0.004,0.135
+Stride Length - fast gait,Stride_FGS,All_Participants,20,0.133,0.033,0.03,0.167
+Cadence - fast gait,Cadence_FGS,All_Participants,20,0.291,0.015,0.255,0.316
+Gait Speed - fast gait,Velocity_FGS,All_Participants,20,0.71,0.005,0.7,0.717
+Single Support Time - usual gait,MonoSP_UGS,All_Participants,20,0.002,0.022,-0.031,0.039
+Single Support Time - usual gait,MonoSP_UGS,Physiologically_Valid,20,0.171,0.008,0.154,0.183
+Double Support Time - usual gait,BiSP_UGS,All_Participants,20,0.256,0.017,0.222,0.278
+Double Support Time - usual gait,BiSP_UGS,Physiologically_Valid,20,0.29,0.015,0.263,0.312
+Single Support Time - fast gait,MonoSP_FGS,All_Participants,20,0.475,0.009,0.458,0.488
+Single Support Time - fast gait,MonoSP_FGS,Physiologically_Valid,20,0.512,0.008,0.489,0.524
+Double Support Time - fast gait,BiSP_FGS,All_Participants,20,0.463,0.018,0.424,0.496
+Double Support Time - fast gait,BiSP_FGS,Physiologically_Valid,20,0.391,0.019,0.355,0.425

@@ -1,0 +1,7 @@
+﻿Stage,Source_File,Participants_Before,Participants_After,Participants_Excluded,Exclusion_Reason,Processing_Note
+1. Sensor quality control,gait_parameters.csv,398,330,68,TOTAL,Rule-based exclusion applied (physical and logical constraints). IQR winsorization was deliberately NOT applied in order to preserve the integrity of the ground-truth data.
+1. Sensor quality control,gait_parameters.csv,398,330,63,Missing sensor reading,
+1. Sensor quality control,gait_parameters.csv,398,330,3,Contradiction: usual gait faster than fast gait,
+1. Sensor quality control,gait_parameters.csv,398,330,1,Duplicate record: usual and fast gait identical,
+1. Sensor quality control,gait_parameters.csv,398,330,1,Implausible gait speed (5.09 m/s),
+2. Pose and kinematic quality control,raw_data/pose/*/AlphaPose JSON,183,183,0,ALL REASONS (stage total),"Atomicity rule applied: a participant is removed if ANY of the four required trials fails pose cleaning, gait cycle detection or the anatomical knee-flexion check."

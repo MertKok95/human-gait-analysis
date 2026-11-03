@@ -1,0 +1,2197 @@
+﻿Participant_ID,Parameter,Unit,Sensor_Value,Baseline_Estimate,Model_Prediction,Baseline_Error,Model_Error,Model_Is_Better
+PA004,Step Length - usual gait,cm,46.0,69.32,51.2554,23.32,5.2554,Yes
+PA005,Step Length - usual gait,cm,61.4,68.914,59.3715,7.514,2.0285,Yes
+PA006,Step Length - usual gait,cm,40.3,63.498,48.3154,23.198,8.0154,Yes
+PA018,Step Length - usual gait,cm,40.6,65.445,48.9948,24.845,8.3948,Yes
+PA019,Step Length - usual gait,cm,46.8,69.398,55.0897,22.598,8.2897,Yes
+PA020,Step Length - usual gait,cm,61.4,67.39,52.8541,5.99,8.5459,No
+PA021,Step Length - usual gait,cm,48.0,70.13,55.1792,22.13,7.1792,Yes
+PA022,Step Length - usual gait,cm,47.3,73.54,55.6314,26.24,8.3314,Yes
+PA030,Step Length - usual gait,cm,65.5,77.965,57.5749,12.465,7.9251,Yes
+PA031,Step Length - usual gait,cm,54.7,76.173,60.6487,21.473,5.9487,Yes
+PA033,Step Length - usual gait,cm,59.7,72.429,55.1682,12.729,4.5318,Yes
+PA035,Step Length - usual gait,cm,49.6,73.45,57.5727,23.85,7.9727,Yes
+PA037,Step Length - usual gait,cm,101.2,78.016,62.2394,23.184,38.9606,No
+PA040,Step Length - usual gait,cm,43.0,65.584,47.8575,22.584,4.8575,Yes
+PA042,Step Length - usual gait,cm,53.4,68.443,55.0704,15.043,1.6704,Yes
+PA043,Step Length - usual gait,cm,54.1,85.373,68.3121,31.273,14.2121,Yes
+PA045,Step Length - usual gait,cm,46.1,66.859,55.2701,20.759,9.1701,Yes
+PA047,Step Length - usual gait,cm,50.1,76.034,58.9257,25.934,8.8257,Yes
+PA048,Step Length - usual gait,cm,69.0,82.814,66.0194,13.814,2.9806,Yes
+PA049,Step Length - usual gait,cm,48.9,64.55,50.3516,15.65,1.4516,Yes
+PA051,Step Length - usual gait,cm,51.8,72.19,56.8767,20.39,5.0767,Yes
+PA052,Step Length - usual gait,cm,100.8,84.801,67.1866,15.999,33.6134,No
+PA054,Step Length - usual gait,cm,57.9,75.032,59.0403,17.132,1.1403,Yes
+PA057,Step Length - usual gait,cm,54.5,66.347,52.7853,11.847,1.7147,Yes
+PA058,Step Length - usual gait,cm,56.9,73.45,52.0873,16.55,4.8127,Yes
+PA059,Step Length - usual gait,cm,65.5,71.16,55.5472,5.66,9.9528,No
+PA063,Step Length - usual gait,cm,53.3,66.781,53.0271,13.481,0.2729,Yes
+PA066,Step Length - usual gait,cm,50.4,70.512,57.0709,20.112,6.6709,Yes
+PA070,Step Length - usual gait,cm,49.8,62.39,51.943,12.59,2.143,Yes
+PA072,Step Length - usual gait,cm,54.6,62.752,50.0881,8.152,4.5119,Yes
+PA074,Step Length - usual gait,cm,71.7,68.139,54.0688,3.561,17.6312,No
+PA079,Step Length - usual gait,cm,47.3,62.302,48.3867,15.002,1.0867,Yes
+PA080,Step Length - usual gait,cm,56.0,64.065,49.6471,8.065,6.3529,Yes
+PA081,Step Length - usual gait,cm,42.0,66.622,47.0651,24.622,5.0651,Yes
+PA082,Step Length - usual gait,cm,51.9,81.095,60.0393,29.195,8.1393,Yes
+PA083,Step Length - usual gait,cm,48.1,70.134,52.9676,22.034,4.8676,Yes
+PA084,Step Length - usual gait,cm,52.6,72.165,57.465,19.565,4.865,Yes
+PA091,Step Length - usual gait,cm,44.8,71.09,56.1327,26.29,11.3327,Yes
+PA092,Step Length - usual gait,cm,55.5,66.853,51.7334,11.353,3.7666,Yes
+PA093,Step Length - usual gait,cm,79.0,95.59,71.0348,16.59,7.9652,Yes
+PA094,Step Length - usual gait,cm,50.1,71.865,56.1276,21.765,6.0276,Yes
+PA096,Step Length - usual gait,cm,53.0,72.777,56.2348,19.777,3.2348,Yes
+PA098,Step Length - usual gait,cm,52.5,72.15,53.3032,19.65,0.8032,Yes
+PA099,Step Length - usual gait,cm,68.6,73.713,61.3582,5.113,7.2418,No
+PA100,Step Length - usual gait,cm,52.0,73.725,59.6365,21.725,7.6365,Yes
+PA106,Step Length - usual gait,cm,49.8,64.373,49.784,14.573,0.016,Yes
+PA108,Step Length - usual gait,cm,100.6,72.925,59.3371,27.675,41.2629,No
+PA112,Step Length - usual gait,cm,57.4,70.732,54.0558,13.332,3.3442,Yes
+PA115,Step Length - usual gait,cm,50.7,70.077,51.3493,19.377,0.6493,Yes
+PA116,Step Length - usual gait,cm,51.6,69.055,56.1208,17.455,4.5208,Yes
+PA117,Step Length - usual gait,cm,50.6,73.24,58.3316,22.64,7.7316,Yes
+PA118,Step Length - usual gait,cm,55.9,65.562,50.971,9.662,4.929,Yes
+PA119,Step Length - usual gait,cm,63.8,75.831,58.7079,12.031,5.0921,Yes
+PA120,Step Length - usual gait,cm,87.0,75.609,56.5959,11.391,30.4041,No
+PA131,Step Length - usual gait,cm,54.3,76.544,61.9024,22.244,7.6024,Yes
+PA133,Step Length - usual gait,cm,54.1,72.344,57.1703,18.244,3.0703,Yes
+PA136,Step Length - usual gait,cm,79.2,83.66,67.6671,4.46,11.5329,No
+PA137,Step Length - usual gait,cm,58.5,74.436,53.7434,15.936,4.7566,Yes
+PA139,Step Length - usual gait,cm,56.3,69.436,55.2064,13.136,1.0936,Yes
+PA144,Step Length - usual gait,cm,42.4,66.923,50.4102,24.523,8.0102,Yes
+PA145,Step Length - usual gait,cm,46.3,72.733,57.6003,26.433,11.3003,Yes
+PA147,Step Length - usual gait,cm,52.8,63.821,49.4143,11.021,3.3857,Yes
+PA158,Step Length - usual gait,cm,127.8,73.056,54.3926,54.744,73.4074,No
+PA159,Step Length - usual gait,cm,50.4,64.16,57.726,13.76,7.326,Yes
+PA160,Step Length - usual gait,cm,48.7,72.029,57.5343,23.329,8.8343,Yes
+PA162,Step Length - usual gait,cm,47.8,76.427,54.4897,28.627,6.6897,Yes
+PA166,Step Length - usual gait,cm,50.7,77.773,57.1383,27.073,6.4383,Yes
+PA167,Step Length - usual gait,cm,48.6,70.588,48.4564,21.988,0.1436,Yes
+PA168,Step Length - usual gait,cm,65.0,70.435,56.1154,5.435,8.8846,No
+PA170,Step Length - usual gait,cm,53.8,62.358,50.619,8.558,3.181,Yes
+PA171,Step Length - usual gait,cm,68.7,76.895,56.6491,8.195,12.0509,No
+PA172,Step Length - usual gait,cm,52.0,66.331,52.5268,14.331,0.5268,Yes
+PA173,Step Length - usual gait,cm,55.9,68.335,52.1385,12.435,3.7615,Yes
+PA175,Step Length - usual gait,cm,49.1,69.591,54.3373,20.491,5.2373,Yes
+PA178,Step Length - usual gait,cm,54.4,74.366,56.5849,19.966,2.1849,Yes
+PA184,Step Length - usual gait,cm,60.2,72.809,55.9296,12.609,4.2704,Yes
+PA187,Step Length - usual gait,cm,59.9,73.232,57.3433,13.332,2.5567,Yes
+PA188,Step Length - usual gait,cm,38.0,63.875,46.9973,25.875,8.9973,Yes
+PA190,Step Length - usual gait,cm,54.5,61.786,48.4572,7.286,6.0428,Yes
+PA191,Step Length - usual gait,cm,51.1,75.524,58.6662,24.424,7.5662,Yes
+PA192,Step Length - usual gait,cm,55.0,72.106,59.0071,17.106,4.0071,Yes
+PA196,Step Length - usual gait,cm,60.4,72.607,57.9266,12.207,2.4734,Yes
+PA199,Step Length - usual gait,cm,52.5,77.416,58.9819,24.916,6.4819,Yes
+PA200,Step Length - usual gait,cm,67.9,74.873,59.4502,6.973,8.4498,No
+PA201,Step Length - usual gait,cm,59.4,70.515,57.9579,11.115,1.4421,Yes
+PA203,Step Length - usual gait,cm,71.8,67.179,54.5259,4.621,17.2741,No
+PA207,Step Length - usual gait,cm,74.8,69.006,55.1367,5.794,19.6633,No
+PA208,Step Length - usual gait,cm,48.2,64.832,50.9354,16.632,2.7354,Yes
+PA209,Step Length - usual gait,cm,50.7,69.471,53.376,18.771,2.676,Yes
+PA210,Step Length - usual gait,cm,54.9,81.561,65.1441,26.661,10.2441,Yes
+PA212,Step Length - usual gait,cm,80.3,80.074,58.915,0.226,21.385,No
+PA213,Step Length - usual gait,cm,63.4,84.956,70.2323,21.556,6.8323,Yes
+PA214,Step Length - usual gait,cm,66.3,82.144,64.3802,15.844,1.9198,Yes
+PA215,Step Length - usual gait,cm,48.5,78.05,61.3506,29.55,12.8506,Yes
+PA217,Step Length - usual gait,cm,100.4,77.773,60.723,22.627,39.677,No
+PA219,Step Length - usual gait,cm,53.0,69.128,53.1826,16.128,0.1826,Yes
+PA221,Step Length - usual gait,cm,66.0,86.308,67.9009,20.308,1.9009,Yes
+PA224,Step Length - usual gait,cm,43.3,67.129,51.7596,23.829,8.4596,Yes
+PA225,Step Length - usual gait,cm,67.3,83.603,61.272,16.303,6.028,Yes
+PA227,Step Length - usual gait,cm,59.4,74.304,55.7404,14.904,3.6596,Yes
+PA230,Step Length - usual gait,cm,60.4,83.429,61.501,23.029,1.101,Yes
+PA232,Step Length - usual gait,cm,48.9,65.92,51.9238,17.02,3.0238,Yes
+PA233,Step Length - usual gait,cm,47.0,65.212,53.3514,18.212,6.3514,Yes
+PA234,Step Length - usual gait,cm,47.8,62.045,50.2923,14.245,2.4923,Yes
+PA241,Step Length - usual gait,cm,66.1,75.949,58.1741,9.849,7.9259,Yes
+PA242,Step Length - usual gait,cm,60.4,65.907,51.2883,5.507,9.1117,No
+PA243,Step Length - usual gait,cm,43.4,65.875,53.441,22.475,10.041,Yes
+PA246,Step Length - usual gait,cm,49.5,75.167,60.4858,25.667,10.9858,Yes
+PA247,Step Length - usual gait,cm,59.0,73.253,56.8338,14.253,2.1662,Yes
+PA248,Step Length - usual gait,cm,55.1,68.4,52.7285,13.3,2.3715,Yes
+PA249,Step Length - usual gait,cm,80.8,72.875,57.786,7.925,23.014,No
+PA252,Step Length - usual gait,cm,63.7,84.065,63.5251,20.365,0.1749,Yes
+PA257,Step Length - usual gait,cm,50.9,73.34,57.2991,22.44,6.3991,Yes
+PA261,Step Length - usual gait,cm,54.6,71.158,55.318,16.558,0.718,Yes
+PA266,Step Length - usual gait,cm,64.3,81.471,64.6525,17.171,0.3525,Yes
+PA267,Step Length - usual gait,cm,54.4,68.504,52.3522,14.104,2.0478,Yes
+PA268,Step Length - usual gait,cm,57.0,67.847,52.3297,10.847,4.6703,Yes
+PA270,Step Length - usual gait,cm,65.7,67.782,54.4083,2.082,11.2917,No
+PA274,Step Length - usual gait,cm,65.1,77.899,61.1701,12.799,3.9299,Yes
+PA276,Step Length - usual gait,cm,44.4,66.954,50.9211,22.554,6.5211,Yes
+PA277,Step Length - usual gait,cm,39.3,62.618,51.3618,23.318,12.0618,Yes
+PA280,Step Length - usual gait,cm,46.3,69.121,53.5304,22.821,7.2304,Yes
+PA284,Step Length - usual gait,cm,48.5,69.352,54.283,20.852,5.783,Yes
+PA285,Step Length - usual gait,cm,55.0,62.371,50.0586,7.371,4.9414,Yes
+PA288,Step Length - usual gait,cm,45.8,68.288,51.6608,22.488,5.8608,Yes
+PA289,Step Length - usual gait,cm,72.2,83.429,63.6117,11.229,8.5883,Yes
+PA290,Step Length - usual gait,cm,52.4,66.344,52.3913,13.944,0.0087,Yes
+PA292,Step Length - usual gait,cm,67.3,73.462,53.4015,6.162,13.8985,No
+PA293,Step Length - usual gait,cm,57.1,64.648,51.6419,7.548,5.4581,Yes
+PA296,Step Length - usual gait,cm,55.1,61.986,49.9339,6.886,5.1661,Yes
+PA297,Step Length - usual gait,cm,48.3,63.426,52.5863,15.126,4.2863,Yes
+PA299,Step Length - usual gait,cm,48.5,73.741,63.9869,25.241,15.4869,Yes
+PA300,Step Length - usual gait,cm,68.4,76.611,58.8482,8.211,9.5518,No
+PA302,Step Length - usual gait,cm,67.1,68.381,55.2825,1.281,11.8175,No
+PA303,Step Length - usual gait,cm,39.6,67.02,52.6472,27.42,13.0472,Yes
+PA304,Step Length - usual gait,cm,47.2,61.229,50.6625,14.029,3.4625,Yes
+PA305,Step Length - usual gait,cm,79.3,69.285,56.9372,10.015,22.3628,No
+PA309,Step Length - usual gait,cm,62.9,84.503,59.7323,21.603,3.1677,Yes
+PA311,Step Length - usual gait,cm,47.6,72.563,56.1554,24.963,8.5554,Yes
+PA312,Step Length - usual gait,cm,63.6,85.402,65.9004,21.802,2.3004,Yes
+PA314,Step Length - usual gait,cm,54.5,80.163,61.1159,25.663,6.6159,Yes
+PA319,Step Length - usual gait,cm,46.0,71.114,57.8454,25.114,11.8454,Yes
+PA320,Step Length - usual gait,cm,47.7,66.12,53.6459,18.42,5.9459,Yes
+PA326,Step Length - usual gait,cm,68.0,75.347,59.1895,7.347,8.8105,No
+PA331,Step Length - usual gait,cm,51.4,74.077,57.8152,22.677,6.4152,Yes
+PA333,Step Length - usual gait,cm,68.3,61.719,51.3307,6.581,16.9693,No
+PA334,Step Length - usual gait,cm,57.9,77.341,57.1578,19.441,0.7422,Yes
+PA336,Step Length - usual gait,cm,50.6,80.23,51.7168,29.63,1.1168,Yes
+PA337,Step Length - usual gait,cm,50.8,73.412,55.3513,22.612,4.5513,Yes
+PA339,Step Length - usual gait,cm,44.5,73.443,57.8691,28.943,13.3691,Yes
+PA340,Step Length - usual gait,cm,60.7,82.674,60.8785,21.974,0.1785,Yes
+PA341,Step Length - usual gait,cm,45.2,62.377,51.1695,17.177,5.9695,Yes
+PA343,Step Length - usual gait,cm,60.1,70.863,58.2736,10.763,1.8264,Yes
+PA344,Step Length - usual gait,cm,46.1,71.278,54.423,25.178,8.323,Yes
+PA347,Step Length - usual gait,cm,45.3,62.709,49.8946,17.409,4.5946,Yes
+PA350,Step Length - usual gait,cm,49.1,56.749,46.3512,7.649,2.7488,Yes
+PA351,Step Length - usual gait,cm,85.8,72.593,51.7937,13.207,34.0063,No
+PA352,Step Length - usual gait,cm,61.0,72.884,57.2614,11.884,3.7386,Yes
+PA354,Step Length - usual gait,cm,70.7,81.705,64.0537,11.005,6.6463,Yes
+PA355,Step Length - usual gait,cm,75.8,65.196,52.6661,10.604,23.1339,No
+PA356,Step Length - usual gait,cm,46.0,68.931,54.3587,22.931,8.3587,Yes
+PA358,Step Length - usual gait,cm,46.6,62.877,49.2476,16.277,2.6476,Yes
+PA360,Step Length - usual gait,cm,67.9,77.99,60.3968,10.09,7.5032,Yes
+PA363,Step Length - usual gait,cm,51.9,77.591,56.9308,25.691,5.0308,Yes
+PA366,Step Length - usual gait,cm,50.3,66.524,50.8892,16.224,0.5892,Yes
+PA369,Step Length - usual gait,cm,58.7,67.494,52.0737,8.794,6.6263,Yes
+PA371,Step Length - usual gait,cm,51.1,63.96,49.1929,12.86,1.9071,Yes
+PA372,Step Length - usual gait,cm,48.5,68.8,54.2784,20.3,5.7784,Yes
+PA375,Step Length - usual gait,cm,59.4,86.08,67.5786,26.68,8.1786,Yes
+PA377,Step Length - usual gait,cm,37.0,60.887,47.0196,23.887,10.0196,Yes
+PA380,Step Length - usual gait,cm,51.9,90.398,71.4929,38.498,19.5929,Yes
+PA382,Step Length - usual gait,cm,64.6,66.565,52.3177,1.965,12.2823,No
+PA383,Step Length - usual gait,cm,55.6,84.049,62.1498,28.449,6.5498,Yes
+PA386,Step Length - usual gait,cm,57.9,75.349,56.9131,17.449,0.9869,Yes
+PA387,Step Length - usual gait,cm,72.7,76.557,58.3319,3.857,14.3681,No
+PA388,Step Length - usual gait,cm,40.7,69.276,50.7023,28.576,10.0023,Yes
+PA389,Step Length - usual gait,cm,38.4,61.892,48.9731,23.492,10.5731,Yes
+PA390,Step Length - usual gait,cm,44.6,61.686,49.5597,17.086,4.9597,Yes
+PA391,Step Length - usual gait,cm,54.9,63.144,48.0442,8.244,6.8558,Yes
+PA392,Step Length - usual gait,cm,54.0,75.072,56.6047,21.072,2.6047,Yes
+PA393,Step Length - usual gait,cm,48.4,75.675,59.0513,27.275,10.6513,Yes
+PA394,Step Length - usual gait,cm,62.0,77.644,62.7478,15.644,0.7478,Yes
+PA395,Step Length - usual gait,cm,66.3,84.101,69.6452,17.801,3.3452,Yes
+PA004,Stride Length - usual gait,cm,92.7,143.833,101.7458,51.133,9.0458,Yes
+PA005,Stride Length - usual gait,cm,124.8,144.903,132.3265,20.103,7.5265,Yes
+PA006,Stride Length - usual gait,cm,81.4,126.14,99.3526,44.74,17.9526,Yes
+PA018,Stride Length - usual gait,cm,81.0,135.244,99.766,54.244,18.766,Yes
+PA019,Stride Length - usual gait,cm,93.9,145.207,111.1185,51.307,17.2185,Yes
+PA020,Stride Length - usual gait,cm,131.2,139.933,107.71,8.733,23.49,No
+PA021,Stride Length - usual gait,cm,97.1,147.95,112.226,50.85,15.126,Yes
+PA022,Stride Length - usual gait,cm,94.4,137.556,113.7387,43.156,19.3387,Yes
+PA030,Stride Length - usual gait,cm,129.8,164.907,117.5499,35.107,12.2501,Yes
+PA031,Stride Length - usual gait,cm,110.0,163.542,124.2487,53.542,14.2487,Yes
+PA033,Stride Length - usual gait,cm,123.3,134.662,111.6718,11.362,11.6282,No
+PA035,Stride Length - usual gait,cm,99.6,157.676,116.4928,58.076,16.8928,Yes
+PA037,Stride Length - usual gait,cm,223.5,169.466,126.1466,54.034,97.3534,No
+PA040,Stride Length - usual gait,cm,88.1,123.762,96.6523,35.662,8.5523,Yes
+PA042,Stride Length - usual gait,cm,106.7,142.136,114.5729,35.436,7.8729,Yes
+PA043,Stride Length - usual gait,cm,113.7,168.083,139.3565,54.383,25.6565,Yes
+PA045,Stride Length - usual gait,cm,94.6,133.272,114.1417,38.672,19.5417,Yes
+PA047,Stride Length - usual gait,cm,101.0,143.658,118.1776,42.658,17.1776,Yes
+PA048,Stride Length - usual gait,cm,139.8,173.71,130.8607,33.91,8.9393,Yes
+PA049,Stride Length - usual gait,cm,95.1,109.91,101.2819,14.81,6.1819,Yes
+PA051,Stride Length - usual gait,cm,104.4,142.513,117.7053,38.113,13.3053,Yes
+PA052,Stride Length - usual gait,cm,175.5,167.245,138.0461,8.255,37.4539,No
+PA054,Stride Length - usual gait,cm,116.7,114.264,115.8836,2.436,0.8164,Yes
+PA057,Stride Length - usual gait,cm,112.0,133.0,109.8115,21.0,2.1885,Yes
+PA058,Stride Length - usual gait,cm,108.0,133.684,105.6927,25.684,2.3073,Yes
+PA059,Stride Length - usual gait,cm,132.2,142.156,112.5913,9.956,19.6087,No
+PA063,Stride Length - usual gait,cm,108.4,90.186,108.2646,18.214,0.1354,Yes
+PA066,Stride Length - usual gait,cm,101.1,152.045,117.9102,50.945,16.8102,Yes
+PA070,Stride Length - usual gait,cm,104.7,134.978,104.2956,30.278,0.4044,Yes
+PA072,Stride Length - usual gait,cm,110.6,115.4,101.4292,4.8,9.1708,No
+PA074,Stride Length - usual gait,cm,153.2,144.131,112.6491,9.069,40.5509,No
+PA079,Stride Length - usual gait,cm,99.0,112.432,101.0441,13.432,2.0441,Yes
+PA080,Stride Length - usual gait,cm,115.7,114.722,107.2236,0.978,8.4764,No
+PA081,Stride Length - usual gait,cm,84.9,116.24,98.087,31.34,13.187,Yes
+PA082,Stride Length - usual gait,cm,104.3,158.283,117.0466,53.983,12.7466,Yes
+PA083,Stride Length - usual gait,cm,96.3,137.958,108.3256,41.658,12.0256,Yes
+PA084,Stride Length - usual gait,cm,104.7,150.545,117.2767,45.845,12.5767,Yes
+PA091,Stride Length - usual gait,cm,91.8,150.433,114.5388,58.633,22.7388,Yes
+PA092,Stride Length - usual gait,cm,115.0,141.157,108.036,26.157,6.964,Yes
+PA093,Stride Length - usual gait,cm,170.8,201.046,146.6691,30.246,24.1309,Yes
+PA094,Stride Length - usual gait,cm,101.7,150.855,115.5827,49.155,13.8827,Yes
+PA096,Stride Length - usual gait,cm,108.7,153.602,114.6726,44.902,5.9726,Yes
+PA098,Stride Length - usual gait,cm,105.3,130.708,107.8968,25.408,2.5968,Yes
+PA099,Stride Length - usual gait,cm,134.8,167.154,126.604,32.354,8.196,Yes
+PA100,Stride Length - usual gait,cm,106.8,159.745,124.2294,52.945,17.4294,Yes
+PA106,Stride Length - usual gait,cm,100.9,127.201,101.6606,26.301,0.7606,Yes
+PA108,Stride Length - usual gait,cm,222.8,123.832,121.3521,98.968,101.4479,No
+PA112,Stride Length - usual gait,cm,108.8,118.445,106.6876,9.645,2.1124,Yes
+PA115,Stride Length - usual gait,cm,101.7,119.663,105.2029,17.963,3.5029,Yes
+PA116,Stride Length - usual gait,cm,103.0,149.871,115.4206,46.871,12.4206,Yes
+PA117,Stride Length - usual gait,cm,102.0,153.363,118.8931,51.363,16.8931,Yes
+PA118,Stride Length - usual gait,cm,116.3,137.909,106.3531,21.609,9.9469,Yes
+PA119,Stride Length - usual gait,cm,128.8,157.936,119.9903,29.136,8.8097,Yes
+PA120,Stride Length - usual gait,cm,178.4,149.14,115.0935,29.26,63.3065,No
+PA131,Stride Length - usual gait,cm,113.6,166.286,128.8979,52.686,15.2979,Yes
+PA133,Stride Length - usual gait,cm,113.9,155.09,116.6617,41.19,2.7617,Yes
+PA136,Stride Length - usual gait,cm,148.0,178.722,137.6183,30.722,10.3817,Yes
+PA137,Stride Length - usual gait,cm,124.0,123.705,108.2922,0.295,15.7078,No
+PA139,Stride Length - usual gait,cm,114.3,142.39,113.7234,28.09,0.5766,Yes
+PA144,Stride Length - usual gait,cm,86.4,138.026,102.8459,51.626,16.4459,Yes
+PA145,Stride Length - usual gait,cm,91.6,153.61,116.9421,62.01,25.3421,Yes
+PA147,Stride Length - usual gait,cm,104.0,130.188,100.0814,26.188,3.9186,Yes
+PA158,Stride Length - usual gait,cm,238.0,148.417,112.9484,89.583,125.0516,No
+PA159,Stride Length - usual gait,cm,100.4,92.969,112.8598,7.431,12.4598,No
+PA160,Stride Length - usual gait,cm,96.0,132.956,118.4719,36.956,22.4719,Yes
+PA162,Stride Length - usual gait,cm,95.3,156.009,106.6041,60.709,11.3041,Yes
+PA166,Stride Length - usual gait,cm,105.6,127.562,108.264,21.962,2.664,Yes
+PA167,Stride Length - usual gait,cm,97.7,121.93,99.042,24.23,1.342,Yes
+PA168,Stride Length - usual gait,cm,131.6,143.408,113.6444,11.808,17.9556,No
+PA170,Stride Length - usual gait,cm,106.4,132.07,104.5213,25.67,1.8787,Yes
+PA171,Stride Length - usual gait,cm,135.3,131.449,110.4269,3.851,24.8731,No
+PA172,Stride Length - usual gait,cm,110.3,139.969,117.9486,29.669,7.6486,Yes
+PA173,Stride Length - usual gait,cm,111.9,119.407,104.7861,7.507,7.1139,Yes
+PA175,Stride Length - usual gait,cm,98.0,138.763,109.4905,40.763,11.4905,Yes
+PA178,Stride Length - usual gait,cm,108.8,145.35,115.1671,36.55,6.3671,Yes
+PA184,Stride Length - usual gait,cm,124.6,149.414,114.1183,24.814,10.4817,Yes
+PA187,Stride Length - usual gait,cm,123.5,132.168,117.4731,8.668,6.0269,Yes
+PA188,Stride Length - usual gait,cm,79.2,130.073,93.759,50.873,14.559,Yes
+PA190,Stride Length - usual gait,cm,113.1,128.758,99.9921,15.658,13.1079,Yes
+PA191,Stride Length - usual gait,cm,103.2,157.263,120.175,54.063,16.975,Yes
+PA192,Stride Length - usual gait,cm,115.0,129.039,119.758,14.039,4.758,Yes
+PA196,Stride Length - usual gait,cm,112.2,137.284,120.9069,25.084,8.7069,Yes
+PA199,Stride Length - usual gait,cm,104.8,162.443,120.5244,57.643,15.7244,Yes
+PA200,Stride Length - usual gait,cm,149.0,156.691,119.7154,7.691,29.2846,No
+PA201,Stride Length - usual gait,cm,120.8,134.472,115.4441,13.672,5.3559,Yes
+PA203,Stride Length - usual gait,cm,158.6,141.555,109.0074,17.045,49.5926,No
+PA207,Stride Length - usual gait,cm,177.5,145.732,111.5948,31.768,65.9052,No
+PA208,Stride Length - usual gait,cm,99.6,130.411,103.1638,30.811,3.5638,Yes
+PA209,Stride Length - usual gait,cm,101.4,133.363,109.2557,31.963,7.8557,Yes
+PA210,Stride Length - usual gait,cm,115.0,177.013,130.7997,62.013,15.7997,Yes
+PA212,Stride Length - usual gait,cm,147.0,169.267,114.4599,22.267,32.5401,No
+PA213,Stride Length - usual gait,cm,127.3,178.946,143.9651,51.646,16.6651,Yes
+PA214,Stride Length - usual gait,cm,137.2,174.404,129.8952,37.204,7.3048,Yes
+PA215,Stride Length - usual gait,cm,97.6,165.459,125.4302,67.859,27.8302,Yes
+PA217,Stride Length - usual gait,cm,175.3,162.77,120.4191,12.53,54.8809,No
+PA219,Stride Length - usual gait,cm,106.0,136.828,106.7106,30.828,0.7106,Yes
+PA221,Stride Length - usual gait,cm,136.2,184.092,134.6396,47.892,1.5604,Yes
+PA224,Stride Length - usual gait,cm,90.3,120.373,104.54,30.073,14.24,Yes
+PA225,Stride Length - usual gait,cm,141.0,161.624,123.0028,20.624,17.9972,Yes
+PA227,Stride Length - usual gait,cm,115.0,156.354,112.5871,41.354,2.4129,Yes
+PA230,Stride Length - usual gait,cm,126.7,178.232,126.9266,51.532,0.2266,Yes
+PA232,Stride Length - usual gait,cm,101.7,129.489,104.4441,27.789,2.7441,Yes
+PA233,Stride Length - usual gait,cm,89.0,135.161,104.9822,46.161,15.9822,Yes
+PA234,Stride Length - usual gait,cm,86.0,130.705,103.7447,44.705,17.7447,Yes
+PA241,Stride Length - usual gait,cm,123.0,151.328,116.3585,28.328,6.6415,Yes
+PA242,Stride Length - usual gait,cm,125.7,108.153,101.6055,17.547,24.0945,No
+PA243,Stride Length - usual gait,cm,90.7,100.252,107.8338,9.552,17.1338,No
+PA246,Stride Length - usual gait,cm,102.9,158.417,122.5441,55.517,19.6441,Yes
+PA247,Stride Length - usual gait,cm,114.3,158.335,113.4604,44.035,0.8396,Yes
+PA248,Stride Length - usual gait,cm,111.6,113.432,107.3764,1.832,4.2236,No
+PA249,Stride Length - usual gait,cm,154.8,147.534,119.2376,7.266,35.5624,No
+PA252,Stride Length - usual gait,cm,133.3,176.858,130.9484,43.558,2.3516,Yes
+PA257,Stride Length - usual gait,cm,104.3,128.766,115.0142,24.466,10.7142,Yes
+PA261,Stride Length - usual gait,cm,110.0,146.849,111.9295,36.849,1.9295,Yes
+PA266,Stride Length - usual gait,cm,135.2,177.441,127.3171,42.241,7.8829,Yes
+PA267,Stride Length - usual gait,cm,113.9,145.129,109.6259,31.229,4.2741,Yes
+PA268,Stride Length - usual gait,cm,119.0,141.896,106.5038,22.896,12.4962,Yes
+PA270,Stride Length - usual gait,cm,136.8,110.442,106.6223,26.358,30.1777,No
+PA274,Stride Length - usual gait,cm,135.2,162.707,124.3533,27.507,10.8467,Yes
+PA276,Stride Length - usual gait,cm,91.0,140.895,103.7537,49.895,12.7537,Yes
+PA277,Stride Length - usual gait,cm,80.9,130.445,101.9804,49.545,21.0804,Yes
+PA280,Stride Length - usual gait,cm,96.5,144.355,106.5577,47.855,10.0577,Yes
+PA284,Stride Length - usual gait,cm,99.0,136.465,111.7909,37.465,12.7909,Yes
+PA285,Stride Length - usual gait,cm,113.9,131.136,100.7644,17.236,13.1356,Yes
+PA288,Stride Length - usual gait,cm,93.0,142.314,105.5939,49.314,12.5939,Yes
+PA289,Stride Length - usual gait,cm,156.4,146.517,127.389,9.883,29.011,No
+PA290,Stride Length - usual gait,cm,108.7,142.444,106.8928,33.744,1.8072,Yes
+PA292,Stride Length - usual gait,cm,124.8,154.527,103.609,29.727,21.191,Yes
+PA293,Stride Length - usual gait,cm,103.0,120.838,102.1445,17.838,0.8555,Yes
+PA296,Stride Length - usual gait,cm,113.6,124.038,101.7595,10.438,11.8405,No
+PA297,Stride Length - usual gait,cm,97.8,133.318,107.2599,35.518,9.4599,Yes
+PA299,Stride Length - usual gait,cm,100.3,153.43,128.5489,53.13,28.2489,Yes
+PA300,Stride Length - usual gait,cm,147.0,162.932,117.1522,15.932,29.8478,No
+PA302,Stride Length - usual gait,cm,124.7,148.757,113.3188,24.057,11.3812,Yes
+PA303,Stride Length - usual gait,cm,80.9,144.364,104.0805,63.464,23.1805,Yes
+PA304,Stride Length - usual gait,cm,96.0,123.919,103.1811,27.919,7.1811,Yes
+PA305,Stride Length - usual gait,cm,151.0,146.894,114.4712,4.106,36.5288,No
+PA309,Stride Length - usual gait,cm,120.7,172.926,117.974,52.226,2.726,Yes
+PA311,Stride Length - usual gait,cm,98.5,152.312,113.6499,53.812,15.1499,Yes
+PA312,Stride Length - usual gait,cm,133.2,151.523,129.5845,18.323,3.6155,Yes
+PA314,Stride Length - usual gait,cm,112.9,172.68,122.2594,59.78,9.3594,Yes
+PA319,Stride Length - usual gait,cm,97.2,155.276,120.876,58.076,23.676,Yes
+PA320,Stride Length - usual gait,cm,98.5,136.496,109.6448,37.996,11.1448,Yes
+PA326,Stride Length - usual gait,cm,140.5,145.474,118.8331,4.974,21.6669,No
+PA331,Stride Length - usual gait,cm,107.7,157.041,116.0158,49.341,8.3158,Yes
+PA333,Stride Length - usual gait,cm,141.3,130.342,104.9796,10.958,36.3204,No
+PA334,Stride Length - usual gait,cm,111.7,161.976,111.5387,50.276,0.1613,Yes
+PA336,Stride Length - usual gait,cm,104.6,163.266,101.888,58.666,2.712,Yes
+PA337,Stride Length - usual gait,cm,104.7,150.695,110.1602,45.995,5.4602,Yes
+PA339,Stride Length - usual gait,cm,92.6,154.692,118.1262,62.092,25.5262,Yes
+PA340,Stride Length - usual gait,cm,117.0,153.315,121.2814,36.315,4.2814,Yes
+PA341,Stride Length - usual gait,cm,92.9,122.644,103.8736,29.744,10.9736,Yes
+PA343,Stride Length - usual gait,cm,125.7,114.809,118.9268,10.891,6.7732,Yes
+PA344,Stride Length - usual gait,cm,95.0,146.618,106.8518,51.618,11.8518,Yes
+PA347,Stride Length - usual gait,cm,92.0,114.23,101.1653,22.23,9.1653,Yes
+PA350,Stride Length - usual gait,cm,102.7,111.895,95.2471,9.195,7.4529,Yes
+PA351,Stride Length - usual gait,cm,166.8,144.189,104.2221,22.611,62.5779,No
+PA352,Stride Length - usual gait,cm,118.5,156.0,116.6783,37.5,1.8217,Yes
+PA354,Stride Length - usual gait,cm,152.8,178.357,130.0157,25.557,22.7843,Yes
+PA355,Stride Length - usual gait,cm,144.8,119.054,106.6193,25.746,38.1807,No
+PA356,Stride Length - usual gait,cm,94.9,124.398,109.0297,29.498,14.1297,Yes
+PA358,Stride Length - usual gait,cm,95.7,136.415,99.7647,40.715,4.0647,Yes
+PA360,Stride Length - usual gait,cm,140.5,163.178,121.7083,22.678,18.7917,Yes
+PA363,Stride Length - usual gait,cm,107.0,149.14,116.6462,42.14,9.6462,Yes
+PA366,Stride Length - usual gait,cm,104.7,139.815,103.8741,35.115,0.8259,Yes
+PA369,Stride Length - usual gait,cm,122.2,140.761,106.682,18.561,15.518,Yes
+PA371,Stride Length - usual gait,cm,105.7,132.578,99.6974,26.878,6.0026,Yes
+PA372,Stride Length - usual gait,cm,91.9,144.755,108.786,52.855,16.886,Yes
+PA375,Stride Length - usual gait,cm,124.7,182.17,138.0707,57.47,13.3707,Yes
+PA377,Stride Length - usual gait,cm,75.0,127.26,95.9076,52.26,20.9076,Yes
+PA380,Stride Length - usual gait,cm,106.6,173.811,142.1517,67.211,35.5517,Yes
+PA382,Stride Length - usual gait,cm,118.5,135.033,109.8227,16.533,8.6773,Yes
+PA383,Stride Length - usual gait,cm,116.4,176.702,124.233,60.302,7.833,Yes
+PA386,Stride Length - usual gait,cm,118.3,141.176,112.5877,22.876,5.7123,Yes
+PA387,Stride Length - usual gait,cm,135.0,150.003,115.0622,15.003,19.9378,No
+PA388,Stride Length - usual gait,cm,83.0,130.433,105.1523,47.433,22.1523,Yes
+PA389,Stride Length - usual gait,cm,78.3,128.939,100.9711,50.639,22.6711,Yes
+PA390,Stride Length - usual gait,cm,91.6,130.56,100.9183,38.96,9.3183,Yes
+PA391,Stride Length - usual gait,cm,113.3,105.573,97.6237,7.727,15.6763,No
+PA392,Stride Length - usual gait,cm,109.9,139.743,114.8572,29.843,4.9572,Yes
+PA393,Stride Length - usual gait,cm,100.1,158.856,120.9941,58.756,20.8941,Yes
+PA394,Stride Length - usual gait,cm,126.5,166.177,129.0917,39.677,2.5917,Yes
+PA395,Stride Length - usual gait,cm,136.0,183.836,139.6221,47.836,3.6221,Yes
+PA004,Cadence - usual gait,steps/min,100.79,103.248,106.9701,2.458,6.1801,No
+PA005,Cadence - usual gait,steps/min,118.06,119.133,112.9588,1.073,5.1012,No
+PA006,Cadence - usual gait,steps/min,107.45,105.797,106.5273,1.653,0.9227,Yes
+PA018,Cadence - usual gait,steps/min,116.81,115.74,112.2142,1.07,4.5958,No
+PA019,Cadence - usual gait,steps/min,121.55,116.181,113.0803,5.369,8.4697,No
+PA020,Cadence - usual gait,steps/min,147.19,112.594,115.8962,34.596,31.2938,Yes
+PA021,Cadence - usual gait,steps/min,121.19,116.134,114.356,5.056,6.834,No
+PA022,Cadence - usual gait,steps/min,115.06,118.688,114.1924,3.628,0.8676,Yes
+PA030,Cadence - usual gait,steps/min,125.82,123.222,117.007,2.598,8.813,No
+PA031,Cadence - usual gait,steps/min,132.09,127.665,120.2721,4.425,11.8179,No
+PA033,Cadence - usual gait,steps/min,95.84,119.844,114.4575,24.004,18.6175,Yes
+PA035,Cadence - usual gait,steps/min,120.95,113.773,115.6929,7.177,5.2571,Yes
+PA037,Cadence - usual gait,steps/min,117.04,128.268,126.5324,11.228,9.4924,Yes
+PA040,Cadence - usual gait,steps/min,112.66,118.142,113.7823,5.482,1.1223,Yes
+PA042,Cadence - usual gait,steps/min,125.54,117.645,116.0217,7.895,9.5183,No
+PA043,Cadence - usual gait,steps/min,126.84,126.231,117.0343,0.609,9.8057,No
+PA045,Cadence - usual gait,steps/min,115.56,134.512,124.5421,18.952,8.9821,Yes
+PA047,Cadence - usual gait,steps/min,110.12,112.167,112.1242,2.047,2.0042,Yes
+PA048,Cadence - usual gait,steps/min,124.86,119.164,111.9731,5.696,12.8869,No
+PA049,Cadence - usual gait,steps/min,104.7,114.655,110.0431,9.955,5.3431,Yes
+PA051,Cadence - usual gait,steps/min,130.65,131.621,121.8393,0.971,8.8107,No
+PA052,Cadence - usual gait,steps/min,98.47,125.014,115.948,26.544,17.478,Yes
+PA054,Cadence - usual gait,steps/min,127.17,119.774,114.5942,7.396,12.5758,No
+PA057,Cadence - usual gait,steps/min,114.98,130.24,122.9132,15.26,7.9332,Yes
+PA058,Cadence - usual gait,steps/min,101.91,115.854,110.6635,13.944,8.7535,Yes
+PA059,Cadence - usual gait,steps/min,113.62,109.842,110.4166,3.778,3.2034,Yes
+PA063,Cadence - usual gait,steps/min,129.84,124.317,118.9118,5.523,10.9282,No
+PA066,Cadence - usual gait,steps/min,132.31,127.247,120.7474,5.063,11.5626,No
+PA070,Cadence - usual gait,steps/min,112.75,110.062,112.2538,2.688,0.4962,Yes
+PA072,Cadence - usual gait,steps/min,110.84,122.874,117.6409,12.034,6.8009,Yes
+PA074,Cadence - usual gait,steps/min,80.49,134.855,123.5546,54.365,43.0646,Yes
+PA079,Cadence - usual gait,steps/min,99.89,104.195,106.9322,4.305,7.0422,No
+PA080,Cadence - usual gait,steps/min,106.08,114.138,112.2409,8.058,6.1609,Yes
+PA081,Cadence - usual gait,steps/min,126.66,136.828,126.3075,10.168,0.3525,Yes
+PA082,Cadence - usual gait,steps/min,106.51,116.815,113.2291,10.305,6.7191,Yes
+PA083,Cadence - usual gait,steps/min,109.24,109.653,107.5136,0.413,1.7264,No
+PA084,Cadence - usual gait,steps/min,124.7,128.837,120.236,4.137,4.464,No
+PA091,Cadence - usual gait,steps/min,137.6,113.937,111.2707,23.663,26.3293,No
+PA092,Cadence - usual gait,steps/min,111.52,130.676,120.9021,19.156,9.3821,Yes
+PA093,Cadence - usual gait,steps/min,109.27,130.707,121.5359,21.437,12.2659,Yes
+PA094,Cadence - usual gait,steps/min,130.37,129.177,120.6799,1.193,9.6901,No
+PA096,Cadence - usual gait,steps/min,100.6,122.332,117.0633,21.732,16.4633,Yes
+PA098,Cadence - usual gait,steps/min,122.6,123.898,117.0071,1.298,5.5929,No
+PA099,Cadence - usual gait,steps/min,128.4,121.685,124.853,6.715,3.547,Yes
+PA100,Cadence - usual gait,steps/min,129.78,132.104,120.5502,2.324,9.2298,No
+PA106,Cadence - usual gait,steps/min,103.69,115.867,113.7363,12.177,10.0463,Yes
+PA108,Cadence - usual gait,steps/min,98.93,125.61,118.2201,26.68,19.2901,Yes
+PA112,Cadence - usual gait,steps/min,95.46,109.442,110.2544,13.982,14.7944,No
+PA115,Cadence - usual gait,steps/min,121.16,111.02,107.8909,10.14,13.2691,No
+PA116,Cadence - usual gait,steps/min,131.96,128.232,121.6992,3.728,10.2608,No
+PA117,Cadence - usual gait,steps/min,115.07,114.098,109.0372,0.972,6.0328,No
+PA118,Cadence - usual gait,steps/min,108.58,120.843,117.2477,12.263,8.6677,Yes
+PA119,Cadence - usual gait,steps/min,127.72,126.139,116.8031,1.581,10.9169,No
+PA120,Cadence - usual gait,steps/min,88.65,118.083,113.0134,29.433,24.3634,Yes
+PA131,Cadence - usual gait,steps/min,131.72,126.823,122.0758,4.897,9.6442,No
+PA133,Cadence - usual gait,steps/min,128.15,124.359,118.3935,3.791,9.7565,No
+PA136,Cadence - usual gait,steps/min,112.03,128.301,119.1245,16.271,7.0945,Yes
+PA137,Cadence - usual gait,steps/min,133.07,125.524,117.5524,7.546,15.5176,No
+PA139,Cadence - usual gait,steps/min,130.66,126.992,120.0909,3.668,10.5691,No
+PA144,Cadence - usual gait,steps/min,103.26,114.225,111.2084,10.965,7.9484,Yes
+PA145,Cadence - usual gait,steps/min,108.5,113.584,111.1371,5.084,2.6371,Yes
+PA147,Cadence - usual gait,steps/min,120.33,115.089,110.8173,5.241,9.5127,No
+PA158,Cadence - usual gait,steps/min,76.26,124.566,116.4433,48.306,40.1833,Yes
+PA159,Cadence - usual gait,steps/min,113.37,112.906,108.8464,0.464,4.5236,No
+PA160,Cadence - usual gait,steps/min,126.37,129.01,120.5816,2.64,5.7884,No
+PA162,Cadence - usual gait,steps/min,93.19,99.585,102.7226,6.395,9.5326,No
+PA166,Cadence - usual gait,steps/min,131.73,108.965,101.2379,22.765,30.4921,No
+PA167,Cadence - usual gait,steps/min,123.41,116.203,113.3287,7.207,10.0813,No
+PA168,Cadence - usual gait,steps/min,124.91,122.276,115.1961,2.634,9.7139,No
+PA170,Cadence - usual gait,steps/min,121.66,121.497,116.1275,0.163,5.5325,No
+PA171,Cadence - usual gait,steps/min,107.13,107.97,108.1801,0.84,1.0501,No
+PA172,Cadence - usual gait,steps/min,129.53,124.919,116.0234,4.611,13.5066,No
+PA173,Cadence - usual gait,steps/min,101.21,108.608,109.1726,7.398,7.9626,No
+PA175,Cadence - usual gait,steps/min,131.25,123.341,116.4066,7.909,14.8434,No
+PA178,Cadence - usual gait,steps/min,118.27,118.772,112.5492,0.502,5.7208,No
+PA184,Cadence - usual gait,steps/min,122.31,115.431,112.7463,6.879,9.5637,No
+PA187,Cadence - usual gait,steps/min,97.46,124.654,119.8183,27.194,22.3583,Yes
+PA188,Cadence - usual gait,steps/min,90.91,92.487,101.9856,1.577,11.0756,No
+PA190,Cadence - usual gait,steps/min,112.81,119.425,114.9956,6.615,2.1856,Yes
+PA191,Cadence - usual gait,steps/min,123.03,122.963,115.0734,0.067,7.9566,No
+PA192,Cadence - usual gait,steps/min,108.38,135.378,125.2594,26.998,16.8794,Yes
+PA196,Cadence - usual gait,steps/min,112.21,136.843,121.9075,24.633,9.6975,Yes
+PA199,Cadence - usual gait,steps/min,105.59,126.281,118.3279,20.691,12.7379,Yes
+PA200,Cadence - usual gait,steps/min,113.55,117.288,112.9541,3.738,0.5959,Yes
+PA201,Cadence - usual gait,steps/min,104.1,110.373,111.4019,6.273,7.3019,No
+PA203,Cadence - usual gait,steps/min,92.21,115.83,113.4454,23.62,21.2354,Yes
+PA207,Cadence - usual gait,steps/min,91.31,114.603,112.9391,23.293,21.6291,Yes
+PA208,Cadence - usual gait,steps/min,125.76,126.983,118.8175,1.223,6.9425,No
+PA209,Cadence - usual gait,steps/min,127.98,130.727,118.1872,2.747,9.7928,No
+PA210,Cadence - usual gait,steps/min,134.62,127.232,121.6076,7.388,13.0124,No
+PA212,Cadence - usual gait,steps/min,94.73,102.597,105.6331,7.867,10.9031,No
+PA213,Cadence - usual gait,steps/min,130.82,136.146,126.3924,5.326,4.4276,Yes
+PA214,Cadence - usual gait,steps/min,118.02,118.022,110.4632,0.002,7.5568,No
+PA215,Cadence - usual gait,steps/min,117.32,127.052,118.9431,9.732,1.6231,Yes
+PA217,Cadence - usual gait,steps/min,98.7,111.985,111.6497,13.285,12.9497,Yes
+PA219,Cadence - usual gait,steps/min,113.94,116.155,112.3616,2.215,1.5784,Yes
+PA221,Cadence - usual gait,steps/min,124.51,123.405,116.3833,1.105,8.1267,No
+PA224,Cadence - usual gait,steps/min,109.72,121.611,115.4766,11.891,5.7566,Yes
+PA225,Cadence - usual gait,steps/min,113.42,112.589,113.2456,0.831,0.1744,Yes
+PA227,Cadence - usual gait,steps/min,115.63,109.406,108.0862,6.224,7.5438,No
+PA230,Cadence - usual gait,steps/min,121.11,125.261,120.0569,4.151,1.0531,Yes
+PA232,Cadence - usual gait,steps/min,97.07,109.566,110.721,12.496,13.651,No
+PA233,Cadence - usual gait,steps/min,98.11,104.433,104.8637,6.323,6.7537,No
+PA234,Cadence - usual gait,steps/min,137.53,113.141,109.7782,24.389,27.7518,No
+PA241,Cadence - usual gait,steps/min,116.58,118.817,116.8912,2.237,0.3112,Yes
+PA242,Cadence - usual gait,steps/min,110.96,123.51,119.166,12.55,8.206,Yes
+PA243,Cadence - usual gait,steps/min,136.85,131.036,119.6447,5.814,17.2053,No
+PA246,Cadence - usual gait,steps/min,125.06,112.3,107.7152,12.76,17.3448,No
+PA247,Cadence - usual gait,steps/min,131.16,125.029,117.5273,6.131,13.6327,No
+PA248,Cadence - usual gait,steps/min,122.29,127.742,118.9711,5.452,3.3189,Yes
+PA249,Cadence - usual gait,steps/min,113.6,144.265,134.5652,30.665,20.9652,Yes
+PA252,Cadence - usual gait,steps/min,111.74,120.969,115.9226,9.229,4.1826,Yes
+PA257,Cadence - usual gait,steps/min,119.7,114.942,114.1192,4.758,5.5808,No
+PA261,Cadence - usual gait,steps/min,122.77,120.561,116.4896,2.209,6.2804,No
+PA266,Cadence - usual gait,steps/min,114.29,127.268,116.6572,12.978,2.3672,Yes
+PA267,Cadence - usual gait,steps/min,124.39,129.88,122.1621,5.49,2.2279,Yes
+PA268,Cadence - usual gait,steps/min,115.6,129.613,119.4458,14.013,3.8458,Yes
+PA270,Cadence - usual gait,steps/min,94.23,106.049,104.1573,11.819,9.9273,Yes
+PA274,Cadence - usual gait,steps/min,100.93,124.032,116.889,23.102,15.959,Yes
+PA276,Cadence - usual gait,steps/min,122.93,116.456,113.1588,6.474,9.7712,No
+PA277,Cadence - usual gait,steps/min,119.53,116.825,113.2464,2.705,6.2836,No
+PA280,Cadence - usual gait,steps/min,96.36,93.456,98.8383,2.904,2.4783,Yes
+PA284,Cadence - usual gait,steps/min,131.89,131.085,120.7302,0.805,11.1598,No
+PA285,Cadence - usual gait,steps/min,108.21,109.226,109.6389,1.016,1.4289,No
+PA288,Cadence - usual gait,steps/min,127.15,128.9,120.5238,1.75,6.6262,No
+PA289,Cadence - usual gait,steps/min,111.69,124.741,116.4294,13.051,4.7394,Yes
+PA290,Cadence - usual gait,steps/min,107.45,122.518,119.409,15.068,11.959,Yes
+PA292,Cadence - usual gait,steps/min,99.04,100.767,104.8655,1.727,5.8255,No
+PA293,Cadence - usual gait,steps/min,123.46,112.781,111.174,10.679,12.286,No
+PA296,Cadence - usual gait,steps/min,107.72,116.56,113.9011,8.84,6.1811,Yes
+PA297,Cadence - usual gait,steps/min,119.96,120.656,114.0468,0.696,5.9132,No
+PA299,Cadence - usual gait,steps/min,114.94,115.849,115.2636,0.909,0.3236,Yes
+PA300,Cadence - usual gait,steps/min,113.99,116.013,113.7986,2.023,0.1914,Yes
+PA302,Cadence - usual gait,steps/min,129.73,128.561,123.8839,1.169,5.8461,No
+PA303,Cadence - usual gait,steps/min,100.82,104.272,107.1544,3.452,6.3344,No
+PA304,Cadence - usual gait,steps/min,123.12,118.603,115.0554,4.517,8.0646,No
+PA305,Cadence - usual gait,steps/min,97.75,119.62,114.3415,21.87,16.5915,Yes
+PA309,Cadence - usual gait,steps/min,108.77,108.026,106.4335,0.744,2.3365,No
+PA311,Cadence - usual gait,steps/min,123.48,125.195,116.8539,1.715,6.6261,No
+PA312,Cadence - usual gait,steps/min,115.67,116.468,113.9127,0.798,1.7573,No
+PA314,Cadence - usual gait,steps/min,110.63,115.293,115.2416,4.663,4.6116,Yes
+PA319,Cadence - usual gait,steps/min,141.64,133.73,124.5313,7.91,17.1087,No
+PA320,Cadence - usual gait,steps/min,148.34,129.129,120.6834,19.211,27.6566,No
+PA326,Cadence - usual gait,steps/min,96.12,112.657,110.3484,16.537,14.2284,Yes
+PA331,Cadence - usual gait,steps/min,120.6,115.279,113.4873,5.321,7.1127,No
+PA333,Cadence - usual gait,steps/min,108.2,120.417,115.6804,12.217,7.4804,Yes
+PA334,Cadence - usual gait,steps/min,104.19,100.754,101.9325,3.436,2.2575,Yes
+PA336,Cadence - usual gait,steps/min,126.42,107.594,107.3803,18.826,19.0397,No
+PA337,Cadence - usual gait,steps/min,109.62,111.068,110.5764,1.448,0.9564,Yes
+PA339,Cadence - usual gait,steps/min,116.3,130.664,119.7252,14.364,3.4252,Yes
+PA340,Cadence - usual gait,steps/min,112.15,118.101,113.66,5.951,1.51,Yes
+PA341,Cadence - usual gait,steps/min,120.58,102.823,104.329,17.757,16.251,Yes
+PA343,Cadence - usual gait,steps/min,138.62,135.597,123.0241,3.023,15.5959,No
+PA344,Cadence - usual gait,steps/min,94.19,102.097,106.8437,7.907,12.6537,No
+PA347,Cadence - usual gait,steps/min,119.97,115.118,111.8398,4.852,8.1302,No
+PA350,Cadence - usual gait,steps/min,111.11,111.359,111.4736,0.249,0.3636,No
+PA351,Cadence - usual gait,steps/min,97.68,124.899,119.9844,27.219,22.3044,Yes
+PA352,Cadence - usual gait,steps/min,138.51,129.316,119.1041,9.194,19.4059,No
+PA354,Cadence - usual gait,steps/min,99.72,116.315,115.9304,16.595,16.2104,Yes
+PA355,Cadence - usual gait,steps/min,111.43,130.396,122.4016,18.966,10.9716,Yes
+PA356,Cadence - usual gait,steps/min,121.73,122.206,121.2067,0.476,0.5233,No
+PA358,Cadence - usual gait,steps/min,124.15,109.673,112.2677,14.477,11.8823,Yes
+PA360,Cadence - usual gait,steps/min,94.25,118.697,113.5388,24.447,19.2888,Yes
+PA363,Cadence - usual gait,steps/min,127.45,124.795,118.7484,2.655,8.7016,No
+PA366,Cadence - usual gait,steps/min,105.02,116.873,114.7885,11.853,9.7685,Yes
+PA369,Cadence - usual gait,steps/min,121.33,128.885,122.1573,7.555,0.8273,Yes
+PA371,Cadence - usual gait,steps/min,104.87,120.511,115.8185,15.641,10.9485,Yes
+PA372,Cadence - usual gait,steps/min,108.05,122.276,113.2673,14.226,5.2173,Yes
+PA375,Cadence - usual gait,steps/min,112.56,122.898,116.2525,10.338,3.6925,Yes
+PA377,Cadence - usual gait,steps/min,114.07,114.604,112.6908,0.534,1.3792,No
+PA380,Cadence - usual gait,steps/min,134.85,117.34,113.2095,17.51,21.6405,No
+PA382,Cadence - usual gait,steps/min,117.58,111.533,110.3938,6.047,7.1862,No
+PA383,Cadence - usual gait,steps/min,114.42,120.199,114.1047,5.779,0.3153,Yes
+PA386,Cadence - usual gait,steps/min,113.6,112.676,108.9539,0.924,4.6461,No
+PA387,Cadence - usual gait,steps/min,106.26,102.666,101.9322,3.594,4.3278,No
+PA388,Cadence - usual gait,steps/min,112.63,121.491,116.5814,8.861,3.9514,Yes
+PA389,Cadence - usual gait,steps/min,125.71,123.848,116.7157,1.862,8.9943,No
+PA390,Cadence - usual gait,steps/min,122.14,117.653,116.78,4.487,5.36,No
+PA391,Cadence - usual gait,steps/min,104.8,105.618,106.4895,0.818,1.6895,No
+PA392,Cadence - usual gait,steps/min,120.28,128.12,119.7756,7.84,0.5044,Yes
+PA393,Cadence - usual gait,steps/min,124.1,127.877,120.4726,3.777,3.6274,Yes
+PA394,Cadence - usual gait,steps/min,123.5,120.158,115.715,3.342,7.785,No
+PA395,Cadence - usual gait,steps/min,128.54,118.841,113.9491,9.699,14.5909,No
+PA004,Gait Speed - usual gait,m/s,1.33,1.205,1.3166,0.125,0.0134,Yes
+PA005,Gait Speed - usual gait,m/s,1.8,1.668,1.5899,0.132,0.2101,No
+PA006,Gait Speed - usual gait,m/s,1.2,1.146,1.2894,0.054,0.0894,No
+PA018,Gait Speed - usual gait,m/s,1.39,1.299,1.3727,0.091,0.0173,Yes
+PA019,Gait Speed - usual gait,m/s,1.63,1.355,1.478,0.275,0.152,Yes
+PA020,Gait Speed - usual gait,m/s,1.68,1.38,1.4899,0.3,0.1901,Yes
+PA021,Gait Speed - usual gait,m/s,1.47,1.486,1.5054,0.016,0.0354,No
+PA022,Gait Speed - usual gait,m/s,1.35,1.52,1.5194,0.17,0.1694,Yes
+PA030,Gait Speed - usual gait,m/s,1.91,1.725,1.6328,0.185,0.2772,No
+PA031,Gait Speed - usual gait,m/s,1.89,1.787,1.6874,0.103,0.2026,No
+PA033,Gait Speed - usual gait,m/s,1.47,1.466,1.5112,0.004,0.0412,No
+PA035,Gait Speed - usual gait,m/s,1.7,1.527,1.5667,0.173,0.1333,Yes
+PA037,Gait Speed - usual gait,m/s,1.71,2.029,1.9102,0.319,0.2002,Yes
+PA040,Gait Speed - usual gait,m/s,1.3,1.446,1.4434,0.146,0.1434,Yes
+PA042,Gait Speed - usual gait,m/s,1.71,1.583,1.5849,0.127,0.1251,Yes
+PA043,Gait Speed - usual gait,m/s,1.8,1.767,1.7064,0.033,0.0936,No
+PA045,Gait Speed - usual gait,m/s,1.5,1.569,1.6362,0.069,0.1362,No
+PA047,Gait Speed - usual gait,m/s,1.61,1.57,1.5428,0.04,0.0672,No
+PA048,Gait Speed - usual gait,m/s,1.85,1.603,1.6298,0.247,0.2202,Yes
+PA049,Gait Speed - usual gait,m/s,1.38,1.241,1.3772,0.139,0.0028,Yes
+PA051,Gait Speed - usual gait,m/s,1.81,1.769,1.6898,0.041,0.1202,No
+PA052,Gait Speed - usual gait,m/s,1.47,1.857,1.7379,0.387,0.2679,Yes
+PA054,Gait Speed - usual gait,m/s,1.81,1.677,1.5381,0.133,0.2719,No
+PA057,Gait Speed - usual gait,m/s,1.55,1.672,1.6251,0.122,0.0751,Yes
+PA058,Gait Speed - usual gait,m/s,1.29,1.419,1.4145,0.129,0.1245,Yes
+PA059,Gait Speed - usual gait,m/s,1.44,1.472,1.4535,0.032,0.0135,Yes
+PA063,Gait Speed - usual gait,m/s,1.92,1.665,1.6013,0.255,0.3187,No
+PA066,Gait Speed - usual gait,m/s,1.69,1.707,1.6483,0.017,0.0417,No
+PA070,Gait Speed - usual gait,m/s,1.39,1.284,1.4114,0.106,0.0214,Yes
+PA072,Gait Speed - usual gait,m/s,1.49,1.383,1.4704,0.107,0.0196,Yes
+PA074,Gait Speed - usual gait,m/s,1.69,1.573,1.6238,0.117,0.0662,Yes
+PA079,Gait Speed - usual gait,m/s,1.29,1.127,1.2917,0.163,0.0017,Yes
+PA080,Gait Speed - usual gait,m/s,1.55,1.286,1.3796,0.264,0.1704,Yes
+PA081,Gait Speed - usual gait,m/s,1.31,1.596,1.5314,0.286,0.2214,Yes
+PA082,Gait Speed - usual gait,m/s,1.36,1.635,1.6172,0.275,0.2572,Yes
+PA083,Gait Speed - usual gait,m/s,1.18,1.279,1.386,0.099,0.206,No
+PA084,Gait Speed - usual gait,m/s,1.71,1.727,1.6626,0.017,0.0474,No
+PA091,Gait Speed - usual gait,m/s,1.39,1.524,1.4835,0.134,0.0935,Yes
+PA092,Gait Speed - usual gait,m/s,1.4,1.473,1.5608,0.073,0.1608,No
+PA093,Gait Speed - usual gait,m/s,1.9,2.163,1.9685,0.263,0.0685,Yes
+PA094,Gait Speed - usual gait,m/s,1.95,1.653,1.6317,0.297,0.3183,No
+PA096,Gait Speed - usual gait,m/s,1.37,1.642,1.5891,0.272,0.2191,Yes
+PA098,Gait Speed - usual gait,m/s,1.69,1.586,1.5578,0.104,0.1322,No
+PA099,Gait Speed - usual gait,m/s,2.04,1.911,1.8368,0.129,0.2032,No
+PA100,Gait Speed - usual gait,m/s,1.83,1.849,1.7448,0.019,0.0852,No
+PA106,Gait Speed - usual gait,m/s,1.18,1.372,1.425,0.192,0.245,No
+PA108,Gait Speed - usual gait,m/s,1.53,1.759,1.6296,0.229,0.0996,Yes
+PA112,Gait Speed - usual gait,m/s,1.3,1.339,1.4067,0.039,0.1067,No
+PA115,Gait Speed - usual gait,m/s,1.66,1.421,1.4029,0.239,0.2571,No
+PA116,Gait Speed - usual gait,m/s,1.69,1.647,1.6372,0.043,0.0528,No
+PA117,Gait Speed - usual gait,m/s,1.43,1.394,1.4716,0.036,0.0416,No
+PA118,Gait Speed - usual gait,m/s,1.61,1.483,1.4843,0.127,0.1257,Yes
+PA119,Gait Speed - usual gait,m/s,1.61,1.694,1.6324,0.084,0.0224,Yes
+PA120,Gait Speed - usual gait,m/s,1.46,1.584,1.5097,0.124,0.0497,Yes
+PA131,Gait Speed - usual gait,m/s,1.72,1.807,1.7878,0.087,0.0678,Yes
+PA133,Gait Speed - usual gait,m/s,1.62,1.598,1.6191,0.022,0.0009,Yes
+PA136,Gait Speed - usual gait,m/s,1.86,1.901,1.7777,0.041,0.0823,No
+PA137,Gait Speed - usual gait,m/s,1.84,1.682,1.6224,0.158,0.2176,No
+PA139,Gait Speed - usual gait,m/s,1.63,1.7,1.6309,0.07,0.0009,Yes
+PA144,Gait Speed - usual gait,m/s,1.2,1.239,1.403,0.039,0.203,No
+PA145,Gait Speed - usual gait,m/s,1.24,1.52,1.4882,0.28,0.2482,Yes
+PA147,Gait Speed - usual gait,m/s,1.64,1.199,1.3669,0.441,0.2731,Yes
+PA158,Gait Speed - usual gait,m/s,1.57,1.405,1.4958,0.165,0.0742,Yes
+PA159,Gait Speed - usual gait,m/s,1.47,1.386,1.4458,0.084,0.0242,Yes
+PA160,Gait Speed - usual gait,m/s,1.5,1.657,1.6348,0.157,0.1348,Yes
+PA162,Gait Speed - usual gait,m/s,1.08,1.277,1.302,0.197,0.222,No
+PA166,Gait Speed - usual gait,m/s,1.53,1.458,1.3901,0.072,0.1399,No
+PA167,Gait Speed - usual gait,m/s,1.53,1.558,1.481,0.028,0.049,No
+PA168,Gait Speed - usual gait,m/s,1.58,1.496,1.5351,0.084,0.0449,Yes
+PA170,Gait Speed - usual gait,m/s,1.67,1.365,1.4737,0.305,0.1963,Yes
+PA171,Gait Speed - usual gait,m/s,1.48,1.383,1.403,0.097,0.077,Yes
+PA172,Gait Speed - usual gait,m/s,1.62,1.457,1.514,0.163,0.106,Yes
+PA173,Gait Speed - usual gait,m/s,1.48,1.267,1.4,0.213,0.08,Yes
+PA175,Gait Speed - usual gait,m/s,1.66,1.439,1.5164,0.221,0.1436,Yes
+PA178,Gait Speed - usual gait,m/s,1.5,1.524,1.5388,0.024,0.0388,No
+PA184,Gait Speed - usual gait,m/s,1.52,1.616,1.4991,0.096,0.0209,Yes
+PA187,Gait Speed - usual gait,m/s,1.53,1.745,1.6413,0.215,0.1113,Yes
+PA188,Gait Speed - usual gait,m/s,0.93,1.003,1.1804,0.073,0.2504,No
+PA190,Gait Speed - usual gait,m/s,1.51,1.29,1.3995,0.22,0.1105,Yes
+PA191,Gait Speed - usual gait,m/s,1.53,1.504,1.5624,0.026,0.0324,No
+PA192,Gait Speed - usual gait,m/s,1.35,1.817,1.7632,0.467,0.4132,Yes
+PA196,Gait Speed - usual gait,m/s,1.44,1.674,1.7204,0.234,0.2804,No
+PA199,Gait Speed - usual gait,m/s,1.53,1.619,1.6395,0.089,0.1095,No
+PA200,Gait Speed - usual gait,m/s,1.8,1.51,1.5263,0.29,0.2737,Yes
+PA201,Gait Speed - usual gait,m/s,1.44,1.545,1.4981,0.105,0.0581,Yes
+PA203,Gait Speed - usual gait,m/s,1.55,1.419,1.478,0.131,0.072,Yes
+PA207,Gait Speed - usual gait,m/s,1.57,1.47,1.4716,0.1,0.0984,Yes
+PA208,Gait Speed - usual gait,m/s,1.54,1.481,1.5255,0.059,0.0145,Yes
+PA209,Gait Speed - usual gait,m/s,1.68,1.471,1.5846,0.209,0.0954,Yes
+PA210,Gait Speed - usual gait,m/s,2.08,1.998,1.7735,0.082,0.3065,No
+PA212,Gait Speed - usual gait,m/s,1.53,1.525,1.4326,0.005,0.0974,No
+PA213,Gait Speed - usual gait,m/s,2.24,2.025,1.9306,0.215,0.3094,No
+PA214,Gait Speed - usual gait,m/s,1.63,1.749,1.6023,0.119,0.0277,Yes
+PA215,Gait Speed - usual gait,m/s,1.43,1.779,1.7192,0.349,0.2892,Yes
+PA217,Gait Speed - usual gait,m/s,1.49,1.568,1.528,0.078,0.038,Yes
+PA219,Gait Speed - usual gait,m/s,1.53,1.422,1.472,0.108,0.058,Yes
+PA221,Gait Speed - usual gait,m/s,1.84,1.936,1.7558,0.096,0.0842,Yes
+PA224,Gait Speed - usual gait,m/s,1.25,1.419,1.4925,0.169,0.2425,No
+PA225,Gait Speed - usual gait,m/s,1.59,1.673,1.5999,0.083,0.0099,Yes
+PA227,Gait Speed - usual gait,m/s,1.42,1.532,1.4497,0.112,0.0297,Yes
+PA230,Gait Speed - usual gait,m/s,1.72,1.859,1.7574,0.139,0.0374,Yes
+PA232,Gait Speed - usual gait,m/s,1.29,1.278,1.367,0.012,0.077,No
+PA233,Gait Speed - usual gait,m/s,1.28,1.176,1.3279,0.104,0.0479,Yes
+PA234,Gait Speed - usual gait,m/s,1.12,1.274,1.3734,0.154,0.2534,No
+PA241,Gait Speed - usual gait,m/s,1.76,1.663,1.6035,0.097,0.1565,No
+PA242,Gait Speed - usual gait,m/s,1.62,1.441,1.5484,0.179,0.0716,Yes
+PA243,Gait Speed - usual gait,m/s,1.68,1.495,1.5761,0.185,0.1039,Yes
+PA246,Gait Speed - usual gait,m/s,1.47,1.505,1.4892,0.035,0.0192,Yes
+PA247,Gait Speed - usual gait,m/s,1.56,1.75,1.6264,0.19,0.0664,Yes
+PA248,Gait Speed - usual gait,m/s,1.61,1.564,1.5988,0.046,0.0112,Yes
+PA249,Gait Speed - usual gait,m/s,1.79,1.847,1.8204,0.057,0.0304,Yes
+PA252,Gait Speed - usual gait,m/s,1.72,1.792,1.6694,0.072,0.0506,Yes
+PA257,Gait Speed - usual gait,m/s,1.48,1.546,1.5652,0.066,0.0852,No
+PA261,Gait Speed - usual gait,m/s,1.62,1.407,1.5141,0.213,0.1059,Yes
+PA266,Gait Speed - usual gait,m/s,1.84,1.782,1.789,0.058,0.051,Yes
+PA267,Gait Speed - usual gait,m/s,1.47,1.515,1.6055,0.045,0.1355,No
+PA268,Gait Speed - usual gait,m/s,1.69,1.512,1.5744,0.178,0.1156,Yes
+PA270,Gait Speed - usual gait,m/s,1.33,1.237,1.3548,0.093,0.0248,Yes
+PA274,Gait Speed - usual gait,m/s,1.43,1.736,1.6402,0.306,0.2102,Yes
+PA276,Gait Speed - usual gait,m/s,1.53,1.425,1.4324,0.105,0.0976,Yes
+PA277,Gait Speed - usual gait,m/s,1.29,1.333,1.4216,0.043,0.1316,No
+PA280,Gait Speed - usual gait,m/s,1.26,1.145,1.2565,0.115,0.0035,Yes
+PA284,Gait Speed - usual gait,m/s,1.76,1.529,1.5731,0.231,0.1869,Yes
+PA285,Gait Speed - usual gait,m/s,1.55,1.274,1.3672,0.276,0.1828,Yes
+PA288,Gait Speed - usual gait,m/s,1.68,1.504,1.5687,0.176,0.1113,Yes
+PA289,Gait Speed - usual gait,m/s,1.86,1.746,1.7146,0.114,0.1454,No
+PA290,Gait Speed - usual gait,m/s,1.42,1.429,1.525,0.009,0.105,No
+PA292,Gait Speed - usual gait,m/s,1.45,1.411,1.355,0.039,0.095,No
+PA293,Gait Speed - usual gait,m/s,1.5,1.316,1.4149,0.184,0.0851,Yes
+PA296,Gait Speed - usual gait,m/s,1.44,1.308,1.4348,0.132,0.0052,Yes
+PA297,Gait Speed - usual gait,m/s,1.47,1.408,1.4625,0.062,0.0075,Yes
+PA299,Gait Speed - usual gait,m/s,1.37,1.622,1.6653,0.252,0.2953,No
+PA300,Gait Speed - usual gait,m/s,1.82,1.561,1.5878,0.259,0.2322,Yes
+PA302,Gait Speed - usual gait,m/s,1.67,1.8,1.6798,0.13,0.0098,Yes
+PA303,Gait Speed - usual gait,m/s,1.09,1.336,1.3769,0.246,0.2869,No
+PA304,Gait Speed - usual gait,m/s,1.6,1.285,1.4259,0.315,0.1741,Yes
+PA305,Gait Speed - usual gait,m/s,1.5,1.468,1.5267,0.032,0.0267,Yes
+PA309,Gait Speed - usual gait,m/s,1.5,1.512,1.4806,0.012,0.0194,No
+PA311,Gait Speed - usual gait,m/s,1.33,1.531,1.5966,0.201,0.2666,No
+PA312,Gait Speed - usual gait,m/s,1.77,1.83,1.7228,0.06,0.0472,Yes
+PA314,Gait Speed - usual gait,m/s,1.4,1.808,1.6471,0.408,0.2471,Yes
+PA319,Gait Speed - usual gait,m/s,1.69,1.872,1.7749,0.182,0.0849,Yes
+PA320,Gait Speed - usual gait,m/s,1.5,1.576,1.5901,0.076,0.0901,No
+PA326,Gait Speed - usual gait,m/s,1.44,1.445,1.4765,0.005,0.0365,No
+PA331,Gait Speed - usual gait,m/s,1.52,1.614,1.5302,0.094,0.0102,Yes
+PA333,Gait Speed - usual gait,m/s,1.64,1.405,1.473,0.235,0.167,Yes
+PA334,Gait Speed - usual gait,m/s,1.27,1.411,1.365,0.141,0.095,Yes
+PA336,Gait Speed - usual gait,m/s,1.55,1.595,1.3859,0.045,0.1641,No
+PA337,Gait Speed - usual gait,m/s,1.38,1.358,1.4199,0.022,0.0399,No
+PA339,Gait Speed - usual gait,m/s,1.34,1.678,1.6649,0.338,0.3249,Yes
+PA340,Gait Speed - usual gait,m/s,1.41,1.753,1.5923,0.343,0.1823,Yes
+PA341,Gait Speed - usual gait,m/s,1.6,1.114,1.316,0.486,0.284,Yes
+PA343,Gait Speed - usual gait,m/s,1.97,1.898,1.7534,0.072,0.2166,No
+PA344,Gait Speed - usual gait,m/s,1.29,1.305,1.3623,0.015,0.0723,No
+PA347,Gait Speed - usual gait,m/s,1.43,1.343,1.3968,0.087,0.0332,Yes
+PA350,Gait Speed - usual gait,m/s,1.37,1.208,1.3621,0.162,0.0079,Yes
+PA351,Gait Speed - usual gait,m/s,1.87,1.749,1.6215,0.121,0.2485,No
+PA352,Gait Speed - usual gait,m/s,1.74,1.734,1.6651,0.006,0.0749,No
+PA354,Gait Speed - usual gait,m/s,1.65,1.83,1.6969,0.18,0.0469,Yes
+PA355,Gait Speed - usual gait,m/s,1.57,1.596,1.6307,0.026,0.0607,No
+PA356,Gait Speed - usual gait,m/s,1.63,1.559,1.5842,0.071,0.0458,Yes
+PA358,Gait Speed - usual gait,m/s,1.66,1.28,1.4075,0.38,0.2525,Yes
+PA360,Gait Speed - usual gait,m/s,1.44,1.662,1.5772,0.222,0.1372,Yes
+PA363,Gait Speed - usual gait,m/s,1.51,1.676,1.6517,0.166,0.1417,Yes
+PA366,Gait Speed - usual gait,m/s,1.4,1.432,1.432,0.032,0.032,No
+PA369,Gait Speed - usual gait,m/s,1.79,1.579,1.5419,0.211,0.2481,No
+PA371,Gait Speed - usual gait,m/s,1.39,1.308,1.4202,0.082,0.0302,Yes
+PA372,Gait Speed - usual gait,m/s,1.18,1.427,1.5005,0.247,0.3205,No
+PA375,Gait Speed - usual gait,m/s,1.68,1.932,1.7897,0.252,0.1097,Yes
+PA377,Gait Speed - usual gait,m/s,1.34,1.241,1.3629,0.099,0.0229,Yes
+PA380,Gait Speed - usual gait,m/s,1.59,1.946,1.7754,0.356,0.1854,Yes
+PA382,Gait Speed - usual gait,m/s,1.37,1.366,1.3983,0.004,0.0283,No
+PA383,Gait Speed - usual gait,m/s,1.61,1.783,1.6715,0.173,0.0615,Yes
+PA386,Gait Speed - usual gait,m/s,1.73,1.444,1.4698,0.286,0.2602,Yes
+PA387,Gait Speed - usual gait,m/s,1.59,1.314,1.3701,0.276,0.2199,Yes
+PA388,Gait Speed - usual gait,m/s,1.34,1.485,1.5143,0.145,0.1743,No
+PA389,Gait Speed - usual gait,m/s,1.45,1.393,1.4481,0.057,0.0019,Yes
+PA390,Gait Speed - usual gait,m/s,1.44,1.373,1.4418,0.067,0.0018,Yes
+PA391,Gait Speed - usual gait,m/s,1.42,1.102,1.2881,0.318,0.1319,Yes
+PA392,Gait Speed - usual gait,m/s,1.61,1.794,1.6526,0.184,0.0426,Yes
+PA393,Gait Speed - usual gait,m/s,1.67,1.638,1.6549,0.032,0.0151,Yes
+PA394,Gait Speed - usual gait,m/s,1.91,1.682,1.671,0.228,0.239,No
+PA395,Gait Speed - usual gait,m/s,2.13,1.77,1.7566,0.36,0.3734,No
+PA004,Step Length - fast gait,cm,66.0,89.288,67.317,23.288,1.317,Yes
+PA005,Step Length - fast gait,cm,68.7,86.949,96.9388,18.249,28.2388,No
+PA006,Step Length - fast gait,cm,59.4,89.255,68.1072,29.855,8.7072,Yes
+PA018,Step Length - fast gait,cm,54.0,75.585,63.989,21.585,9.989,Yes
+PA019,Step Length - fast gait,cm,59.1,80.666,66.8148,21.566,7.7148,Yes
+PA020,Step Length - fast gait,cm,61.4,81.617,66.2891,20.217,4.8891,Yes
+PA021,Step Length - fast gait,cm,71.5,91.427,70.397,19.927,1.103,Yes
+PA022,Step Length - fast gait,cm,59.9,87.4,67.6598,27.5,7.7598,Yes
+PA030,Step Length - fast gait,cm,68.3,90.885,71.1816,22.585,2.8816,Yes
+PA031,Step Length - fast gait,cm,81.7,84.01,68.2354,2.31,13.4646,No
+PA033,Step Length - fast gait,cm,49.9,86.6,67.4815,36.7,17.5815,Yes
+PA035,Step Length - fast gait,cm,57.3,83.524,65.6332,26.224,8.3332,Yes
+PA037,Step Length - fast gait,cm,69.5,79.209,66.3731,9.709,3.1269,Yes
+PA040,Step Length - fast gait,cm,56.9,72.205,64.5848,15.305,7.6848,Yes
+PA042,Step Length - fast gait,cm,73.3,87.495,71.2015,14.195,2.0985,Yes
+PA043,Step Length - fast gait,cm,73.3,95.484,70.74,22.184,2.56,Yes
+PA045,Step Length - fast gait,cm,79.8,75.814,63.4035,3.986,16.3965,No
+PA047,Step Length - fast gait,cm,68.0,87.442,69.8962,19.442,1.8962,Yes
+PA048,Step Length - fast gait,cm,86.4,91.069,70.2113,4.669,16.1887,No
+PA049,Step Length - fast gait,cm,54.0,77.023,64.6424,23.023,10.6424,Yes
+PA051,Step Length - fast gait,cm,69.5,83.023,67.7887,13.523,1.7113,Yes
+PA052,Step Length - fast gait,cm,88.4,96.009,73.4141,7.609,14.9859,No
+PA054,Step Length - fast gait,cm,57.1,78.706,66.3315,21.606,9.2315,Yes
+PA057,Step Length - fast gait,cm,53.1,68.42,63.5087,15.32,10.4087,Yes
+PA058,Step Length - fast gait,cm,66.1,87.637,65.3767,21.537,0.7233,Yes
+PA059,Step Length - fast gait,cm,86.6,95.119,73.1671,8.519,13.4329,No
+PA063,Step Length - fast gait,cm,52.3,68.236,63.2857,15.936,10.9857,Yes
+PA066,Step Length - fast gait,cm,57.3,78.785,66.4918,21.485,9.1918,Yes
+PA070,Step Length - fast gait,cm,53.1,75.995,65.2315,22.895,12.1315,Yes
+PA072,Step Length - fast gait,cm,51.7,71.757,62.7699,20.057,11.0699,Yes
+PA074,Step Length - fast gait,cm,101.2,79.402,66.5574,21.798,34.6426,No
+PA079,Step Length - fast gait,cm,101.0,78.011,66.4512,22.989,34.5488,No
+PA080,Step Length - fast gait,cm,69.3,82.431,84.7308,13.131,15.4308,No
+PA081,Step Length - fast gait,cm,80.3,82.732,62.9398,2.432,17.3602,No
+PA082,Step Length - fast gait,cm,55.1,77.106,65.4006,22.006,10.3006,Yes
+PA083,Step Length - fast gait,cm,77.0,84.585,73.2084,7.585,3.7916,Yes
+PA084,Step Length - fast gait,cm,83.2,74.526,65.7678,8.674,17.4322,No
+PA091,Step Length - fast gait,cm,70.5,90.018,69.6153,19.518,0.8847,Yes
+PA092,Step Length - fast gait,cm,52.9,72.781,64.5403,19.881,11.6403,Yes
+PA093,Step Length - fast gait,cm,79.7,98.822,72.9952,19.122,6.7048,Yes
+PA094,Step Length - fast gait,cm,56.1,77.07,64.3752,20.97,8.2752,Yes
+PA096,Step Length - fast gait,cm,79.8,84.722,69.3895,4.922,10.4105,No
+PA098,Step Length - fast gait,cm,59.7,74.669,66.7187,14.969,7.0187,Yes
+PA099,Step Length - fast gait,cm,83.6,88.468,72.5008,4.868,11.0992,No
+PA100,Step Length - fast gait,cm,86.2,93.583,70.7898,7.383,15.4102,No
+PA106,Step Length - fast gait,cm,58.0,77.572,65.9865,19.572,7.9865,Yes
+PA108,Step Length - fast gait,cm,68.5,90.327,70.874,21.827,2.374,Yes
+PA112,Step Length - fast gait,cm,53.9,89.29,67.0297,35.39,13.1297,Yes
+PA115,Step Length - fast gait,cm,95.8,84.331,70.6539,11.469,25.1461,No
+PA116,Step Length - fast gait,cm,59.2,80.985,68.2555,21.785,9.0555,Yes
+PA117,Step Length - fast gait,cm,71.8,86.842,71.6068,15.042,0.1932,Yes
+PA118,Step Length - fast gait,cm,61.8,84.898,68.5317,23.098,6.7317,Yes
+PA119,Step Length - fast gait,cm,78.5,83.466,68.6429,4.966,9.8571,No
+PA120,Step Length - fast gait,cm,85.0,92.754,68.1858,7.754,16.8142,No
+PA131,Step Length - fast gait,cm,83.2,82.372,71.5123,0.828,11.6877,No
+PA133,Step Length - fast gait,cm,86.0,81.471,66.9325,4.529,19.0675,No
+PA136,Step Length - fast gait,cm,69.0,89.141,71.028,20.141,2.028,Yes
+PA137,Step Length - fast gait,cm,55.5,79.325,64.8758,23.825,9.3758,Yes
+PA139,Step Length - fast gait,cm,52.9,76.519,64.7901,23.619,11.8901,Yes
+PA144,Step Length - fast gait,cm,86.8,86.289,69.0493,0.511,17.7507,No
+PA145,Step Length - fast gait,cm,86.8,83.249,69.0218,3.551,17.7782,No
+PA147,Step Length - fast gait,cm,80.3,79.395,64.3875,0.905,15.9125,No
+PA158,Step Length - fast gait,cm,85.0,89.891,70.2817,4.891,14.7183,No
+PA159,Step Length - fast gait,cm,68.6,81.19,62.4795,12.59,6.1205,Yes
+PA160,Step Length - fast gait,cm,58.4,83.975,68.644,25.575,10.244,Yes
+PA162,Step Length - fast gait,cm,88.6,86.834,72.2984,1.766,16.3016,No
+PA166,Step Length - fast gait,cm,56.1,83.376,63.3813,27.276,7.2813,Yes
+PA167,Step Length - fast gait,cm,50.6,66.149,61.2258,15.549,10.6258,Yes
+PA168,Step Length - fast gait,cm,56.9,80.181,66.0563,23.281,9.1563,Yes
+PA170,Step Length - fast gait,cm,60.0,81.189,67.9109,21.189,7.9109,Yes
+PA171,Step Length - fast gait,cm,66.2,85.8,66.6044,19.6,0.4044,Yes
+PA172,Step Length - fast gait,cm,70.3,85.842,90.19,15.542,19.89,No
+PA173,Step Length - fast gait,cm,85.0,77.604,66.3248,7.396,18.6752,No
+PA175,Step Length - fast gait,cm,70.7,79.446,64.2347,8.746,6.4653,Yes
+PA178,Step Length - fast gait,cm,78.0,88.094,69.8656,10.094,8.1344,Yes
+PA184,Step Length - fast gait,cm,70.7,94.902,69.8052,24.202,0.8948,Yes
+PA187,Step Length - fast gait,cm,58.3,89.386,68.7965,31.086,10.4965,Yes
+PA188,Step Length - fast gait,cm,77.8,91.912,67.9307,14.112,9.8693,Yes
+PA190,Step Length - fast gait,cm,57.6,74.438,64.1069,16.838,6.5069,Yes
+PA191,Step Length - fast gait,cm,85.2,89.681,71.2287,4.481,13.9713,No
+PA192,Step Length - fast gait,cm,102.0,64.808,64.295,37.192,37.705,No
+PA196,Step Length - fast gait,cm,73.2,84.249,68.4924,11.049,4.7076,Yes
+PA199,Step Length - fast gait,cm,66.5,87.322,68.0173,20.822,1.5173,Yes
+PA200,Step Length - fast gait,cm,76.7,86.022,68.7314,9.322,7.9686,Yes
+PA201,Step Length - fast gait,cm,77.8,83.921,71.1331,6.121,6.6669,No
+PA203,Step Length - fast gait,cm,58.0,77.563,64.7779,19.563,6.7779,Yes
+PA207,Step Length - fast gait,cm,51.8,81.444,68.0839,29.644,16.2839,Yes
+PA208,Step Length - fast gait,cm,50.3,70.463,59.8231,20.163,9.5231,Yes
+PA209,Step Length - fast gait,cm,62.5,80.739,64.5992,18.239,2.0992,Yes
+PA210,Step Length - fast gait,cm,58.7,77.507,65.8601,18.807,7.1601,Yes
+PA212,Step Length - fast gait,cm,79.8,98.559,72.4712,18.759,7.3288,Yes
+PA213,Step Length - fast gait,cm,57.3,89.716,70.1919,32.416,12.8919,Yes
+PA214,Step Length - fast gait,cm,73.7,97.106,74.0354,23.406,0.3354,Yes
+PA215,Step Length - fast gait,cm,79.3,83.471,69.0606,4.171,10.2394,No
+PA217,Step Length - fast gait,cm,72.5,89.073,68.8008,16.573,3.6992,Yes
+PA219,Step Length - fast gait,cm,79.0,87.412,70.2219,8.412,8.7781,No
+PA221,Step Length - fast gait,cm,73.8,98.856,72.3997,25.056,1.4003,Yes
+PA224,Step Length - fast gait,cm,55.5,76.748,63.3347,21.248,7.8347,Yes
+PA225,Step Length - fast gait,cm,71.5,91.772,68.4924,20.272,3.0076,Yes
+PA227,Step Length - fast gait,cm,67.8,93.505,70.6511,25.705,2.8511,Yes
+PA230,Step Length - fast gait,cm,65.5,89.681,70.3682,24.181,4.8682,Yes
+PA232,Step Length - fast gait,cm,60.6,81.632,66.8168,21.032,6.2168,Yes
+PA233,Step Length - fast gait,cm,66.0,70.271,61.8185,4.271,4.1815,Yes
+PA234,Step Length - fast gait,cm,72.8,83.714,68.1396,10.914,4.6604,Yes
+PA241,Step Length - fast gait,cm,86.0,78.711,66.7589,7.289,19.2411,No
+PA242,Step Length - fast gait,cm,73.0,71.24,62.5731,1.76,10.4269,No
+PA243,Step Length - fast gait,cm,68.6,73.477,62.9737,4.877,5.6263,No
+PA246,Step Length - fast gait,cm,70.5,93.042,73.966,22.542,3.466,Yes
+PA247,Step Length - fast gait,cm,63.7,85.588,66.9458,21.888,3.2458,Yes
+PA248,Step Length - fast gait,cm,61.1,79.402,66.3942,18.302,5.2942,Yes
+PA249,Step Length - fast gait,cm,59.3,71.692,62.2136,12.392,2.9136,Yes
+PA252,Step Length - fast gait,cm,93.4,98.327,77.1574,4.927,16.2426,No
+PA257,Step Length - fast gait,cm,63.7,78.829,67.4064,15.129,3.7064,Yes
+PA261,Step Length - fast gait,cm,59.4,76.35,62.5226,16.95,3.1226,Yes
+PA266,Step Length - fast gait,cm,67.5,87.279,69.5531,19.779,2.0531,Yes
+PA267,Step Length - fast gait,cm,67.7,81.844,66.7793,14.144,0.9207,Yes
+PA268,Step Length - fast gait,cm,58.8,69.674,62.1224,10.874,3.3224,Yes
+PA270,Step Length - fast gait,cm,65.1,87.011,67.0979,21.911,1.9979,Yes
+PA274,Step Length - fast gait,cm,65.7,87.274,68.1876,21.574,2.4876,Yes
+PA276,Step Length - fast gait,cm,68.7,82.919,65.8235,14.219,2.8765,Yes
+PA277,Step Length - fast gait,cm,45.6,70.447,62.5145,24.847,16.9145,Yes
+PA280,Step Length - fast gait,cm,69.3,89.951,70.5787,20.651,1.2787,Yes
+PA284,Step Length - fast gait,cm,70.3,74.623,62.3573,4.323,7.9427,No
+PA285,Step Length - fast gait,cm,60.0,74.165,63.6822,14.165,3.6822,Yes
+PA288,Step Length - fast gait,cm,59.4,71.815,63.344,12.415,3.944,Yes
+PA289,Step Length - fast gait,cm,63.4,85.545,69.6928,22.145,6.2928,Yes
+PA290,Step Length - fast gait,cm,64.6,80.846,64.9094,16.246,0.3094,Yes
+PA292,Step Length - fast gait,cm,60.6,80.929,65.8952,20.329,5.2952,Yes
+PA293,Step Length - fast gait,cm,75.8,71.369,62.5821,4.431,13.2179,No
+PA296,Step Length - fast gait,cm,48.9,70.11,63.3326,21.21,14.4326,Yes
+PA297,Step Length - fast gait,cm,61.0,78.185,64.2598,17.185,3.2598,Yes
+PA299,Step Length - fast gait,cm,68.0,87.748,70.0428,19.748,2.0428,Yes
+PA300,Step Length - fast gait,cm,65.7,82.355,68.5156,16.655,2.8156,Yes
+PA302,Step Length - fast gait,cm,58.6,77.352,65.3382,18.752,6.7382,Yes
+PA303,Step Length - fast gait,cm,49.0,78.046,62.8552,29.046,13.8552,Yes
+PA304,Step Length - fast gait,cm,72.7,74.524,64.5927,1.824,8.1073,No
+PA305,Step Length - fast gait,cm,64.3,78.661,66.0364,14.361,1.7364,Yes
+PA309,Step Length - fast gait,cm,73.5,100.333,72.4151,26.833,1.0849,Yes
+PA311,Step Length - fast gait,cm,75.5,79.659,65.7768,4.159,9.7232,No
+PA312,Step Length - fast gait,cm,80.7,84.149,70.9586,3.449,9.7414,No
+PA314,Step Length - fast gait,cm,71.0,87.362,67.9119,16.362,3.0881,Yes
+PA319,Step Length - fast gait,cm,64.0,78.168,65.7772,14.168,1.7772,Yes
+PA320,Step Length - fast gait,cm,68.3,70.281,62.666,1.981,5.634,No
+PA326,Step Length - fast gait,cm,67.7,85.643,68.5627,17.943,0.8627,Yes
+PA331,Step Length - fast gait,cm,67.2,89.14,69.9081,21.94,2.7081,Yes
+PA333,Step Length - fast gait,cm,70.2,77.886,65.1063,7.686,5.0937,Yes
+PA334,Step Length - fast gait,cm,80.8,89.258,68.1178,8.458,12.6822,No
+PA336,Step Length - fast gait,cm,77.0,88.916,63.4943,11.916,13.5057,No
+PA337,Step Length - fast gait,cm,62.0,84.804,66.0965,22.804,4.0965,Yes
+PA339,Step Length - fast gait,cm,62.3,75.267,65.1362,12.967,2.8362,Yes
+PA340,Step Length - fast gait,cm,63.9,86.979,67.3169,23.079,3.4169,Yes
+PA341,Step Length - fast gait,cm,75.0,81.603,68.4836,6.603,6.5164,Yes
+PA343,Step Length - fast gait,cm,68.4,83.873,66.4439,15.473,1.9561,Yes
+PA344,Step Length - fast gait,cm,65.9,87.976,67.7294,22.076,1.8294,Yes
+PA347,Step Length - fast gait,cm,80.0,61.845,61.9266,18.155,18.0734,Yes
+PA350,Step Length - fast gait,cm,70.2,75.176,65.2684,4.976,4.9316,Yes
+PA351,Step Length - fast gait,cm,65.6,80.611,67.0564,15.011,1.4564,Yes
+PA352,Step Length - fast gait,cm,65.1,77.975,65.602,12.875,0.502,Yes
+PA354,Step Length - fast gait,cm,77.5,93.624,70.5254,16.124,6.9746,Yes
+PA355,Step Length - fast gait,cm,59.6,72.992,65.1608,13.392,5.5608,Yes
+PA356,Step Length - fast gait,cm,54.3,69.022,62.1226,14.722,7.8226,Yes
+PA358,Step Length - fast gait,cm,64.3,73.17,64.2433,8.87,0.0567,Yes
+PA360,Step Length - fast gait,cm,66.7,87.488,69.5477,20.788,2.8477,Yes
+PA363,Step Length - fast gait,cm,63.8,87.652,68.7568,23.852,4.9568,Yes
+PA366,Step Length - fast gait,cm,54.8,79.913,64.508,25.113,9.708,Yes
+PA369,Step Length - fast gait,cm,62.9,77.291,63.3558,14.391,0.4558,Yes
+PA371,Step Length - fast gait,cm,58.0,71.96,61.1857,13.96,3.1857,Yes
+PA372,Step Length - fast gait,cm,60.1,72.808,61.7214,12.708,1.6214,Yes
+PA375,Step Length - fast gait,cm,90.4,99.352,77.5086,8.952,12.8914,No
+PA377,Step Length - fast gait,cm,74.0,75.278,64.3853,1.278,9.6147,No
+PA380,Step Length - fast gait,cm,68.7,99.228,74.6679,30.528,5.9679,Yes
+PA382,Step Length - fast gait,cm,61.7,82.039,74.4601,20.339,12.7601,Yes
+PA383,Step Length - fast gait,cm,66.6,90.034,69.6142,23.434,3.0142,Yes
+PA386,Step Length - fast gait,cm,85.4,82.427,65.7508,2.973,19.6492,No
+PA387,Step Length - fast gait,cm,69.5,91.538,71.8159,22.038,2.3159,Yes
+PA388,Step Length - fast gait,cm,65.9,81.787,68.2021,15.887,2.3021,Yes
+PA389,Step Length - fast gait,cm,62.1,75.649,63.5111,13.549,1.4111,Yes
+PA390,Step Length - fast gait,cm,66.6,70.618,62.15,4.018,4.45,No
+PA391,Step Length - fast gait,cm,61.4,81.505,64.7557,20.105,3.3557,Yes
+PA392,Step Length - fast gait,cm,62.0,84.398,64.2883,22.398,2.2883,Yes
+PA393,Step Length - fast gait,cm,64.2,84.748,68.7069,20.548,4.5069,Yes
+PA394,Step Length - fast gait,cm,70.5,92.395,73.2198,21.895,2.7198,Yes
+PA395,Step Length - fast gait,cm,68.2,92.485,72.3364,24.285,4.1364,Yes
+PA004,Stride Length - fast gait,cm,132.0,191.92,141.1843,59.92,9.1843,Yes
+PA005,Stride Length - fast gait,cm,141.4,158.799,181.5588,17.399,40.1588,No
+PA006,Stride Length - fast gait,cm,124.0,174.592,139.3466,50.592,15.3466,Yes
+PA018,Stride Length - fast gait,cm,116.2,166.294,132.0789,50.094,15.8789,Yes
+PA019,Stride Length - fast gait,cm,119.0,167.674,139.8461,48.674,20.8461,Yes
+PA020,Stride Length - fast gait,cm,131.2,150.97,133.4441,19.77,2.2441,Yes
+PA021,Stride Length - fast gait,cm,144.8,196.179,142.5102,51.379,2.2898,Yes
+PA022,Stride Length - fast gait,cm,122.3,159.549,138.5228,37.249,16.2228,Yes
+PA030,Stride Length - fast gait,cm,146.0,181.558,146.8318,35.558,0.8318,Yes
+PA031,Stride Length - fast gait,cm,174.0,185.872,144.2863,11.872,29.7137,No
+PA033,Stride Length - fast gait,cm,104.1,171.458,142.7625,67.358,38.6625,Yes
+PA035,Stride Length - fast gait,cm,123.2,168.322,135.3635,45.122,12.1635,Yes
+PA037,Stride Length - fast gait,cm,143.0,173.101,138.0603,30.101,4.9397,Yes
+PA040,Stride Length - fast gait,cm,120.3,126.777,129.7104,6.477,9.4104,No
+PA042,Stride Length - fast gait,cm,153.0,177.721,142.682,24.721,10.318,Yes
+PA043,Stride Length - fast gait,cm,151.6,186.8,147.7598,35.2,3.8402,Yes
+PA045,Stride Length - fast gait,cm,171.4,141.98,129.8801,29.42,41.5199,No
+PA047,Stride Length - fast gait,cm,144.2,181.246,146.0201,37.046,1.8201,Yes
+PA048,Stride Length - fast gait,cm,189.0,196.803,146.8997,7.803,42.1003,No
+PA049,Stride Length - fast gait,cm,107.7,131.342,130.106,23.642,22.406,Yes
+PA051,Stride Length - fast gait,cm,141.0,164.523,138.2483,23.523,2.7517,Yes
+PA052,Stride Length - fast gait,cm,191.8,160.577,156.2919,31.223,35.5081,No
+PA054,Stride Length - fast gait,cm,121.7,133.805,135.4365,12.105,13.7365,No
+PA057,Stride Length - fast gait,cm,109.7,135.587,129.0161,25.887,19.3161,Yes
+PA058,Stride Length - fast gait,cm,140.2,159.371,138.5447,19.171,1.6553,Yes
+PA059,Stride Length - fast gait,cm,169.5,154.97,152.4134,14.53,17.0866,No
+PA063,Stride Length - fast gait,cm,109.0,103.38,135.6196,5.62,26.6196,No
+PA066,Stride Length - fast gait,cm,121.0,176.847,139.8255,55.847,18.8255,Yes
+PA070,Stride Length - fast gait,cm,105.8,135.962,131.099,30.162,25.299,Yes
+PA072,Stride Length - fast gait,cm,103.8,119.09,126.4637,15.29,22.6637,No
+PA074,Stride Length - fast gait,cm,224.0,147.59,135.0166,76.41,88.9834,No
+PA079,Stride Length - fast gait,cm,174.8,130.897,137.3806,43.903,37.4194,Yes
+PA080,Stride Length - fast gait,cm,142.8,159.488,162.5156,16.688,19.7156,No
+PA081,Stride Length - fast gait,cm,173.4,141.27,127.8081,32.13,45.5919,No
+PA082,Stride Length - fast gait,cm,110.5,170.38,137.4578,59.88,26.9578,Yes
+PA083,Stride Length - fast gait,cm,144.8,151.746,141.1562,6.946,3.6438,Yes
+PA084,Stride Length - fast gait,cm,152.3,173.617,138.0541,21.317,14.2459,Yes
+PA091,Stride Length - fast gait,cm,144.2,187.237,143.2533,43.037,0.9467,Yes
+PA092,Stride Length - fast gait,cm,108.7,164.427,132.5993,55.727,23.8993,Yes
+PA093,Stride Length - fast gait,cm,158.8,219.194,163.4421,60.394,4.6421,Yes
+PA094,Stride Length - fast gait,cm,117.7,170.241,135.7778,52.541,18.0778,Yes
+PA096,Stride Length - fast gait,cm,174.2,185.336,140.1296,11.136,34.0704,No
+PA098,Stride Length - fast gait,cm,126.8,153.36,136.3074,26.56,9.5074,Yes
+PA099,Stride Length - fast gait,cm,159.3,181.341,147.3893,22.041,11.9107,Yes
+PA100,Stride Length - fast gait,cm,191.0,185.406,149.1544,5.594,41.8456,No
+PA106,Stride Length - fast gait,cm,122.2,135.229,129.5662,13.029,7.3662,Yes
+PA108,Stride Length - fast gait,cm,145.8,155.75,147.9127,9.95,2.1127,Yes
+PA112,Stride Length - fast gait,cm,110.8,146.676,136.9895,35.876,26.1895,Yes
+PA115,Stride Length - fast gait,cm,166.8,129.315,141.2195,37.485,25.5805,Yes
+PA116,Stride Length - fast gait,cm,123.2,178.956,137.6382,55.756,14.4382,Yes
+PA117,Stride Length - fast gait,cm,150.4,193.044,149.107,42.644,1.293,Yes
+PA118,Stride Length - fast gait,cm,141.0,175.725,140.914,34.725,0.086,Yes
+PA119,Stride Length - fast gait,cm,171.6,185.674,145.7463,14.074,25.8537,No
+PA120,Stride Length - fast gait,cm,187.5,176.384,144.5034,11.116,42.9966,No
+PA131,Stride Length - fast gait,cm,156.8,189.818,148.9284,33.018,7.8716,Yes
+PA133,Stride Length - fast gait,cm,184.3,176.221,135.0349,8.079,49.2651,No
+PA136,Stride Length - fast gait,cm,147.8,198.819,148.6718,51.019,0.8718,Yes
+PA137,Stride Length - fast gait,cm,134.2,132.601,132.9295,1.599,1.2705,Yes
+PA139,Stride Length - fast gait,cm,109.7,163.833,135.2985,54.133,25.5985,Yes
+PA144,Stride Length - fast gait,cm,189.0,190.144,137.9665,1.144,51.0335,No
+PA145,Stride Length - fast gait,cm,186.8,143.592,141.6163,43.208,45.1837,No
+PA147,Stride Length - fast gait,cm,171.4,149.556,129.4439,21.844,41.9561,No
+PA158,Stride Length - fast gait,cm,188.8,198.411,146.6738,9.611,42.1262,No
+PA159,Stride Length - fast gait,cm,149.7,148.06,130.4554,1.64,19.2446,No
+PA160,Stride Length - fast gait,cm,123.8,164.371,141.9268,40.571,18.1268,Yes
+PA162,Stride Length - fast gait,cm,192.0,179.29,146.5809,12.71,45.4191,No
+PA166,Stride Length - fast gait,cm,115.7,128.525,132.834,12.825,17.134,No
+PA167,Stride Length - fast gait,cm,103.0,107.485,134.8648,4.485,31.8648,No
+PA168,Stride Length - fast gait,cm,121.5,154.345,134.7167,32.845,13.2167,Yes
+PA170,Stride Length - fast gait,cm,127.8,169.828,133.7233,42.028,5.9233,Yes
+PA171,Stride Length - fast gait,cm,136.6,185.32,144.3999,48.72,7.7999,Yes
+PA172,Stride Length - fast gait,cm,143.8,151.491,167.1367,7.691,23.3367,No
+PA173,Stride Length - fast gait,cm,180.8,128.746,134.2089,52.054,46.5911,Yes
+PA175,Stride Length - fast gait,cm,156.0,147.14,131.9523,8.86,24.0477,No
+PA178,Stride Length - fast gait,cm,148.4,166.043,142.512,17.643,5.888,Yes
+PA184,Stride Length - fast gait,cm,147.8,158.429,145.6964,10.629,2.1036,Yes
+PA187,Stride Length - fast gait,cm,125.6,154.097,142.0783,28.497,16.4783,Yes
+PA188,Stride Length - fast gait,cm,154.0,198.166,142.0463,44.166,11.9537,Yes
+PA190,Stride Length - fast gait,cm,115.8,161.687,128.4796,45.887,12.6796,Yes
+PA191,Stride Length - fast gait,cm,186.0,200.604,149.813,14.604,36.187,No
+PA192,Stride Length - fast gait,cm,176.5,128.596,133.1822,47.904,43.3178,Yes
+PA196,Stride Length - fast gait,cm,148.4,171.2,142.7783,22.8,5.6217,Yes
+PA199,Stride Length - fast gait,cm,141.6,188.551,139.6839,46.951,1.9161,Yes
+PA200,Stride Length - fast gait,cm,144.2,184.957,144.859,40.757,0.659,Yes
+PA201,Stride Length - fast gait,cm,145.8,139.15,150.7897,6.65,4.9897,Yes
+PA203,Stride Length - fast gait,cm,124.7,164.728,128.1602,40.028,3.4602,Yes
+PA207,Stride Length - fast gait,cm,108.6,181.488,141.3605,72.888,32.7605,Yes
+PA208,Stride Length - fast gait,cm,100.4,137.661,122.6015,37.261,22.2015,Yes
+PA209,Stride Length - fast gait,cm,125.6,146.127,131.5976,20.527,5.9976,Yes
+PA210,Stride Length - fast gait,cm,123.7,170.984,146.212,47.284,22.512,Yes
+PA212,Stride Length - fast gait,cm,159.6,209.373,148.8504,49.773,10.7496,Yes
+PA213,Stride Length - fast gait,cm,120.8,194.99,153.7393,74.19,32.9393,Yes
+PA214,Stride Length - fast gait,cm,154.4,211.445,153.5659,57.045,0.8341,Yes
+PA215,Stride Length - fast gait,cm,174.4,177.83,147.5874,3.43,26.8126,No
+PA217,Stride Length - fast gait,cm,147.0,191.675,149.9453,44.675,2.9453,Yes
+PA219,Stride Length - fast gait,cm,171.4,176.745,141.1875,5.345,30.2125,No
+PA221,Stride Length - fast gait,cm,155.3,207.215,153.8369,51.915,1.4631,Yes
+PA224,Stride Length - fast gait,cm,116.4,153.926,127.2309,37.526,10.8309,Yes
+PA225,Stride Length - fast gait,cm,150.6,166.733,142.0173,16.133,8.5827,Yes
+PA227,Stride Length - fast gait,cm,142.2,179.627,144.8035,37.427,2.6035,Yes
+PA230,Stride Length - fast gait,cm,135.0,181.592,151.2374,46.592,16.2374,Yes
+PA232,Stride Length - fast gait,cm,127.3,176.226,140.5054,48.926,13.2054,Yes
+PA233,Stride Length - fast gait,cm,138.3,153.252,127.7166,14.952,10.5834,Yes
+PA234,Stride Length - fast gait,cm,157.0,174.472,137.3194,17.472,19.6806,No
+PA241,Stride Length - fast gait,cm,177.5,165.882,141.0555,11.618,36.4445,No
+PA242,Stride Length - fast gait,cm,136.0,95.441,125.4182,40.559,10.5818,Yes
+PA243,Stride Length - fast gait,cm,142.2,104.308,128.132,37.892,14.068,Yes
+PA246,Stride Length - fast gait,cm,147.6,206.132,152.5758,58.532,4.9758,Yes
+PA247,Stride Length - fast gait,cm,133.7,183.017,139.0804,49.317,5.3804,Yes
+PA248,Stride Length - fast gait,cm,127.3,112.017,133.9486,15.283,6.6486,Yes
+PA249,Stride Length - fast gait,cm,114.8,138.319,131.4409,23.519,16.6409,Yes
+PA252,Stride Length - fast gait,cm,203.3,173.727,152.5182,29.573,50.7818,No
+PA257,Stride Length - fast gait,cm,133.8,153.524,140.3844,19.724,6.5844,Yes
+PA261,Stride Length - fast gait,cm,123.0,161.002,129.1839,38.002,6.1839,Yes
+PA266,Stride Length - fast gait,cm,138.6,161.094,146.8325,22.494,8.2325,Yes
+PA267,Stride Length - fast gait,cm,129.2,175.359,134.5052,46.159,5.3052,Yes
+PA268,Stride Length - fast gait,cm,116.0,153.248,126.3701,37.248,10.3701,Yes
+PA270,Stride Length - fast gait,cm,137.0,138.142,139.2065,1.142,2.2065,No
+PA274,Stride Length - fast gait,cm,134.2,186.853,147.642,52.653,13.442,Yes
+PA276,Stride Length - fast gait,cm,134.8,169.705,137.4501,34.905,2.6501,Yes
+PA277,Stride Length - fast gait,cm,95.0,148.797,131.4935,53.797,36.4935,Yes
+PA280,Stride Length - fast gait,cm,144.8,194.858,145.8777,50.058,1.0777,Yes
+PA284,Stride Length - fast gait,cm,130.8,157.65,131.0602,26.85,0.2602,Yes
+PA285,Stride Length - fast gait,cm,115.8,161.838,127.9108,46.038,12.1108,Yes
+PA288,Stride Length - fast gait,cm,122.2,133.349,127.3664,11.149,5.1664,Yes
+PA289,Stride Length - fast gait,cm,142.3,170.354,144.0433,28.054,1.7433,Yes
+PA290,Stride Length - fast gait,cm,125.7,159.543,130.7908,33.843,5.0908,Yes
+PA292,Stride Length - fast gait,cm,127.0,176.061,137.5185,49.061,10.5185,Yes
+PA293,Stride Length - fast gait,cm,145.2,128.829,126.5315,16.371,18.6685,No
+PA296,Stride Length - fast gait,cm,101.0,118.586,127.4041,17.586,26.4041,No
+PA297,Stride Length - fast gait,cm,118.0,166.413,132.3625,48.413,14.3625,Yes
+PA299,Stride Length - fast gait,cm,142.2,165.892,153.091,23.692,10.891,Yes
+PA300,Stride Length - fast gait,cm,135.0,164.923,142.822,29.923,7.822,Yes
+PA302,Stride Length - fast gait,cm,121.7,167.368,136.4698,45.668,14.7698,Yes
+PA303,Stride Length - fast gait,cm,101.5,164.613,132.7375,63.113,31.2375,Yes
+PA304,Stride Length - fast gait,cm,134.0,109.982,130.8181,24.018,3.1819,Yes
+PA305,Stride Length - fast gait,cm,125.3,168.589,137.6561,43.289,12.3561,Yes
+PA309,Stride Length - fast gait,cm,153.4,212.177,154.9216,58.777,1.5216,Yes
+PA311,Stride Length - fast gait,cm,164.0,159.181,133.8446,4.819,30.1554,No
+PA312,Stride Length - fast gait,cm,174.4,123.595,149.6587,50.805,24.7413,Yes
+PA314,Stride Length - fast gait,cm,147.2,186.254,144.0523,39.054,3.1477,Yes
+PA319,Stride Length - fast gait,cm,135.3,170.92,132.557,35.62,2.743,Yes
+PA320,Stride Length - fast gait,cm,136.2,136.335,128.1358,0.135,8.0642,No
+PA326,Stride Length - fast gait,cm,151.7,174.171,144.2428,22.471,7.4572,Yes
+PA331,Stride Length - fast gait,cm,138.2,193.485,143.8399,55.285,5.6399,Yes
+PA333,Stride Length - fast gait,cm,137.4,169.026,133.5575,31.626,3.8425,Yes
+PA334,Stride Length - fast gait,cm,174.4,194.725,144.5587,20.325,29.8413,No
+PA336,Stride Length - fast gait,cm,167.8,152.254,127.035,15.546,40.765,No
+PA337,Stride Length - fast gait,cm,127.5,177.462,143.4131,49.962,15.9131,Yes
+PA339,Stride Length - fast gait,cm,131.3,170.335,134.324,39.035,3.024,Yes
+PA340,Stride Length - fast gait,cm,133.8,160.484,139.8871,26.684,6.0871,Yes
+PA341,Stride Length - fast gait,cm,162.8,139.15,136.8347,23.65,25.9653,No
+PA343,Stride Length - fast gait,cm,147.2,139.366,138.3381,7.834,8.8619,No
+PA344,Stride Length - fast gait,cm,138.5,183.717,142.9524,45.217,4.4524,Yes
+PA347,Stride Length - fast gait,cm,151.4,106.492,128.1495,44.908,23.2505,Yes
+PA350,Stride Length - fast gait,cm,152.0,117.65,130.1383,34.35,21.8617,Yes
+PA351,Stride Length - fast gait,cm,135.5,140.896,138.5318,5.396,3.0318,Yes
+PA352,Stride Length - fast gait,cm,125.8,169.798,133.9419,43.998,8.1419,Yes
+PA354,Stride Length - fast gait,cm,153.4,205.395,154.538,51.995,1.138,Yes
+PA355,Stride Length - fast gait,cm,122.7,108.048,130.3249,14.652,7.6249,Yes
+PA356,Stride Length - fast gait,cm,111.9,133.568,133.5359,21.668,21.6359,Yes
+PA358,Stride Length - fast gait,cm,125.5,154.75,133.0344,29.25,7.5344,Yes
+PA360,Stride Length - fast gait,cm,139.2,165.572,148.1422,26.372,8.9422,Yes
+PA363,Stride Length - fast gait,cm,135.6,189.716,140.609,54.116,5.009,Yes
+PA366,Stride Length - fast gait,cm,113.1,170.537,133.3952,57.437,20.2952,Yes
+PA369,Stride Length - fast gait,cm,120.8,158.025,127.3203,37.225,6.5203,Yes
+PA371,Stride Length - fast gait,cm,112.7,145.949,125.1389,33.249,12.4389,Yes
+PA372,Stride Length - fast gait,cm,116.7,155.583,125.8807,38.883,9.1807,Yes
+PA375,Stride Length - fast gait,cm,181.3,214.493,162.9353,33.193,18.3647,Yes
+PA377,Stride Length - fast gait,cm,160.0,134.197,127.9332,25.803,32.0668,No
+PA380,Stride Length - fast gait,cm,144.0,152.979,165.0712,8.979,21.0712,No
+PA382,Stride Length - fast gait,cm,129.7,169.013,149.504,39.313,19.804,Yes
+PA383,Stride Length - fast gait,cm,139.3,192.538,148.8317,53.238,9.5317,Yes
+PA386,Stride Length - fast gait,cm,176.3,169.008,138.5464,7.292,37.7536,No
+PA387,Stride Length - fast gait,cm,147.4,179.961,150.5791,32.561,3.1791,Yes
+PA388,Stride Length - fast gait,cm,138.5,160.869,144.3085,22.369,5.8085,Yes
+PA389,Stride Length - fast gait,cm,119.3,162.476,127.799,43.176,8.499,Yes
+PA390,Stride Length - fast gait,cm,138.7,151.779,126.7926,13.079,11.9074,Yes
+PA391,Stride Length - fast gait,cm,129.2,142.234,132.3759,13.034,3.1759,Yes
+PA392,Stride Length - fast gait,cm,129.7,151.255,133.2812,21.555,3.5812,Yes
+PA393,Stride Length - fast gait,cm,134.3,185.025,145.2412,50.725,10.9412,Yes
+PA394,Stride Length - fast gait,cm,146.8,169.133,149.1128,22.333,2.3128,Yes
+PA395,Stride Length - fast gait,cm,143.4,200.641,150.3143,57.241,6.9143,Yes
+PA004,Cadence - fast gait,steps/min,141.3,130.782,129.9264,10.518,11.3736,No
+PA005,Cadence - fast gait,steps/min,140.32,141.908,120.1391,1.588,20.1809,No
+PA006,Cadence - fast gait,steps/min,138.93,156.23,142.8352,17.3,3.9052,Yes
+PA018,Cadence - fast gait,steps/min,139.31,163.7,151.6577,24.39,12.3477,Yes
+PA019,Cadence - fast gait,steps/min,141.67,142.755,137.7504,1.085,3.9196,No
+PA020,Cadence - fast gait,steps/min,147.19,146.584,141.694,0.606,5.496,No
+PA021,Cadence - fast gait,steps/min,136.74,141.035,139.9299,4.295,3.1899,Yes
+PA022,Cadence - fast gait,steps/min,150.06,135.913,136.7033,14.147,13.3567,Yes
+PA030,Cadence - fast gait,steps/min,156.17,157.805,150.7195,1.635,5.4505,No
+PA031,Cadence - fast gait,steps/min,187.59,169.266,164.7008,18.324,22.8892,No
+PA033,Cadence - fast gait,steps/min,169.65,135.357,135.1578,34.293,34.4922,No
+PA035,Cadence - fast gait,steps/min,162.22,154.453,147.3248,7.767,14.8952,No
+PA037,Cadence - fast gait,steps/min,177.0,150.844,148.7039,26.156,28.2961,No
+PA040,Cadence - fast gait,steps/min,156.97,148.59,138.082,8.38,18.888,No
+PA042,Cadence - fast gait,steps/min,144.94,142.26,146.2051,2.68,1.2651,Yes
+PA043,Cadence - fast gait,steps/min,147.5,140.384,145.0266,7.116,2.4734,Yes
+PA045,Cadence - fast gait,steps/min,123.1,145.862,146.5837,22.762,23.4837,No
+PA047,Cadence - fast gait,steps/min,142.39,146.74,139.4599,4.35,2.9301,Yes
+PA048,Cadence - fast gait,steps/min,121.16,145.408,150.4671,24.248,29.3071,No
+PA049,Cadence - fast gait,steps/min,147.39,138.632,135.529,8.758,11.861,No
+PA051,Cadence - fast gait,steps/min,146.55,134.634,147.7665,11.916,1.2165,Yes
+PA052,Cadence - fast gait,steps/min,110.36,147.619,144.9988,37.259,34.6388,Yes
+PA054,Cadence - fast gait,steps/min,142.77,133.27,133.5479,9.5,9.2221,Yes
+PA057,Cadence - fast gait,steps/min,165.59,151.583,151.6418,14.007,13.9482,Yes
+PA058,Cadence - fast gait,steps/min,131.6,136.35,136.2556,4.75,4.6556,Yes
+PA059,Cadence - fast gait,steps/min,132.7,143.875,139.2706,11.175,6.5706,Yes
+PA063,Cadence - fast gait,steps/min,178.53,192.325,157.7071,13.795,20.8229,No
+PA066,Cadence - fast gait,steps/min,173.88,155.408,156.7452,18.472,17.1348,Yes
+PA070,Cadence - fast gait,steps/min,148.58,145.862,139.2043,2.718,9.3757,No
+PA072,Cadence - fast gait,steps/min,178.05,159.265,140.7937,18.785,37.2563,No
+PA074,Cadence - fast gait,steps/min,157.45,159.74,156.6507,2.29,0.7993,Yes
+PA079,Cadence - fast gait,steps/min,135.97,183.566,153.6168,47.596,17.6468,Yes
+PA080,Cadence - fast gait,steps/min,243.92,229.607,159.6029,14.313,84.3171,No
+PA081,Cadence - fast gait,steps/min,134.09,151.841,145.3287,17.751,11.2387,Yes
+PA082,Cadence - fast gait,steps/min,191.58,180.996,164.4578,10.584,27.1222,No
+PA083,Cadence - fast gait,steps/min,122.9,137.016,130.2825,14.116,7.3825,Yes
+PA084,Cadence - fast gait,steps/min,130.75,153.911,151.6598,23.161,20.9098,Yes
+PA091,Cadence - fast gait,steps/min,155.99,138.616,143.0224,17.374,12.9676,Yes
+PA092,Cadence - fast gait,steps/min,166.46,167.435,161.0939,0.975,5.3661,No
+PA093,Cadence - fast gait,steps/min,147.68,151.977,154.4648,4.297,6.7848,No
+PA094,Cadence - fast gait,steps/min,149.79,144.929,145.3675,4.861,4.4225,Yes
+PA096,Cadence - fast gait,steps/min,121.73,152.491,148.99,30.761,27.26,Yes
+PA098,Cadence - fast gait,steps/min,170.77,156.513,148.4112,14.257,22.3588,No
+PA099,Cadence - fast gait,steps/min,88.44,162.689,163.527,74.249,75.087,No
+PA100,Cadence - fast gait,steps/min,121.73,160.906,152.6729,39.176,30.9429,Yes
+PA106,Cadence - fast gait,steps/min,115.72,134.157,132.6904,18.437,16.9704,Yes
+PA108,Cadence - fast gait,steps/min,130.34,150.033,140.4746,19.693,10.1346,Yes
+PA112,Cadence - fast gait,steps/min,132.67,134.254,129.8121,1.584,2.8579,No
+PA115,Cadence - fast gait,steps/min,107.55,137.671,128.0568,30.121,20.5068,Yes
+PA116,Cadence - fast gait,steps/min,148.67,150.117,150.2803,1.447,1.6103,No
+PA117,Cadence - fast gait,steps/min,157.52,140.963,143.0601,16.557,14.4599,Yes
+PA118,Cadence - fast gait,steps/min,149.62,152.566,150.8727,2.946,1.2527,Yes
+PA119,Cadence - fast gait,steps/min,136.2,159.019,158.2925,22.819,22.0925,Yes
+PA120,Cadence - fast gait,steps/min,108.73,145.383,141.1494,36.653,32.4194,Yes
+PA131,Cadence - fast gait,steps/min,154.68,190.681,195.2708,36.001,40.5908,No
+PA133,Cadence - fast gait,steps/min,133.01,148.149,141.4321,15.139,8.4221,Yes
+PA136,Cadence - fast gait,steps/min,157.38,149.275,149.1796,8.105,8.2004,No
+PA137,Cadence - fast gait,steps/min,164.57,156.031,147.2616,8.539,17.3084,No
+PA139,Cadence - fast gait,steps/min,165.13,167.4,165.2679,2.27,0.1379,Yes
+PA144,Cadence - fast gait,steps/min,103.98,138.806,140.8731,34.826,36.8931,No
+PA145,Cadence - fast gait,steps/min,127.74,146.766,150.1669,19.026,22.4269,No
+PA147,Cadence - fast gait,steps/min,114.72,155.46,142.382,40.74,27.662,Yes
+PA158,Cadence - fast gait,steps/min,118.91,155.178,158.0629,36.268,39.1529,No
+PA159,Cadence - fast gait,steps/min,121.88,125.864,120.9747,3.984,0.9053,Yes
+PA160,Cadence - fast gait,steps/min,153.88,159.634,154.0198,5.754,0.1398,Yes
+PA162,Cadence - fast gait,steps/min,86.51,116.504,119.2057,29.994,32.6957,No
+PA166,Cadence - fast gait,steps/min,123.07,121.39,117.6078,1.68,5.4622,No
+PA167,Cadence - fast gait,steps/min,179.64,177.098,164.3014,2.542,15.3386,No
+PA168,Cadence - fast gait,steps/min,139.99,142.21,132.8134,2.22,7.1766,No
+PA170,Cadence - fast gait,steps/min,139.0,139.138,141.0069,0.138,2.0069,No
+PA171,Cadence - fast gait,steps/min,139.36,130.015,128.6196,9.345,10.7404,No
+PA172,Cadence - fast gait,steps/min,190.65,160.545,132.1538,30.105,58.4962,No
+PA173,Cadence - fast gait,steps/min,132.47,143.075,130.1218,10.605,2.3482,Yes
+PA175,Cadence - fast gait,steps/min,137.6,153.612,146.1924,16.012,8.5924,Yes
+PA178,Cadence - fast gait,steps/min,130.84,138.94,138.6691,8.1,7.8291,Yes
+PA184,Cadence - fast gait,steps/min,140.95,146.942,136.0293,5.992,4.9207,Yes
+PA187,Cadence - fast gait,steps/min,180.0,151.666,141.9128,28.334,38.0872,No
+PA188,Cadence - fast gait,steps/min,130.27,129.929,122.761,0.341,7.509,No
+PA190,Cadence - fast gait,steps/min,158.19,151.798,142.8008,6.392,15.3892,No
+PA191,Cadence - fast gait,steps/min,102.36,142.816,141.1691,40.456,38.8091,Yes
+PA192,Cadence - fast gait,steps/min,151.75,170.53,158.9549,18.78,7.2049,Yes
+PA196,Cadence - fast gait,steps/min,209.47,174.275,165.5107,35.195,43.9593,No
+PA199,Cadence - fast gait,steps/min,118.74,148.302,142.6248,29.562,23.8848,Yes
+PA200,Cadence - fast gait,steps/min,141.58,155.63,152.8221,14.05,11.2421,Yes
+PA201,Cadence - fast gait,steps/min,113.79,131.342,125.6009,17.552,11.8109,Yes
+PA203,Cadence - fast gait,steps/min,133.35,129.264,130.7368,4.086,2.6132,Yes
+PA207,Cadence - fast gait,steps/min,168.06,132.476,134.8717,35.584,33.1883,Yes
+PA208,Cadence - fast gait,steps/min,144.99,146.177,141.3352,1.187,3.6548,No
+PA209,Cadence - fast gait,steps/min,157.33,159.874,149.5409,2.544,7.7891,No
+PA210,Cadence - fast gait,steps/min,160.85,163.868,168.6891,3.018,7.8391,No
+PA212,Cadence - fast gait,steps/min,128.67,136.278,130.4486,7.608,1.7786,Yes
+PA213,Cadence - fast gait,steps/min,186.05,165.335,175.1969,20.715,10.8531,Yes
+PA214,Cadence - fast gait,steps/min,128.57,130.859,129.4676,2.289,0.8976,Yes
+PA215,Cadence - fast gait,steps/min,125.93,156.371,154.4744,30.441,28.5444,Yes
+PA217,Cadence - fast gait,steps/min,178.27,162.873,149.5835,15.397,28.6865,No
+PA219,Cadence - fast gait,steps/min,125.3,145.383,136.7791,20.083,11.4791,Yes
+PA221,Cadence - fast gait,steps/min,132.71,135.058,140.2921,2.348,7.5821,No
+PA224,Cadence - fast gait,steps/min,138.41,137.133,133.2376,1.277,5.1724,No
+PA225,Cadence - fast gait,steps/min,136.81,133.875,136.0776,2.935,0.7324,Yes
+PA227,Cadence - fast gait,steps/min,145.08,141.883,132.8351,3.197,12.2449,No
+PA230,Cadence - fast gait,steps/min,161.06,165.397,156.4549,4.337,4.6051,No
+PA232,Cadence - fast gait,steps/min,122.43,131.425,128.0409,8.995,5.6109,Yes
+PA233,Cadence - fast gait,steps/min,122.12,138.389,130.6622,16.269,8.5422,Yes
+PA234,Cadence - fast gait,steps/min,132.4,131.539,128.5404,0.861,3.8596,No
+PA241,Cadence - fast gait,steps/min,112.27,133.516,139.6021,21.246,27.3321,No
+PA242,Cadence - fast gait,steps/min,141.73,139.469,133.1531,2.261,8.5769,No
+PA243,Cadence - fast gait,steps/min,126.78,145.919,142.9753,19.139,16.1953,Yes
+PA246,Cadence - fast gait,steps/min,142.43,138.572,135.7643,3.858,6.6657,No
+PA247,Cadence - fast gait,steps/min,135.38,142.732,137.5104,7.352,2.1304,Yes
+PA248,Cadence - fast gait,steps/min,149.73,137.98,136.3689,11.75,13.3611,No
+PA249,Cadence - fast gait,steps/min,189.91,168.336,164.8071,21.574,25.1029,No
+PA252,Cadence - fast gait,steps/min,105.94,137.301,131.7392,31.361,25.7992,Yes
+PA257,Cadence - fast gait,steps/min,146.68,141.23,137.7205,5.45,8.9595,No
+PA261,Cadence - fast gait,steps/min,133.46,137.341,135.7762,3.881,2.3162,Yes
+PA266,Cadence - fast gait,steps/min,138.43,142.6,138.4923,4.17,0.0623,Yes
+PA267,Cadence - fast gait,steps/min,178.84,177.209,161.1046,1.631,17.7354,No
+PA268,Cadence - fast gait,steps/min,174.37,149.514,144.9514,24.856,29.4186,No
+PA270,Cadence - fast gait,steps/min,132.68,139.884,129.6325,7.204,3.0475,Yes
+PA274,Cadence - fast gait,steps/min,126.55,134.606,140.1197,8.056,13.5697,No
+PA276,Cadence - fast gait,steps/min,142.37,144.493,140.2353,2.123,2.1347,No
+PA277,Cadence - fast gait,steps/min,127.22,128.675,127.8961,1.455,0.6761,Yes
+PA280,Cadence - fast gait,steps/min,151.73,140.271,131.3806,11.459,20.3494,No
+PA284,Cadence - fast gait,steps/min,182.61,166.988,153.1239,15.622,29.4861,No
+PA285,Cadence - fast gait,steps/min,144.28,145.991,139.3001,1.711,4.9799,No
+PA288,Cadence - fast gait,steps/min,150.91,147.586,147.324,3.324,3.586,No
+PA289,Cadence - fast gait,steps/min,143.63,139.772,142.5572,3.858,1.0728,Yes
+PA290,Cadence - fast gait,steps/min,138.12,142.886,145.4327,4.766,7.3127,No
+PA292,Cadence - fast gait,steps/min,116.25,124.423,127.6019,8.173,11.3519,No
+PA293,Cadence - fast gait,steps/min,108.83,126.886,125.8238,18.056,16.9938,Yes
+PA296,Cadence - fast gait,steps/min,161.69,149.17,150.2229,12.52,11.4671,Yes
+PA297,Cadence - fast gait,steps/min,148.85,145.533,143.7715,3.317,5.0785,No
+PA299,Cadence - fast gait,steps/min,150.23,138.955,142.2934,11.275,7.9366,Yes
+PA300,Cadence - fast gait,steps/min,132.25,138.079,140.5257,5.829,8.2757,No
+PA302,Cadence - fast gait,steps/min,153.38,149.892,146.0556,3.488,7.3244,No
+PA303,Cadence - fast gait,steps/min,104.66,110.999,117.0992,6.339,12.4392,No
+PA304,Cadence - fast gait,steps/min,160.13,155.098,143.4506,5.032,16.6794,No
+PA305,Cadence - fast gait,steps/min,144.97,144.516,137.206,0.454,7.764,No
+PA309,Cadence - fast gait,steps/min,144.37,140.543,134.2772,3.827,10.0928,No
+PA311,Cadence - fast gait,steps/min,126.69,144.627,140.9316,17.937,14.2416,Yes
+PA312,Cadence - fast gait,steps/min,139.3,148.384,135.0061,9.084,4.2939,Yes
+PA314,Cadence - fast gait,steps/min,119.61,120.717,129.3457,1.107,9.7357,No
+PA319,Cadence - fast gait,steps/min,160.49,155.085,153.8872,5.405,6.6028,No
+PA320,Cadence - fast gait,steps/min,127.52,139.182,141.2783,11.662,13.7583,No
+PA326,Cadence - fast gait,steps/min,137.46,139.581,133.574,2.121,3.886,No
+PA331,Cadence - fast gait,steps/min,136.68,129.151,137.9205,7.529,1.2405,Yes
+PA333,Cadence - fast gait,steps/min,157.89,169.702,156.3694,11.812,1.5206,Yes
+PA334,Cadence - fast gait,steps/min,107.84,128.553,133.3137,20.713,25.4737,No
+PA336,Cadence - fast gait,steps/min,119.73,129.752,126.5824,10.022,6.8524,Yes
+PA337,Cadence - fast gait,steps/min,156.44,157.631,140.5386,1.191,15.9014,No
+PA339,Cadence - fast gait,steps/min,146.13,166.224,163.72,20.094,17.59,Yes
+PA340,Cadence - fast gait,steps/min,140.63,129.167,129.8608,11.463,10.7692,Yes
+PA341,Cadence - fast gait,steps/min,122.29,147.505,139.2769,25.215,16.9869,Yes
+PA343,Cadence - fast gait,steps/min,150.97,165.772,152.4949,14.802,1.5249,Yes
+PA344,Cadence - fast gait,steps/min,123.5,131.215,123.9904,7.715,0.4904,Yes
+PA347,Cadence - fast gait,steps/min,123.52,153.818,141.7891,30.298,18.2691,Yes
+PA350,Cadence - fast gait,steps/min,147.53,142.69,135.4656,4.84,12.0644,No
+PA351,Cadence - fast gait,steps/min,139.95,156.195,150.2847,16.245,10.3347,Yes
+PA352,Cadence - fast gait,steps/min,162.6,162.171,152.9768,0.429,9.6232,No
+PA354,Cadence - fast gait,steps/min,166.92,148.312,154.2696,18.608,12.6504,Yes
+PA355,Cadence - fast gait,steps/min,144.53,136.203,137.0482,8.327,7.4818,Yes
+PA356,Cadence - fast gait,steps/min,164.12,155.39,145.1985,8.73,18.9215,No
+PA358,Cadence - fast gait,steps/min,167.39,155.39,144.9006,12.0,22.4894,No
+PA360,Cadence - fast gait,steps/min,155.75,157.526,142.9825,1.776,12.7675,No
+PA363,Cadence - fast gait,steps/min,145.23,142.824,144.474,2.406,0.756,Yes
+PA366,Cadence - fast gait,steps/min,155.29,152.477,143.0974,2.813,12.1926,No
+PA369,Cadence - fast gait,steps/min,178.17,167.216,159.5537,10.954,18.6163,No
+PA371,Cadence - fast gait,steps/min,138.28,133.845,134.0538,4.435,4.2262,Yes
+PA372,Cadence - fast gait,steps/min,161.77,136.645,130.2407,25.125,31.5293,No
+PA375,Cadence - fast gait,steps/min,172.06,150.351,154.9112,21.709,17.1488,Yes
+PA377,Cadence - fast gait,steps/min,110.87,137.897,126.6169,27.027,15.7469,Yes
+PA380,Cadence - fast gait,steps/min,161.78,184.618,160.7581,22.838,1.0219,Yes
+PA382,Cadence - fast gait,steps/min,193.69,195.07,150.3003,1.38,43.3897,No
+PA383,Cadence - fast gait,steps/min,147.22,133.426,144.5627,13.794,2.6573,Yes
+PA386,Cadence - fast gait,steps/min,100.47,124.699,129.0346,24.229,28.5646,No
+PA387,Cadence - fast gait,steps/min,138.4,131.168,128.7456,7.232,9.6544,No
+PA388,Cadence - fast gait,steps/min,154.72,159.495,153.8897,4.775,0.8303,Yes
+PA389,Cadence - fast gait,steps/min,162.47,146.026,146.9564,16.444,15.5136,Yes
+PA390,Cadence - fast gait,steps/min,126.84,151.324,143.1692,24.484,16.3292,Yes
+PA391,Cadence - fast gait,steps/min,128.57,145.745,132.755,17.175,4.185,Yes
+PA392,Cadence - fast gait,steps/min,150.28,151.12,142.0665,0.84,8.2135,No
+PA393,Cadence - fast gait,steps/min,164.63,156.513,154.8752,8.117,9.7548,No
+PA394,Cadence - fast gait,steps/min,147.99,135.424,139.86,12.566,8.13,Yes
+PA395,Cadence - fast gait,steps/min,167.88,149.95,144.9361,17.93,22.9439,No
+PA004,Gait Speed - fast gait,m/s,2.03,2.031,2.1102,0.001,0.0802,No
+PA005,Gait Speed - fast gait,m/s,2.33,2.483,2.5414,0.153,0.2114,No
+PA006,Gait Speed - fast gait,m/s,2.05,2.321,2.38,0.271,0.33,No
+PA018,Gait Speed - fast gait,m/s,2.0,2.408,2.2858,0.408,0.2858,Yes
+PA019,Gait Speed - fast gait,m/s,2.23,2.115,2.141,0.115,0.089,Yes
+PA020,Gait Speed - fast gait,m/s,2.17,2.163,2.1844,0.007,0.0144,No
+PA021,Gait Speed - fast gait,m/s,2.49,2.468,2.3234,0.022,0.1666,No
+PA022,Gait Speed - fast gait,m/s,2.01,2.138,2.1348,0.128,0.1248,Yes
+PA030,Gait Speed - fast gait,m/s,2.7,2.483,2.6464,0.217,0.0536,Yes
+PA031,Gait Speed - fast gait,m/s,3.08,2.962,2.724,0.118,0.356,No
+PA033,Gait Speed - fast gait,m/s,1.95,2.128,2.0848,0.178,0.1348,Yes
+PA035,Gait Speed - fast gait,m/s,2.35,2.293,2.2967,0.057,0.0533,Yes
+PA037,Gait Speed - fast gait,m/s,2.43,2.112,2.2488,0.318,0.1812,Yes
+PA040,Gait Speed - fast gait,m/s,2.23,2.332,2.0847,0.102,0.1453,No
+PA042,Gait Speed - fast gait,m/s,2.41,2.352,2.4677,0.058,0.0577,Yes
+PA043,Gait Speed - fast gait,m/s,2.49,2.457,2.395,0.033,0.095,No
+PA045,Gait Speed - fast gait,m/s,2.1,2.165,2.041,0.065,0.059,Yes
+PA047,Gait Speed - fast gait,m/s,2.53,2.301,2.2915,0.229,0.2385,No
+PA048,Gait Speed - fast gait,m/s,2.64,2.411,2.5952,0.229,0.0448,Yes
+PA049,Gait Speed - fast gait,m/s,2.23,2.055,1.9844,0.175,0.2456,No
+PA051,Gait Speed - fast gait,m/s,2.16,2.235,2.3259,0.075,0.1659,No
+PA052,Gait Speed - fast gait,m/s,2.44,2.583,2.5608,0.143,0.1208,Yes
+PA054,Gait Speed - fast gait,m/s,2.02,2.211,2.0725,0.191,0.0525,Yes
+PA057,Gait Speed - fast gait,m/s,2.08,2.122,2.1077,0.042,0.0277,Yes
+PA058,Gait Speed - fast gait,m/s,2.29,2.255,2.1055,0.035,0.1845,No
+PA059,Gait Speed - fast gait,m/s,2.91,2.71,2.5094,0.2,0.4006,No
+PA063,Gait Speed - fast gait,m/s,2.44,2.572,2.3953,0.132,0.0447,Yes
+PA066,Gait Speed - fast gait,m/s,2.48,2.586,2.4018,0.106,0.0782,Yes
+PA070,Gait Speed - fast gait,m/s,2.25,2.152,2.1821,0.098,0.0679,Yes
+PA072,Gait Speed - fast gait,m/s,2.51,2.136,2.1095,0.374,0.4005,No
+PA074,Gait Speed - fast gait,m/s,2.34,2.513,2.4419,0.173,0.1019,Yes
+PA079,Gait Speed - fast gait,m/s,2.54,2.727,2.7069,0.187,0.1669,Yes
+PA080,Gait Speed - fast gait,m/s,4.49,4.018,4.2335,0.472,0.2565,Yes
+PA081,Gait Speed - fast gait,m/s,2.2,2.126,2.1042,0.074,0.0958,No
+PA082,Gait Speed - fast gait,m/s,2.68,2.534,2.6018,0.146,0.0782,Yes
+PA083,Gait Speed - fast gait,m/s,2.06,2.277,2.1791,0.217,0.1191,Yes
+PA084,Gait Speed - fast gait,m/s,2.16,2.42,2.3209,0.26,0.1609,Yes
+PA091,Gait Speed - fast gait,m/s,2.2,2.165,2.3785,0.035,0.1785,No
+PA092,Gait Speed - fast gait,m/s,2.28,2.344,2.4339,0.064,0.1539,No
+PA093,Gait Speed - fast gait,m/s,2.94,2.867,2.7115,0.073,0.2285,No
+PA094,Gait Speed - fast gait,m/s,2.14,2.029,2.0522,0.111,0.0878,Yes
+PA096,Gait Speed - fast gait,m/s,2.4,2.526,2.472,0.126,0.072,Yes
+PA098,Gait Speed - fast gait,m/s,2.46,2.596,2.3998,0.136,0.0602,Yes
+PA099,Gait Speed - fast gait,m/s,2.72,2.847,2.8167,0.127,0.0967,Yes
+PA100,Gait Speed - fast gait,m/s,2.71,2.816,2.6379,0.106,0.0721,Yes
+PA106,Gait Speed - fast gait,m/s,2.0,2.105,2.021,0.105,0.021,Yes
+PA108,Gait Speed - fast gait,m/s,2.47,2.497,2.5167,0.027,0.0467,No
+PA112,Gait Speed - fast gait,m/s,1.87,1.988,2.0092,0.118,0.1392,No
+PA115,Gait Speed - fast gait,m/s,1.88,2.409,2.237,0.529,0.357,Yes
+PA116,Gait Speed - fast gait,m/s,2.15,2.349,2.3452,0.199,0.1952,Yes
+PA117,Gait Speed - fast gait,m/s,2.52,2.467,2.5022,0.053,0.0178,Yes
+PA118,Gait Speed - fast gait,m/s,2.33,2.386,2.4467,0.056,0.1167,No
+PA119,Gait Speed - fast gait,m/s,2.64,2.489,2.5908,0.151,0.0492,Yes
+PA120,Gait Speed - fast gait,m/s,2.42,2.413,2.2451,0.007,0.1749,No
+PA131,Gait Speed - fast gait,m/s,3.07,3.337,3.4862,0.267,0.4162,No
+PA133,Gait Speed - fast gait,m/s,2.43,2.074,2.1511,0.356,0.2789,Yes
+PA136,Gait Speed - fast gait,m/s,2.72,2.612,2.5192,0.108,0.2008,No
+PA137,Gait Speed - fast gait,m/s,2.31,2.313,2.3164,0.003,0.0064,No
+PA139,Gait Speed - fast gait,m/s,2.3,2.344,2.4693,0.044,0.1693,No
+PA144,Gait Speed - fast gait,m/s,2.29,2.296,2.2875,0.006,0.0025,Yes
+PA145,Gait Speed - fast gait,m/s,3.05,2.568,2.6721,0.482,0.3779,Yes
+PA147,Gait Speed - fast gait,m/s,2.29,2.176,2.1631,0.114,0.1269,No
+PA158,Gait Speed - fast gait,m/s,2.65,2.716,2.6944,0.066,0.0444,Yes
+PA159,Gait Speed - fast gait,m/s,1.87,1.616,1.7778,0.254,0.0922,Yes
+PA160,Gait Speed - fast gait,m/s,2.15,2.496,2.4624,0.346,0.3124,Yes
+PA162,Gait Speed - fast gait,m/s,1.88,2.193,1.9981,0.313,0.1181,Yes
+PA166,Gait Speed - fast gait,m/s,1.77,1.799,1.6923,0.029,0.0777,No
+PA167,Gait Speed - fast gait,m/s,2.46,2.479,2.3152,0.019,0.1448,No
+PA168,Gait Speed - fast gait,m/s,2.03,1.991,2.0407,0.039,0.0107,Yes
+PA170,Gait Speed - fast gait,m/s,2.0,2.067,2.2017,0.067,0.2017,No
+PA171,Gait Speed - fast gait,m/s,2.37,1.937,2.0118,0.433,0.3582,Yes
+PA172,Gait Speed - fast gait,m/s,2.9,2.374,2.6377,0.526,0.2623,Yes
+PA173,Gait Speed - fast gait,m/s,2.28,2.124,2.0912,0.156,0.1888,No
+PA175,Gait Speed - fast gait,m/s,2.43,2.151,2.1835,0.279,0.2465,Yes
+PA178,Gait Speed - fast gait,m/s,1.99,2.298,2.3152,0.308,0.3252,No
+PA184,Gait Speed - fast gait,m/s,2.31,2.443,2.3362,0.133,0.0262,Yes
+PA187,Gait Speed - fast gait,m/s,2.63,2.123,2.3633,0.507,0.2667,Yes
+PA188,Gait Speed - fast gait,m/s,2.02,2.052,2.0514,0.032,0.0314,Yes
+PA190,Gait Speed - fast gait,m/s,1.99,2.125,2.1034,0.135,0.1134,Yes
+PA191,Gait Speed - fast gait,m/s,2.29,2.499,2.3859,0.209,0.0959,Yes
+PA192,Gait Speed - fast gait,m/s,2.5,2.524,2.4263,0.024,0.0737,No
+PA196,Gait Speed - fast gait,m/s,3.2,2.886,2.7187,0.314,0.4813,No
+PA199,Gait Speed - fast gait,m/s,1.9,2.2,2.2112,0.3,0.3112,No
+PA200,Gait Speed - fast gait,m/s,2.38,2.284,2.537,0.096,0.157,No
+PA201,Gait Speed - fast gait,m/s,2.08,2.191,2.153,0.111,0.073,Yes
+PA203,Gait Speed - fast gait,m/s,1.88,1.81,1.8974,0.07,0.0174,Yes
+PA207,Gait Speed - fast gait,m/s,2.05,2.204,2.126,0.154,0.076,Yes
+PA208,Gait Speed - fast gait,m/s,2.04,1.958,1.8943,0.082,0.1457,No
+PA209,Gait Speed - fast gait,m/s,2.15,2.141,2.2224,0.009,0.0724,No
+PA210,Gait Speed - fast gait,m/s,2.64,2.719,2.7284,0.079,0.0884,No
+PA212,Gait Speed - fast gait,m/s,2.58,2.262,2.2454,0.318,0.3346,No
+PA213,Gait Speed - fast gait,m/s,2.78,2.893,2.9766,0.113,0.1966,No
+PA214,Gait Speed - fast gait,m/s,2.2,2.29,2.2638,0.09,0.0638,Yes
+PA215,Gait Speed - fast gait,m/s,2.48,2.453,2.5519,0.027,0.0719,No
+PA217,Gait Speed - fast gait,m/s,3.02,2.71,2.5939,0.31,0.4261,No
+PA219,Gait Speed - fast gait,m/s,2.46,2.544,2.3388,0.084,0.1212,No
+PA221,Gait Speed - fast gait,m/s,2.31,2.235,2.399,0.075,0.089,No
+PA224,Gait Speed - fast gait,m/s,1.96,1.836,1.8807,0.124,0.0793,Yes
+PA225,Gait Speed - fast gait,m/s,2.3,2.343,2.1262,0.043,0.1738,No
+PA227,Gait Speed - fast gait,m/s,2.42,2.352,2.2466,0.068,0.1734,No
+PA230,Gait Speed - fast gait,m/s,2.66,2.746,2.717,0.086,0.057,Yes
+PA232,Gait Speed - fast gait,m/s,1.88,1.84,1.9666,0.04,0.0866,No
+PA233,Gait Speed - fast gait,m/s,1.8,1.692,1.9115,0.108,0.1115,No
+PA234,Gait Speed - fast gait,m/s,1.95,1.954,2.0602,0.004,0.1102,No
+PA241,Gait Speed - fast gait,m/s,2.11,2.219,2.1185,0.109,0.0085,Yes
+PA242,Gait Speed - fast gait,m/s,2.11,1.953,1.9304,0.157,0.1796,No
+PA243,Gait Speed - fast gait,m/s,1.86,2.043,2.0835,0.183,0.2235,No
+PA246,Gait Speed - fast gait,m/s,2.38,2.604,2.4396,0.224,0.0596,Yes
+PA247,Gait Speed - fast gait,m/s,2.01,1.998,2.1102,0.012,0.1002,No
+PA248,Gait Speed - fast gait,m/s,2.12,2.165,2.1142,0.045,0.0058,Yes
+PA249,Gait Speed - fast gait,m/s,2.21,2.254,2.2642,0.044,0.0542,No
+PA252,Gait Speed - fast gait,m/s,2.4,2.164,2.2686,0.236,0.1314,Yes
+PA257,Gait Speed - fast gait,m/s,2.14,2.34,2.1691,0.2,0.0291,Yes
+PA261,Gait Speed - fast gait,m/s,2.1,1.923,1.8516,0.177,0.2484,No
+PA266,Gait Speed - fast gait,m/s,2.27,2.355,2.283,0.085,0.013,Yes
+PA267,Gait Speed - fast gait,m/s,2.48,2.481,2.571,0.001,0.091,No
+PA268,Gait Speed - fast gait,m/s,2.24,1.921,2.0337,0.319,0.2063,Yes
+PA270,Gait Speed - fast gait,m/s,2.01,2.198,2.0778,0.188,0.0678,Yes
+PA274,Gait Speed - fast gait,m/s,2.16,2.102,2.1832,0.058,0.0232,Yes
+PA276,Gait Speed - fast gait,m/s,2.09,2.142,2.1061,0.052,0.0161,Yes
+PA277,Gait Speed - fast gait,m/s,1.56,1.648,1.7662,0.088,0.2062,No
+PA280,Gait Speed - fast gait,m/s,2.55,2.321,2.3135,0.229,0.2365,No
+PA284,Gait Speed - fast gait,m/s,2.38,2.238,2.1643,0.142,0.2157,No
+PA285,Gait Speed - fast gait,m/s,1.85,1.955,2.0558,0.105,0.2058,No
+PA288,Gait Speed - fast gait,m/s,2.36,1.975,2.0781,0.385,0.2819,Yes
+PA289,Gait Speed - fast gait,m/s,2.4,2.446,2.4289,0.046,0.0289,Yes
+PA290,Gait Speed - fast gait,m/s,1.93,2.107,2.1301,0.177,0.2001,No
+PA292,Gait Speed - fast gait,m/s,1.88,1.961,1.9272,0.081,0.0472,Yes
+PA293,Gait Speed - fast gait,m/s,1.69,1.776,1.8036,0.086,0.1136,No
+PA296,Gait Speed - fast gait,m/s,2.2,2.199,2.2068,0.001,0.0068,No
+PA297,Gait Speed - fast gait,m/s,1.88,2.037,2.1473,0.157,0.2673,No
+PA299,Gait Speed - fast gait,m/s,2.56,2.432,2.4054,0.128,0.1546,No
+PA300,Gait Speed - fast gait,m/s,2.14,2.158,2.2887,0.018,0.1487,No
+PA302,Gait Speed - fast gait,m/s,2.08,2.098,2.1482,0.018,0.0682,No
+PA303,Gait Speed - fast gait,m/s,1.29,1.554,1.647,0.264,0.357,No
+PA304,Gait Speed - fast gait,m/s,2.37,2.3,2.199,0.07,0.171,No
+PA305,Gait Speed - fast gait,m/s,1.96,2.023,2.0736,0.063,0.1136,No
+PA309,Gait Speed - fast gait,m/s,2.44,2.459,2.3339,0.019,0.1061,No
+PA311,Gait Speed - fast gait,m/s,2.23,2.025,2.1406,0.205,0.0894,Yes
+PA312,Gait Speed - fast gait,m/s,2.58,2.597,2.4937,0.017,0.0863,No
+PA314,Gait Speed - fast gait,m/s,1.99,1.784,1.9511,0.206,0.0389,Yes
+PA319,Gait Speed - fast gait,m/s,2.34,2.302,2.2309,0.038,0.1091,No
+PA320,Gait Speed - fast gait,m/s,1.85,1.865,1.8948,0.015,0.0448,No
+PA326,Gait Speed - fast gait,m/s,2.23,2.069,2.1883,0.161,0.0417,Yes
+PA331,Gait Speed - fast gait,m/s,1.52,2.26,2.2538,0.74,0.7338,Yes
+PA333,Gait Speed - fast gait,m/s,2.33,2.376,2.388,0.046,0.058,No
+PA334,Gait Speed - fast gait,m/s,2.44,2.25,2.1649,0.19,0.2751,No
+PA336,Gait Speed - fast gait,m/s,2.11,2.039,1.8346,0.071,0.2754,No
+PA337,Gait Speed - fast gait,m/s,2.31,2.207,2.2208,0.103,0.0892,Yes
+PA339,Gait Speed - fast gait,m/s,2.26,2.47,2.4667,0.21,0.2067,Yes
+PA340,Gait Speed - fast gait,m/s,2.07,2.26,2.076,0.19,0.006,Yes
+PA341,Gait Speed - fast gait,m/s,2.21,2.314,2.3372,0.104,0.1272,No
+PA343,Gait Speed - fast gait,m/s,2.4,2.321,2.4126,0.079,0.0126,Yes
+PA344,Gait Speed - fast gait,m/s,1.9,1.946,1.9763,0.046,0.0763,No
+PA347,Gait Speed - fast gait,m/s,1.68,2.153,2.1018,0.473,0.4218,Yes
+PA350,Gait Speed - fast gait,m/s,2.23,2.116,2.0363,0.114,0.1937,No
+PA351,Gait Speed - fast gait,m/s,2.44,2.447,2.4297,0.007,0.0103,No
+PA352,Gait Speed - fast gait,m/s,2.07,2.27,2.3191,0.2,0.2491,No
+PA354,Gait Speed - fast gait,m/s,2.79,2.756,2.6988,0.034,0.0912,No
+PA355,Gait Speed - fast gait,m/s,2.23,1.818,2.1035,0.412,0.1265,Yes
+PA356,Gait Speed - fast gait,m/s,2.19,2.175,2.1189,0.015,0.0711,No
+PA358,Gait Speed - fast gait,m/s,2.32,2.175,2.1868,0.145,0.1332,Yes
+PA360,Gait Speed - fast gait,m/s,2.44,2.473,2.4922,0.033,0.0522,No
+PA363,Gait Speed - fast gait,m/s,2.67,2.361,2.3142,0.309,0.3558,No
+PA366,Gait Speed - fast gait,m/s,2.12,2.135,2.1179,0.015,0.0021,Yes
+PA369,Gait Speed - fast gait,m/s,2.11,2.244,2.2904,0.134,0.1804,No
+PA371,Gait Speed - fast gait,m/s,1.71,1.789,1.831,0.079,0.121,No
+PA372,Gait Speed - fast gait,m/s,1.99,1.83,1.8418,0.16,0.1482,Yes
+PA375,Gait Speed - fast gait,m/s,3.7,3.239,3.1313,0.461,0.5687,No
+PA377,Gait Speed - fast gait,m/s,1.98,1.931,1.9358,0.049,0.0442,Yes
+PA380,Gait Speed - fast gait,m/s,2.72,3.231,3.4532,0.511,0.7332,No
+PA382,Gait Speed - fast gait,m/s,2.95,2.892,2.9219,0.058,0.0281,Yes
+PA383,Gait Speed - fast gait,m/s,2.16,2.068,2.3824,0.092,0.2224,No
+PA386,Gait Speed - fast gait,m/s,1.88,1.852,1.9134,0.028,0.0334,No
+PA387,Gait Speed - fast gait,m/s,2.27,2.174,2.1441,0.096,0.1259,No
+PA388,Gait Speed - fast gait,m/s,2.55,2.376,2.5515,0.174,0.0015,Yes
+PA389,Gait Speed - fast gait,m/s,2.08,2.044,2.147,0.036,0.067,No
+PA390,Gait Speed - fast gait,m/s,1.81,1.936,1.9672,0.126,0.1572,No
+PA391,Gait Speed - fast gait,m/s,2.09,2.04,2.0729,0.05,0.0171,Yes
+PA392,Gait Speed - fast gait,m/s,2.35,2.116,2.1108,0.234,0.2392,No
+PA393,Gait Speed - fast gait,m/s,3.0,2.596,2.5045,0.404,0.4955,No
+PA394,Gait Speed - fast gait,m/s,2.42,2.249,2.4234,0.171,0.0034,Yes
+PA395,Gait Speed - fast gait,m/s,2.82,2.624,2.5259,0.196,0.2941,No
+PA004,Single Support Time - usual gait,s,0.432,,0.3916,,0.0404,No baseline
+PA005,Single Support Time - usual gait,s,0.401,,0.3705,,0.0305,No baseline
+PA006,Single Support Time - usual gait,s,0.419,,0.4107,,0.0083,No baseline
+PA018,Single Support Time - usual gait,s,0.369,,0.3971,,0.0281,No baseline
+PA019,Single Support Time - usual gait,s,0.372,,0.3861,,0.0141,No baseline
+PA020,Single Support Time - usual gait,s,0.353,,0.3814,,0.0284,No baseline
+PA021,Single Support Time - usual gait,s,0.384,,0.3895,,0.0055,No baseline
+PA022,Single Support Time - usual gait,s,0.406,,0.3892,,0.0168,No baseline
+PA030,Single Support Time - usual gait,s,0.372,,0.3794,,0.0074,No baseline
+PA031,Single Support Time - usual gait,s,0.393,,0.3778,,0.0152,No baseline
+PA033,Single Support Time - usual gait,s,0.445,,0.3863,,0.0587,No baseline
+PA035,Single Support Time - usual gait,s,0.379,,0.3851,,0.0061,No baseline
+PA037,Single Support Time - usual gait,s,0.352,,0.3671,,0.0151,No baseline
+PA040,Single Support Time - usual gait,s,0.43,,0.3824,,0.0476,No baseline
+PA042,Single Support Time - usual gait,s,0.37,,0.3825,,0.0125,No baseline
+PA043,Single Support Time - usual gait,s,0.364,,0.3834,,0.0194,No baseline
+PA045,Single Support Time - usual gait,s,0.407,,0.3714,,0.0356,No baseline
+PA047,Single Support Time - usual gait,s,0.414,,0.3981,,0.0159,No baseline
+PA048,Single Support Time - usual gait,s,0.391,,0.3945,,0.0035,No baseline
+PA049,Single Support Time - usual gait,s,0.424,,0.4078,,0.0162,No baseline
+PA051,Single Support Time - usual gait,s,0.368,,0.3705,,0.0025,No baseline
+PA052,Single Support Time - usual gait,s,0.39,,0.3758,,0.0142,No baseline
+PA054,Single Support Time - usual gait,s,0.369,,0.383,,0.014,No baseline
+PA057,Single Support Time - usual gait,s,0.384,,0.3868,,0.0028,No baseline
+PA058,Single Support Time - usual gait,s,0.424,,0.3995,,0.0245,No baseline
+PA059,Single Support Time - usual gait,s,0.377,,0.3912,,0.0142,No baseline
+PA063,Single Support Time - usual gait,s,0.388,,0.3914,,0.0034,No baseline
+PA066,Single Support Time - usual gait,s,0.351,,0.3853,,0.0343,No baseline
+PA070,Single Support Time - usual gait,s,0.398,,0.3923,,0.0057,No baseline
+PA072,Single Support Time - usual gait,s,0.406,,0.3906,,0.0154,No baseline
+PA074,Single Support Time - usual gait,s,0.426,,0.3727,,0.0533,No baseline
+PA079,Single Support Time - usual gait,s,0.454,,0.4055,,0.0485,No baseline
+PA080,Single Support Time - usual gait,s,0.437,,0.3882,,0.0488,No baseline
+PA081,Single Support Time - usual gait,s,0.376,,0.3621,,0.0139,No baseline
+PA082,Single Support Time - usual gait,s,0.455,,0.3987,,0.0563,No baseline
+PA083,Single Support Time - usual gait,s,0.414,,0.4103,,0.0037,No baseline
+PA084,Single Support Time - usual gait,s,0.399,,0.3818,,0.0172,No baseline
+PA091,Single Support Time - usual gait,s,0.29,,0.3951,,0.1051,No baseline
+PA092,Single Support Time - usual gait,s,0.413,,0.3828,,0.0302,No baseline
+PA093,Single Support Time - usual gait,s,0.337,,0.3632,,0.0262,No baseline
+PA094,Single Support Time - usual gait,s,0.349,,0.3823,,0.0333,No baseline
+PA096,Single Support Time - usual gait,s,0.448,,0.386,,0.062,No baseline
+PA098,Single Support Time - usual gait,s,0.404,,0.3908,,0.0132,No baseline
+PA099,Single Support Time - usual gait,s,0.371,,0.3799,,0.0089,No baseline
+PA100,Single Support Time - usual gait,s,0.354,,0.3684,,0.0144,No baseline
+PA106,Single Support Time - usual gait,s,0.406,,0.4036,,0.0024,No baseline
+PA108,Single Support Time - usual gait,s,0.354,,0.3546,,0.0006,No baseline
+PA112,Single Support Time - usual gait,s,0.443,,0.3844,,0.0586,No baseline
+PA115,Single Support Time - usual gait,s,0.375,,0.3822,,0.0072,No baseline
+PA116,Single Support Time - usual gait,s,0.366,,0.3826,,0.0166,No baseline
+PA117,Single Support Time - usual gait,s,0.415,,0.3987,,0.0163,No baseline
+PA118,Single Support Time - usual gait,s,0.409,,0.3858,,0.0232,No baseline
+PA119,Single Support Time - usual gait,s,0.348,,0.3846,,0.0366,No baseline
+PA120,Single Support Time - usual gait,s,0.204,,0.3913,,0.1873,No baseline
+PA131,Single Support Time - usual gait,s,0.394,,0.3801,,0.0139,No baseline
+PA133,Single Support Time - usual gait,s,0.361,,0.3814,,0.0204,No baseline
+PA136,Single Support Time - usual gait,s,0.384,,0.3791,,0.0049,No baseline
+PA137,Single Support Time - usual gait,s,0.392,,0.3745,,0.0175,No baseline
+PA139,Single Support Time - usual gait,s,0.389,,0.3822,,0.0068,No baseline
+PA144,Single Support Time - usual gait,s,0.437,,0.3951,,0.0419,No baseline
+PA145,Single Support Time - usual gait,s,0.41,,0.3975,,0.0125,No baseline
+PA147,Single Support Time - usual gait,s,0.403,,0.3896,,0.0134,No baseline
+PA158,Single Support Time - usual gait,s,0.359,,0.3909,,0.0319,No baseline
+PA159,Single Support Time - usual gait,s,0.412,,0.3896,,0.0224,No baseline
+PA160,Single Support Time - usual gait,s,0.357,,0.384,,0.027,No baseline
+PA162,Single Support Time - usual gait,s,0.477,,0.4028,,0.0742,No baseline
+PA166,Single Support Time - usual gait,s,0.354,,0.4213,,0.0673,No baseline
+PA167,Single Support Time - usual gait,s,0.37,,0.4204,,0.0504,No baseline
+PA168,Single Support Time - usual gait,s,0.37,,0.3915,,0.0215,No baseline
+PA170,Single Support Time - usual gait,s,0.415,,0.3883,,0.0267,No baseline
+PA171,Single Support Time - usual gait,s,0.355,,0.3872,,0.0322,No baseline
+PA172,Single Support Time - usual gait,s,0.417,,0.3851,,0.0319,No baseline
+PA173,Single Support Time - usual gait,s,0.438,,0.3816,,0.0564,No baseline
+PA175,Single Support Time - usual gait,s,0.359,,0.3914,,0.0324,No baseline
+PA178,Single Support Time - usual gait,s,0.413,,0.3833,,0.0297,No baseline
+PA184,Single Support Time - usual gait,s,0.018,,0.3945,,0.3765,No baseline
+PA187,Single Support Time - usual gait,s,0.512,,0.3619,,0.1501,No baseline
+PA188,Single Support Time - usual gait,s,0.478,,0.3872,,0.0908,No baseline
+PA190,Single Support Time - usual gait,s,0.385,,0.3893,,0.0043,No baseline
+PA191,Single Support Time - usual gait,s,0.407,,0.3812,,0.0258,No baseline
+PA192,Single Support Time - usual gait,s,0.407,,0.3717,,0.0353,No baseline
+PA196,Single Support Time - usual gait,s,0.399,,0.3791,,0.0199,No baseline
+PA199,Single Support Time - usual gait,s,0.448,,0.3813,,0.0667,No baseline
+PA200,Single Support Time - usual gait,s,0.39,,0.3961,,0.0061,No baseline
+PA201,Single Support Time - usual gait,s,0.401,,0.3629,,0.0381,No baseline
+PA203,Single Support Time - usual gait,s,0.442,,0.3853,,0.0567,No baseline
+PA207,Single Support Time - usual gait,s,0.492,,0.3849,,0.1071,No baseline
+PA208,Single Support Time - usual gait,s,0.383,,0.3762,,0.0068,No baseline
+PA209,Single Support Time - usual gait,s,0.384,,0.3841,,0.0001,No baseline
+PA210,Single Support Time - usual gait,s,0.353,,0.3801,,0.0271,No baseline
+PA212,Single Support Time - usual gait,s,0.41,,0.4028,,0.0072,No baseline
+PA213,Single Support Time - usual gait,s,0.341,,0.3813,,0.0403,No baseline
+PA214,Single Support Time - usual gait,s,0.427,,0.3898,,0.0372,No baseline
+PA215,Single Support Time - usual gait,s,0.378,,0.3807,,0.0027,No baseline
+PA217,Single Support Time - usual gait,s,0.356,,0.3857,,0.0297,No baseline
+PA219,Single Support Time - usual gait,s,0.402,,0.38,,0.022,No baseline
+PA221,Single Support Time - usual gait,s,0.384,,0.3831,,0.0009,No baseline
+PA224,Single Support Time - usual gait,s,0.472,,0.3929,,0.0791,No baseline
+PA225,Single Support Time - usual gait,s,0.389,,0.3917,,0.0027,No baseline
+PA227,Single Support Time - usual gait,s,0.435,,0.3961,,0.0389,No baseline
+PA230,Single Support Time - usual gait,s,0.397,,0.3787,,0.0183,No baseline
+PA232,Single Support Time - usual gait,s,0.39,,0.3847,,0.0053,No baseline
+PA233,Single Support Time - usual gait,s,0.419,,0.4058,,0.0132,No baseline
+PA234,Single Support Time - usual gait,s,0.317,,0.3924,,0.0754,No baseline
+PA241,Single Support Time - usual gait,s,0.392,,0.3834,,0.0086,No baseline
+PA242,Single Support Time - usual gait,s,0.37,,0.3756,,0.0056,No baseline
+PA243,Single Support Time - usual gait,s,0.363,,0.3746,,0.0116,No baseline
+PA246,Single Support Time - usual gait,s,0.403,,0.4,,0.003,No baseline
+PA247,Single Support Time - usual gait,s,0.366,,0.3776,,0.0116,No baseline
+PA248,Single Support Time - usual gait,s,0.375,,0.3562,,0.0188,No baseline
+PA249,Single Support Time - usual gait,s,0.36,,0.3715,,0.0115,No baseline
+PA252,Single Support Time - usual gait,s,0.401,,0.3854,,0.0156,No baseline
+PA257,Single Support Time - usual gait,s,0.4,,0.3767,,0.0233,No baseline
+PA261,Single Support Time - usual gait,s,0.348,,0.3878,,0.0398,No baseline
+PA266,Single Support Time - usual gait,s,0.401,,0.3708,,0.0302,No baseline
+PA267,Single Support Time - usual gait,s,0.35,,0.3785,,0.0285,No baseline
+PA268,Single Support Time - usual gait,s,0.355,,0.3766,,0.0216,No baseline
+PA270,Single Support Time - usual gait,s,0.4,,0.4195,,0.0195,No baseline
+PA274,Single Support Time - usual gait,s,0.592,,0.3782,,0.2138,No baseline
+PA276,Single Support Time - usual gait,s,0.378,,0.3974,,0.0194,No baseline
+PA277,Single Support Time - usual gait,s,0.377,,0.3845,,0.0075,No baseline
+PA280,Single Support Time - usual gait,s,0.486,,0.4194,,0.0666,No baseline
+PA284,Single Support Time - usual gait,s,0.376,,0.3813,,0.0053,No baseline
+PA285,Single Support Time - usual gait,s,0.418,,0.3974,,0.0206,No baseline
+PA288,Single Support Time - usual gait,s,0.375,,0.3783,,0.0033,No baseline
+PA289,Single Support Time - usual gait,s,0.378,,0.3835,,0.0055,No baseline
+PA290,Single Support Time - usual gait,s,0.409,,0.3844,,0.0246,No baseline
+PA292,Single Support Time - usual gait,s,0.459,,0.4018,,0.0572,No baseline
+PA293,Single Support Time - usual gait,s,0.35,,0.3867,,0.0367,No baseline
+PA296,Single Support Time - usual gait,s,0.364,,0.3943,,0.0303,No baseline
+PA297,Single Support Time - usual gait,s,0.418,,0.3886,,0.0294,No baseline
+PA299,Single Support Time - usual gait,s,0.406,,0.3809,,0.0251,No baseline
+PA300,Single Support Time - usual gait,s,0.358,,0.3762,,0.0182,No baseline
+PA302,Single Support Time - usual gait,s,0.368,,0.3712,,0.0032,No baseline
+PA303,Single Support Time - usual gait,s,0.423,,0.3928,,0.0302,No baseline
+PA304,Single Support Time - usual gait,s,0.371,,0.3817,,0.0107,No baseline
+PA305,Single Support Time - usual gait,s,0.434,,0.3827,,0.0513,No baseline
+PA309,Single Support Time - usual gait,s,0.44,,0.399,,0.041,No baseline
+PA311,Single Support Time - usual gait,s,0.369,,0.3846,,0.0156,No baseline
+PA312,Single Support Time - usual gait,s,0.382,,0.3656,,0.0164,No baseline
+PA314,Single Support Time - usual gait,s,0.422,,0.3774,,0.0446,No baseline
+PA319,Single Support Time - usual gait,s,0.37,,0.3768,,0.0068,No baseline
+PA320,Single Support Time - usual gait,s,0.337,,0.3892,,0.0522,No baseline
+PA326,Single Support Time - usual gait,s,0.429,,0.3889,,0.0401,No baseline
+PA331,Single Support Time - usual gait,s,0.432,,0.3887,,0.0433,No baseline
+PA333,Single Support Time - usual gait,s,0.413,,0.3891,,0.0239,No baseline
+PA334,Single Support Time - usual gait,s,0.437,,0.4196,,0.0174,No baseline
+PA336,Single Support Time - usual gait,s,0.404,,0.4076,,0.0036,No baseline
+PA337,Single Support Time - usual gait,s,0.457,,0.3902,,0.0668,No baseline
+PA339,Single Support Time - usual gait,s,0.397,,0.3822,,0.0148,No baseline
+PA340,Single Support Time - usual gait,s,0.42,,0.3927,,0.0273,No baseline
+PA341,Single Support Time - usual gait,s,0.405,,0.4173,,0.0123,No baseline
+PA343,Single Support Time - usual gait,s,0.367,,0.3612,,0.0058,No baseline
+PA344,Single Support Time - usual gait,s,0.416,,0.384,,0.032,No baseline
+PA347,Single Support Time - usual gait,s,0.416,,0.393,,0.023,No baseline
+PA350,Single Support Time - usual gait,s,0.363,,0.4002,,0.0372,No baseline
+PA351,Single Support Time - usual gait,s,0.36,,0.3787,,0.0187,No baseline
+PA352,Single Support Time - usual gait,s,0.361,,0.3792,,0.0182,No baseline
+PA354,Single Support Time - usual gait,s,0.395,,0.3874,,0.0076,No baseline
+PA355,Single Support Time - usual gait,s,0.36,,0.3681,,0.0081,No baseline
+PA356,Single Support Time - usual gait,s,0.402,,0.3796,,0.0224,No baseline
+PA358,Single Support Time - usual gait,s,0.387,,0.3962,,0.0092,No baseline
+PA360,Single Support Time - usual gait,s,0.432,,0.3716,,0.0604,No baseline
+PA363,Single Support Time - usual gait,s,0.394,,0.3816,,0.0124,No baseline
+PA366,Single Support Time - usual gait,s,0.528,,0.3912,,0.1368,No baseline
+PA369,Single Support Time - usual gait,s,0.322,,0.384,,0.062,No baseline
+PA371,Single Support Time - usual gait,s,0.35,,0.3769,,0.0269,No baseline
+PA372,Single Support Time - usual gait,s,0.444,,0.3855,,0.0585,No baseline
+PA375,Single Support Time - usual gait,s,0.387,,0.3762,,0.0108,No baseline
+PA377,Single Support Time - usual gait,s,0.404,,0.3687,,0.0353,No baseline
+PA380,Single Support Time - usual gait,s,0.303,,0.3754,,0.0724,No baseline
+PA382,Single Support Time - usual gait,s,0.391,,0.3811,,0.0099,No baseline
+PA383,Single Support Time - usual gait,s,0.431,,0.3881,,0.0429,No baseline
+PA386,Single Support Time - usual gait,s,0.4,,0.4026,,0.0026,No baseline
+PA387,Single Support Time - usual gait,s,0.416,,0.4227,,0.0067,No baseline
+PA388,Single Support Time - usual gait,s,0.377,,0.3957,,0.0187,No baseline
+PA389,Single Support Time - usual gait,s,0.365,,0.383,,0.018,No baseline
+PA390,Single Support Time - usual gait,s,0.366,,0.389,,0.023,No baseline
+PA391,Single Support Time - usual gait,s,0.384,,0.3853,,0.0013,No baseline
+PA392,Single Support Time - usual gait,s,0.362,,0.3707,,0.0087,No baseline
+PA393,Single Support Time - usual gait,s,0.392,,0.385,,0.007,No baseline
+PA394,Single Support Time - usual gait,s,0.386,,0.3814,,0.0046,No baseline
+PA395,Single Support Time - usual gait,s,0.398,,0.3863,,0.0117,No baseline
+PA004,Double Support Time - usual gait,s,0.325,,0.2641,,0.0609,No baseline
+PA005,Double Support Time - usual gait,s,0.212,,0.2098,,0.0022,No baseline
+PA006,Double Support Time - usual gait,s,0.285,,0.2412,,0.0438,No baseline
+PA018,Double Support Time - usual gait,s,0.295,,0.2341,,0.0609,No baseline
+PA019,Double Support Time - usual gait,s,0.243,,0.2206,,0.0224,No baseline
+PA020,Double Support Time - usual gait,s,0.102,,0.2045,,0.1025,No baseline
+PA021,Double Support Time - usual gait,s,0.25,,0.2015,,0.0485,No baseline
+PA022,Double Support Time - usual gait,s,0.248,,0.2036,,0.0444,No baseline
+PA030,Double Support Time - usual gait,s,0.184,,0.1911,,0.0071,No baseline
+PA031,Double Support Time - usual gait,s,0.151,,0.1796,,0.0286,No baseline
+PA033,Double Support Time - usual gait,s,0.227,,0.2234,,0.0036,No baseline
+PA035,Double Support Time - usual gait,s,0.266,,0.1829,,0.0831,No baseline
+PA037,Double Support Time - usual gait,s,0.141,,0.1574,,0.0164,No baseline
+PA040,Double Support Time - usual gait,s,0.205,,0.2412,,0.0362,No baseline
+PA042,Double Support Time - usual gait,s,0.215,,0.1856,,0.0294,No baseline
+PA043,Double Support Time - usual gait,s,0.214,,0.1761,,0.0379,No baseline
+PA045,Double Support Time - usual gait,s,0.195,,0.1883,,0.0067,No baseline
+PA047,Double Support Time - usual gait,s,0.275,,0.2101,,0.0649,No baseline
+PA048,Double Support Time - usual gait,s,0.17,,0.187,,0.017,No baseline
+PA049,Double Support Time - usual gait,s,0.214,,0.221,,0.007,No baseline
+PA051,Double Support Time - usual gait,s,0.175,,0.1751,,0.0001,No baseline
+PA052,Double Support Time - usual gait,s,0.215,,0.1814,,0.0336,No baseline
+PA054,Double Support Time - usual gait,s,0.191,,0.2082,,0.0172,No baseline
+PA057,Double Support Time - usual gait,s,0.194,,0.1842,,0.0098,No baseline
+PA058,Double Support Time - usual gait,s,0.258,,0.2285,,0.0295,No baseline
+PA059,Double Support Time - usual gait,s,0.232,,0.2177,,0.0143,No baseline
+PA063,Double Support Time - usual gait,s,0.155,,0.1952,,0.0402,No baseline
+PA066,Double Support Time - usual gait,s,0.199,,0.1695,,0.0295,No baseline
+PA070,Double Support Time - usual gait,s,0.205,,0.2149,,0.0099,No baseline
+PA072,Double Support Time - usual gait,s,0.172,,0.2095,,0.0375,No baseline
+PA074,Double Support Time - usual gait,s,0.12,,0.1733,,0.0533,No baseline
+PA079,Double Support Time - usual gait,s,0.201,,0.2285,,0.0275,No baseline
+PA080,Double Support Time - usual gait,s,0.197,,0.2001,,0.0031,No baseline
+PA081,Double Support Time - usual gait,s,0.211,,0.1982,,0.0128,No baseline
+PA082,Double Support Time - usual gait,s,0.202,,0.1825,,0.0195,No baseline
+PA083,Double Support Time - usual gait,s,0.261,,0.2245,,0.0365,No baseline
+PA084,Double Support Time - usual gait,s,0.154,,0.1763,,0.0223,No baseline
+PA091,Double Support Time - usual gait,s,0.289,,0.2117,,0.0773,No baseline
+PA092,Double Support Time - usual gait,s,0.175,,0.1781,,0.0031,No baseline
+PA093,Double Support Time - usual gait,s,0.204,,0.1521,,0.0519,No baseline
+PA094,Double Support Time - usual gait,s,0.214,,0.198,,0.016,No baseline
+PA096,Double Support Time - usual gait,s,0.254,,0.1825,,0.0715,No baseline
+PA098,Double Support Time - usual gait,s,0.16,,0.2016,,0.0416,No baseline
+PA099,Double Support Time - usual gait,s,0.12,,0.1535,,0.0335,No baseline
+PA100,Double Support Time - usual gait,s,0.217,,0.1776,,0.0394,No baseline
+PA106,Double Support Time - usual gait,s,0.272,,0.2269,,0.0451,No baseline
+PA108,Double Support Time - usual gait,s,0.178,,0.1992,,0.0212,No baseline
+PA112,Double Support Time - usual gait,s,0.279,,0.2236,,0.0554,No baseline
+PA115,Double Support Time - usual gait,s,0.262,,0.2375,,0.0245,No baseline
+PA116,Double Support Time - usual gait,s,0.193,,0.1757,,0.0173,No baseline
+PA117,Double Support Time - usual gait,s,0.219,,0.2147,,0.0043,No baseline
+PA118,Double Support Time - usual gait,s,0.211,,0.2057,,0.0053,No baseline
+PA119,Double Support Time - usual gait,s,0.206,,0.1888,,0.0172,No baseline
+PA120,Double Support Time - usual gait,s,0.261,,0.2115,,0.0495,No baseline
+PA131,Double Support Time - usual gait,s,0.122,,0.1468,,0.0248,No baseline
+PA133,Double Support Time - usual gait,s,0.171,,0.1857,,0.0147,No baseline
+PA136,Double Support Time - usual gait,s,0.16,,0.1696,,0.0096,No baseline
+PA137,Double Support Time - usual gait,s,0.106,,0.2093,,0.1033,No baseline
+PA139,Double Support Time - usual gait,s,0.151,,0.179,,0.028,No baseline
+PA144,Double Support Time - usual gait,s,0.247,,0.2279,,0.0191,No baseline
+PA145,Double Support Time - usual gait,s,0.277,,0.1936,,0.0834,No baseline
+PA147,Double Support Time - usual gait,s,0.168,,0.2227,,0.0547,No baseline
+PA158,Double Support Time - usual gait,s,0.197,,0.2011,,0.0041,No baseline
+PA159,Double Support Time - usual gait,s,0.245,,0.2282,,0.0168,No baseline
+PA160,Double Support Time - usual gait,s,0.241,,0.1649,,0.0761,No baseline
+PA162,Double Support Time - usual gait,s,0.333,,0.2624,,0.0706,No baseline
+PA166,Double Support Time - usual gait,s,0.225,,0.2587,,0.0337,No baseline
+PA167,Double Support Time - usual gait,s,0.244,,0.2144,,0.0296,No baseline
+PA168,Double Support Time - usual gait,s,0.165,,0.2126,,0.0476,No baseline
+PA170,Double Support Time - usual gait,s,0.141,,0.2031,,0.0621,No baseline
+PA171,Double Support Time - usual gait,s,0.302,,0.2456,,0.0564,No baseline
+PA172,Double Support Time - usual gait,s,0.117,,0.1954,,0.0784,No baseline
+PA173,Double Support Time - usual gait,s,0.225,,0.2336,,0.0086,No baseline
+PA175,Double Support Time - usual gait,s,0.208,,0.2013,,0.0067,No baseline
+PA178,Double Support Time - usual gait,s,0.157,,0.2033,,0.0463,No baseline
+PA184,Double Support Time - usual gait,s,0.297,,0.2128,,0.0842,No baseline
+PA187,Double Support Time - usual gait,s,0.094,,0.1864,,0.0924,No baseline
+PA188,Double Support Time - usual gait,s,0.362,,0.3004,,0.0616,No baseline
+PA190,Double Support Time - usual gait,s,0.212,,0.2057,,0.0063,No baseline
+PA191,Double Support Time - usual gait,s,0.173,,0.2042,,0.0312,No baseline
+PA192,Double Support Time - usual gait,s,0.223,,0.1562,,0.0668,No baseline
+PA196,Double Support Time - usual gait,s,0.157,,0.1667,,0.0097,No baseline
+PA199,Double Support Time - usual gait,s,0.176,,0.1954,,0.0194,No baseline
+PA200,Double Support Time - usual gait,s,0.155,,0.1902,,0.0352,No baseline
+PA201,Double Support Time - usual gait,s,0.195,,0.2285,,0.0335,No baseline
+PA203,Double Support Time - usual gait,s,0.206,,0.2057,,0.0003,No baseline
+PA207,Double Support Time - usual gait,s,0.126,,0.2238,,0.0978,No baseline
+PA208,Double Support Time - usual gait,s,0.194,,0.1886,,0.0054,No baseline
+PA209,Double Support Time - usual gait,s,0.178,,0.1903,,0.0123,No baseline
+PA210,Double Support Time - usual gait,s,0.187,,0.1593,,0.0277,No baseline
+PA212,Double Support Time - usual gait,s,0.306,,0.2291,,0.0769,No baseline
+PA213,Double Support Time - usual gait,s,0.153,,0.1389,,0.0141,No baseline
+PA214,Double Support Time - usual gait,s,0.13,,0.2075,,0.0775,No baseline
+PA215,Double Support Time - usual gait,s,0.287,,0.1725,,0.1145,No baseline
+PA217,Double Support Time - usual gait,s,0.266,,0.2053,,0.0607,No baseline
+PA219,Double Support Time - usual gait,s,0.233,,0.2272,,0.0058,No baseline
+PA221,Double Support Time - usual gait,s,0.157,,0.184,,0.027,No baseline
+PA224,Double Support Time - usual gait,s,0.201,,0.2133,,0.0123,No baseline
+PA225,Double Support Time - usual gait,s,0.198,,0.1939,,0.0041,No baseline
+PA227,Double Support Time - usual gait,s,0.216,,0.2326,,0.0166,No baseline
+PA230,Double Support Time - usual gait,s,0.163,,0.1732,,0.0102,No baseline
+PA232,Double Support Time - usual gait,s,0.32,,0.2528,,0.0672,No baseline
+PA233,Double Support Time - usual gait,s,0.275,,0.2316,,0.0434,No baseline
+PA234,Double Support Time - usual gait,s,0.31,,0.2335,,0.0765,No baseline
+PA241,Double Support Time - usual gait,s,0.233,,0.1976,,0.0354,No baseline
+PA242,Double Support Time - usual gait,s,0.241,,0.2024,,0.0386,No baseline
+PA243,Double Support Time - usual gait,s,0.173,,0.2061,,0.0331,No baseline
+PA246,Double Support Time - usual gait,s,0.222,,0.219,,0.003,No baseline
+PA247,Double Support Time - usual gait,s,0.239,,0.1961,,0.0429,No baseline
+PA248,Double Support Time - usual gait,s,0.198,,0.1978,,0.0002,No baseline
+PA249,Double Support Time - usual gait,s,0.13,,0.1458,,0.0158,No baseline
+PA252,Double Support Time - usual gait,s,0.202,,0.189,,0.013,No baseline
+PA257,Double Support Time - usual gait,s,0.223,,0.2138,,0.0092,No baseline
+PA261,Double Support Time - usual gait,s,0.239,,0.1983,,0.0407,No baseline
+PA266,Double Support Time - usual gait,s,0.186,,0.1765,,0.0095,No baseline
+PA267,Double Support Time - usual gait,s,0.195,,0.1707,,0.0243,No baseline
+PA268,Double Support Time - usual gait,s,0.203,,0.1827,,0.0203,No baseline
+PA270,Double Support Time - usual gait,s,0.251,,0.2531,,0.0021,No baseline
+PA274,Double Support Time - usual gait,s,0.02,,0.1963,,0.1763,No baseline
+PA276,Double Support Time - usual gait,s,0.226,,0.2266,,0.0006,No baseline
+PA277,Double Support Time - usual gait,s,0.261,,0.2336,,0.0274,No baseline
+PA280,Double Support Time - usual gait,s,0.25,,0.2753,,0.0253,No baseline
+PA284,Double Support Time - usual gait,s,0.194,,0.1802,,0.0138,No baseline
+PA285,Double Support Time - usual gait,s,0.195,,0.2252,,0.0302,No baseline
+PA288,Double Support Time - usual gait,s,0.205,,0.1929,,0.0121,No baseline
+PA289,Double Support Time - usual gait,s,0.12,,0.1893,,0.0693,No baseline
+PA290,Double Support Time - usual gait,s,0.202,,0.195,,0.007,No baseline
+PA292,Double Support Time - usual gait,s,0.243,,0.2426,,0.0004,No baseline
+PA293,Double Support Time - usual gait,s,0.287,,0.2248,,0.0622,No baseline
+PA296,Double Support Time - usual gait,s,0.218,,0.201,,0.017,No baseline
+PA297,Double Support Time - usual gait,s,0.18,,0.199,,0.019,No baseline
+PA299,Double Support Time - usual gait,s,0.281,,0.1887,,0.0923,No baseline
+PA300,Double Support Time - usual gait,s,0.195,,0.2002,,0.0052,No baseline
+PA302,Double Support Time - usual gait,s,0.164,,0.1826,,0.0186,No baseline
+PA303,Double Support Time - usual gait,s,0.359,,0.2573,,0.1017,No baseline
+PA304,Double Support Time - usual gait,s,0.238,,0.206,,0.032,No baseline
+PA305,Double Support Time - usual gait,s,0.183,,0.1969,,0.0139,No baseline
+PA309,Double Support Time - usual gait,s,0.243,,0.235,,0.008,No baseline
+PA311,Double Support Time - usual gait,s,0.263,,0.1896,,0.0734,No baseline
+PA312,Double Support Time - usual gait,s,0.223,,0.1891,,0.0339,No baseline
+PA314,Double Support Time - usual gait,s,0.253,,0.2092,,0.0438,No baseline
+PA319,Double Support Time - usual gait,s,0.144,,0.1589,,0.0149,No baseline
+PA320,Double Support Time - usual gait,s,0.168,,0.1989,,0.0309,No baseline
+PA326,Double Support Time - usual gait,s,0.206,,0.2135,,0.0075,No baseline
+PA331,Double Support Time - usual gait,s,0.127,,0.2046,,0.0776,No baseline
+PA333,Double Support Time - usual gait,s,0.103,,0.1984,,0.0954,No baseline
+PA334,Double Support Time - usual gait,s,0.314,,0.2412,,0.0728,No baseline
+PA336,Double Support Time - usual gait,s,0.168,,0.2375,,0.0695,No baseline
+PA337,Double Support Time - usual gait,s,0.177,,0.2274,,0.0504,No baseline
+PA339,Double Support Time - usual gait,s,0.251,,0.1659,,0.0851,No baseline
+PA340,Double Support Time - usual gait,s,0.243,,0.2077,,0.0353,No baseline
+PA341,Double Support Time - usual gait,s,0.188,,0.239,,0.051,No baseline
+PA343,Double Support Time - usual gait,s,0.1,,0.1843,,0.0843,No baseline
+PA344,Double Support Time - usual gait,s,0.299,,0.2528,,0.0462,No baseline
+PA347,Double Support Time - usual gait,s,0.193,,0.2145,,0.0215,No baseline
+PA350,Double Support Time - usual gait,s,0.235,,0.2439,,0.0089,No baseline
+PA351,Double Support Time - usual gait,s,0.221,,0.1933,,0.0277,No baseline
+PA352,Double Support Time - usual gait,s,0.164,,0.1709,,0.0069,No baseline
+PA354,Double Support Time - usual gait,s,0.131,,0.182,,0.051,No baseline
+PA355,Double Support Time - usual gait,s,0.205,,0.1816,,0.0234,No baseline
+PA356,Double Support Time - usual gait,s,0.204,,0.1924,,0.0116,No baseline
+PA358,Double Support Time - usual gait,s,0.207,,0.2309,,0.0239,No baseline
+PA360,Double Support Time - usual gait,s,0.219,,0.1965,,0.0225,No baseline
+PA363,Double Support Time - usual gait,s,0.173,,0.1912,,0.0182,No baseline
+PA366,Double Support Time - usual gait,s,0.115,,0.2171,,0.1021,No baseline
+PA369,Double Support Time - usual gait,s,0.248,,0.1777,,0.0703,No baseline
+PA371,Double Support Time - usual gait,s,0.308,,0.2097,,0.0983,No baseline
+PA372,Double Support Time - usual gait,s,0.248,,0.2,,0.048,No baseline
+PA375,Double Support Time - usual gait,s,0.256,,0.162,,0.094,No baseline
+PA377,Double Support Time - usual gait,s,0.244,,0.245,,0.001,No baseline
+PA380,Double Support Time - usual gait,s,0.217,,0.169,,0.048,No baseline
+PA382,Double Support Time - usual gait,s,0.229,,0.2088,,0.0202,No baseline
+PA383,Double Support Time - usual gait,s,0.169,,0.2023,,0.0333,No baseline
+PA386,Double Support Time - usual gait,s,0.217,,0.2331,,0.0161,No baseline
+PA387,Double Support Time - usual gait,s,0.307,,0.2497,,0.0573,No baseline
+PA388,Double Support Time - usual gait,s,0.292,,0.2081,,0.0839,No baseline
+PA389,Double Support Time - usual gait,s,0.228,,0.1934,,0.0346,No baseline
+PA390,Double Support Time - usual gait,s,0.229,,0.219,,0.01,No baseline
+PA391,Double Support Time - usual gait,s,0.252,,0.2428,,0.0092,No baseline
+PA392,Double Support Time - usual gait,s,0.262,,0.1909,,0.0711,No baseline
+PA393,Double Support Time - usual gait,s,0.2,,0.1798,,0.0202,No baseline
+PA394,Double Support Time - usual gait,s,0.215,,0.1756,,0.0394,No baseline
+PA395,Double Support Time - usual gait,s,0.117,,0.1691,,0.0521,No baseline
+PA004,Single Support Time - fast gait,s,0.377,,0.3432,,0.0338,No baseline
+PA005,Single Support Time - fast gait,s,0.359,,0.4112,,0.0522,No baseline
+PA006,Single Support Time - fast gait,s,0.353,,0.3189,,0.0341,No baseline
+PA018,Single Support Time - fast gait,s,0.346,,0.3022,,0.0438,No baseline
+PA019,Single Support Time - fast gait,s,0.346,,0.3364,,0.0096,No baseline
+PA020,Single Support Time - fast gait,s,0.353,,0.3289,,0.0241,No baseline
+PA021,Single Support Time - fast gait,s,0.355,,0.3374,,0.0176,No baseline
+PA022,Single Support Time - fast gait,s,0.343,,0.343,,0.0,No baseline
+PA030,Single Support Time - fast gait,s,0.306,,0.3142,,0.0082,No baseline
+PA031,Single Support Time - fast gait,s,0.274,,0.2923,,0.0183,No baseline
+PA033,Single Support Time - fast gait,s,0.298,,0.3474,,0.0494,No baseline
+PA035,Single Support Time - fast gait,s,0.29,,0.3115,,0.0215,No baseline
+PA037,Single Support Time - fast gait,s,0.303,,0.3214,,0.0184,No baseline
+PA040,Single Support Time - fast gait,s,0.33,,0.3293,,0.0007,No baseline
+PA042,Single Support Time - fast gait,s,0.357,,0.3255,,0.0315,No baseline
+PA043,Single Support Time - fast gait,s,0.337,,0.3347,,0.0023,No baseline
+PA045,Single Support Time - fast gait,s,0.333,,0.3241,,0.0089,No baseline
+PA047,Single Support Time - fast gait,s,0.319,,0.3389,,0.0199,No baseline
+PA048,Single Support Time - fast gait,s,0.328,,0.3145,,0.0135,No baseline
+PA049,Single Support Time - fast gait,s,0.32,,0.3408,,0.0208,No baseline
+PA051,Single Support Time - fast gait,s,0.331,,0.322,,0.009,No baseline
+PA052,Single Support Time - fast gait,s,0.339,,0.3275,,0.0115,No baseline
+PA054,Single Support Time - fast gait,s,0.355,,0.3413,,0.0137,No baseline
+PA057,Single Support Time - fast gait,s,0.309,,0.3179,,0.0089,No baseline
+PA058,Single Support Time - fast gait,s,0.32,,0.3309,,0.0109,No baseline
+PA059,Single Support Time - fast gait,s,0.328,,0.3339,,0.0059,No baseline
+PA063,Single Support Time - fast gait,s,0.227,,0.2848,,0.0578,No baseline
+PA066,Single Support Time - fast gait,s,0.285,,0.3058,,0.0208,No baseline
+PA070,Single Support Time - fast gait,s,0.323,,0.3211,,0.0019,No baseline
+PA072,Single Support Time - fast gait,s,0.278,,0.3105,,0.0325,No baseline
+PA074,Single Support Time - fast gait,s,0.283,,0.3042,,0.0212,No baseline
+PA079,Single Support Time - fast gait,s,0.306,,0.2804,,0.0256,No baseline
+PA080,Single Support Time - fast gait,s,0.208,,0.287,,0.079,No baseline
+PA081,Single Support Time - fast gait,s,0.304,,0.3151,,0.0111,No baseline
+PA082,Single Support Time - fast gait,s,0.251,,0.2826,,0.0316,No baseline
+PA083,Single Support Time - fast gait,s,0.333,,0.3689,,0.0359,No baseline
+PA084,Single Support Time - fast gait,s,0.29,,0.3099,,0.0199,No baseline
+PA091,Single Support Time - fast gait,s,0.325,,0.3265,,0.0015,No baseline
+PA092,Single Support Time - fast gait,s,0.305,,0.2904,,0.0146,No baseline
+PA093,Single Support Time - fast gait,s,0.294,,0.3164,,0.0224,No baseline
+PA094,Single Support Time - fast gait,s,0.324,,0.3314,,0.0074,No baseline
+PA096,Single Support Time - fast gait,s,0.335,,0.318,,0.017,No baseline
+PA098,Single Support Time - fast gait,s,0.309,,0.3092,,0.0002,No baseline
+PA099,Single Support Time - fast gait,s,0.312,,0.3084,,0.0036,No baseline
+PA100,Single Support Time - fast gait,s,0.324,,0.3106,,0.0134,No baseline
+PA106,Single Support Time - fast gait,s,0.343,,0.3454,,0.0024,No baseline
+PA108,Single Support Time - fast gait,s,0.334,,0.3223,,0.0117,No baseline
+PA112,Single Support Time - fast gait,s,0.356,,0.3545,,0.0015,No baseline
+PA115,Single Support Time - fast gait,s,0.34,,0.3484,,0.0084,No baseline
+PA116,Single Support Time - fast gait,s,0.345,,0.3241,,0.0209,No baseline
+PA117,Single Support Time - fast gait,s,0.317,,0.3242,,0.0072,No baseline
+PA118,Single Support Time - fast gait,s,0.3,,0.3168,,0.0168,No baseline
+PA119,Single Support Time - fast gait,s,0.302,,0.2995,,0.0025,No baseline
+PA120,Single Support Time - fast gait,s,0.336,,0.3339,,0.0021,No baseline
+PA131,Single Support Time - fast gait,s,0.302,,0.2508,,0.0512,No baseline
+PA133,Single Support Time - fast gait,s,0.354,,0.3362,,0.0178,No baseline
+PA136,Single Support Time - fast gait,s,0.32,,0.3254,,0.0054,No baseline
+PA137,Single Support Time - fast gait,s,0.308,,0.305,,0.003,No baseline
+PA139,Single Support Time - fast gait,s,0.294,,0.2877,,0.0063,No baseline
+PA144,Single Support Time - fast gait,s,0.34,,0.3345,,0.0055,No baseline
+PA145,Single Support Time - fast gait,s,0.296,,0.3012,,0.0052,No baseline
+PA147,Single Support Time - fast gait,s,0.296,,0.3186,,0.0226,No baseline
+PA158,Single Support Time - fast gait,s,0.307,,0.3055,,0.0015,No baseline
+PA159,Single Support Time - fast gait,s,0.358,,0.3695,,0.0115,No baseline
+PA160,Single Support Time - fast gait,s,0.328,,0.3135,,0.0145,No baseline
+PA162,Single Support Time - fast gait,s,0.432,,0.3825,,0.0495,No baseline
+PA166,Single Support Time - fast gait,s,0.344,,0.3764,,0.0324,No baseline
+PA167,Single Support Time - fast gait,s,0.294,,0.2762,,0.0178,No baseline
+PA168,Single Support Time - fast gait,s,0.342,,0.3434,,0.0014,No baseline
+PA170,Single Support Time - fast gait,s,0.371,,0.3369,,0.0341,No baseline
+PA171,Single Support Time - fast gait,s,0.315,,0.3516,,0.0366,No baseline
+PA172,Single Support Time - fast gait,s,0.284,,0.3843,,0.1003,No baseline
+PA173,Single Support Time - fast gait,s,0.312,,0.34,,0.028,No baseline
+PA175,Single Support Time - fast gait,s,0.317,,0.3151,,0.0019,No baseline
+PA178,Single Support Time - fast gait,s,0.333,,0.3349,,0.0019,No baseline
+PA184,Single Support Time - fast gait,s,0.347,,0.3348,,0.0122,No baseline
+PA187,Single Support Time - fast gait,s,0.291,,0.3246,,0.0336,No baseline
+PA188,Single Support Time - fast gait,s,0.347,,0.3543,,0.0073,No baseline
+PA190,Single Support Time - fast gait,s,0.302,,0.3227,,0.0207,No baseline
+PA191,Single Support Time - fast gait,s,0.355,,0.3353,,0.0197,No baseline
+PA192,Single Support Time - fast gait,s,0.303,,0.2904,,0.0126,No baseline
+PA196,Single Support Time - fast gait,s,0.28,,0.2907,,0.0107,No baseline
+PA199,Single Support Time - fast gait,s,0.363,,0.3366,,0.0264,No baseline
+PA200,Single Support Time - fast gait,s,0.3,,0.3094,,0.0094,No baseline
+PA201,Single Support Time - fast gait,s,0.373,,0.3594,,0.0136,No baseline
+PA203,Single Support Time - fast gait,s,0.366,,0.3548,,0.0112,No baseline
+PA207,Single Support Time - fast gait,s,0.299,,0.3459,,0.0469,No baseline
+PA208,Single Support Time - fast gait,s,0.325,,0.3281,,0.0031,No baseline
+PA209,Single Support Time - fast gait,s,0.311,,0.3145,,0.0035,No baseline
+PA210,Single Support Time - fast gait,s,0.27,,0.2757,,0.0057,No baseline
+PA212,Single Support Time - fast gait,s,0.327,,0.3557,,0.0287,No baseline
+PA213,Single Support Time - fast gait,s,0.263,,0.285,,0.022,No baseline
+PA214,Single Support Time - fast gait,s,0.38,,0.3618,,0.0182,No baseline
+PA215,Single Support Time - fast gait,s,0.327,,0.3079,,0.0191,No baseline
+PA217,Single Support Time - fast gait,s,0.273,,0.3028,,0.0298,No baseline
+PA219,Single Support Time - fast gait,s,0.316,,0.3346,,0.0186,No baseline
+PA221,Single Support Time - fast gait,s,0.361,,0.3406,,0.0204,No baseline
+PA224,Single Support Time - fast gait,s,0.344,,0.3455,,0.0015,No baseline
+PA225,Single Support Time - fast gait,s,0.351,,0.3489,,0.0021,No baseline
+PA227,Single Support Time - fast gait,s,0.362,,0.3472,,0.0148,No baseline
+PA230,Single Support Time - fast gait,s,0.312,,0.3019,,0.0101,No baseline
+PA232,Single Support Time - fast gait,s,0.362,,0.3591,,0.0029,No baseline
+PA233,Single Support Time - fast gait,s,0.36,,0.3405,,0.0195,No baseline
+PA234,Single Support Time - fast gait,s,0.348,,0.358,,0.01,No baseline
+PA241,Single Support Time - fast gait,s,0.326,,0.3384,,0.0124,No baseline
+PA242,Single Support Time - fast gait,s,0.345,,0.3355,,0.0095,No baseline
+PA243,Single Support Time - fast gait,s,0.351,,0.322,,0.029,No baseline
+PA246,Single Support Time - fast gait,s,0.371,,0.3421,,0.0289,No baseline
+PA247,Single Support Time - fast gait,s,0.362,,0.3406,,0.0214,No baseline
+PA248,Single Support Time - fast gait,s,0.341,,0.3367,,0.0043,No baseline
+PA249,Single Support Time - fast gait,s,0.28,,0.291,,0.011,No baseline
+PA252,Single Support Time - fast gait,s,0.412,,0.378,,0.034,No baseline
+PA257,Single Support Time - fast gait,s,0.329,,0.3367,,0.0077,No baseline
+PA261,Single Support Time - fast gait,s,0.34,,0.3435,,0.0035,No baseline
+PA266,Single Support Time - fast gait,s,0.377,,0.3368,,0.0402,No baseline
+PA267,Single Support Time - fast gait,s,0.283,,0.2935,,0.0105,No baseline
+PA268,Single Support Time - fast gait,s,0.316,,0.3232,,0.0072,No baseline
+PA270,Single Support Time - fast gait,s,0.376,,0.3458,,0.0302,No baseline
+PA274,Single Support Time - fast gait,s,0.356,,0.3398,,0.0162,No baseline
+PA276,Single Support Time - fast gait,s,0.343,,0.3339,,0.0091,No baseline
+PA277,Single Support Time - fast gait,s,0.383,,0.3599,,0.0231,No baseline
+PA280,Single Support Time - fast gait,s,0.323,,0.3389,,0.0159,No baseline
+PA284,Single Support Time - fast gait,s,0.282,,0.3023,,0.0203,No baseline
+PA285,Single Support Time - fast gait,s,0.348,,0.3266,,0.0214,No baseline
+PA288,Single Support Time - fast gait,s,0.305,,0.319,,0.014,No baseline
+PA289,Single Support Time - fast gait,s,0.363,,0.3255,,0.0375,No baseline
+PA290,Single Support Time - fast gait,s,0.38,,0.326,,0.054,No baseline
+PA292,Single Support Time - fast gait,s,0.368,,0.3577,,0.0103,No baseline
+PA293,Single Support Time - fast gait,s,0.351,,0.3541,,0.0031,No baseline
+PA296,Single Support Time - fast gait,s,0.306,,0.3079,,0.0019,No baseline
+PA297,Single Support Time - fast gait,s,0.334,,0.322,,0.012,No baseline
+PA299,Single Support Time - fast gait,s,0.341,,0.3286,,0.0124,No baseline
+PA300,Single Support Time - fast gait,s,0.385,,0.3303,,0.0547,No baseline
+PA302,Single Support Time - fast gait,s,0.329,,0.3258,,0.0032,No baseline
+PA303,Single Support Time - fast gait,s,0.413,,0.3847,,0.0283,No baseline
+PA304,Single Support Time - fast gait,s,0.306,,0.3146,,0.0086,No baseline
+PA305,Single Support Time - fast gait,s,0.356,,0.3398,,0.0162,No baseline
+PA309,Single Support Time - fast gait,s,0.339,,0.3478,,0.0088,No baseline
+PA311,Single Support Time - fast gait,s,0.315,,0.3297,,0.0147,No baseline
+PA312,Single Support Time - fast gait,s,0.313,,0.3238,,0.0108,No baseline
+PA314,Single Support Time - fast gait,s,0.416,,0.3677,,0.0483,No baseline
+PA319,Single Support Time - fast gait,s,0.329,,0.3191,,0.0099,No baseline
+PA320,Single Support Time - fast gait,s,0.329,,0.3417,,0.0127,No baseline
+PA326,Single Support Time - fast gait,s,0.276,,0.3423,,0.0663,No baseline
+PA331,Single Support Time - fast gait,s,0.388,,0.3417,,0.0463,No baseline
+PA333,Single Support Time - fast gait,s,0.315,,0.2989,,0.0161,No baseline
+PA334,Single Support Time - fast gait,s,0.384,,0.3422,,0.0418,No baseline
+PA336,Single Support Time - fast gait,s,0.347,,0.3537,,0.0067,No baseline
+PA337,Single Support Time - fast gait,s,0.306,,0.3224,,0.0164,No baseline
+PA339,Single Support Time - fast gait,s,0.304,,0.2902,,0.0138,No baseline
+PA340,Single Support Time - fast gait,s,0.335,,0.3474,,0.0124,No baseline
+PA341,Single Support Time - fast gait,s,0.337,,0.3247,,0.0123,No baseline
+PA343,Single Support Time - fast gait,s,0.307,,0.3043,,0.0027,No baseline
+PA344,Single Support Time - fast gait,s,0.383,,0.3632,,0.0198,No baseline
+PA347,Single Support Time - fast gait,s,0.361,,0.3064,,0.0546,No baseline
+PA350,Single Support Time - fast gait,s,0.307,,0.3385,,0.0315,No baseline
+PA351,Single Support Time - fast gait,s,0.367,,0.3087,,0.0583,No baseline
+PA352,Single Support Time - fast gait,s,0.33,,0.3094,,0.0206,No baseline
+PA354,Single Support Time - fast gait,s,0.325,,0.3058,,0.0192,No baseline
+PA355,Single Support Time - fast gait,s,0.338,,0.3309,,0.0071,No baseline
+PA356,Single Support Time - fast gait,s,0.305,,0.307,,0.002,No baseline
+PA358,Single Support Time - fast gait,s,0.306,,0.3132,,0.0072,No baseline
+PA360,Single Support Time - fast gait,s,0.339,,0.3171,,0.0219,No baseline
+PA363,Single Support Time - fast gait,s,0.333,,0.3306,,0.0024,No baseline
+PA366,Single Support Time - fast gait,s,0.338,,0.3247,,0.0133,No baseline
+PA369,Single Support Time - fast gait,s,0.277,,0.297,,0.02,No baseline
+PA371,Single Support Time - fast gait,s,0.34,,0.339,,0.001,No baseline
+PA372,Single Support Time - fast gait,s,0.322,,0.352,,0.03,No baseline
+PA375,Single Support Time - fast gait,s,0.33,,0.3092,,0.0208,No baseline
+PA377,Single Support Time - fast gait,s,0.366,,0.3476,,0.0184,No baseline
+PA380,Single Support Time - fast gait,s,0.315,,0.2814,,0.0336,No baseline
+PA382,Single Support Time - fast gait,s,0.254,,0.3103,,0.0563,No baseline
+PA383,Single Support Time - fast gait,s,0.298,,0.326,,0.028,No baseline
+PA386,Single Support Time - fast gait,s,0.359,,0.3581,,0.0009,No baseline
+PA387,Single Support Time - fast gait,s,0.381,,0.3656,,0.0154,No baseline
+PA388,Single Support Time - fast gait,s,0.284,,0.3041,,0.0201,No baseline
+PA389,Single Support Time - fast gait,s,0.302,,0.317,,0.015,No baseline
+PA390,Single Support Time - fast gait,s,0.326,,0.3267,,0.0007,No baseline
+PA391,Single Support Time - fast gait,s,0.33,,0.331,,0.001,No baseline
+PA392,Single Support Time - fast gait,s,0.301,,0.3272,,0.0262,No baseline
+PA393,Single Support Time - fast gait,s,0.308,,0.312,,0.004,No baseline
+PA394,Single Support Time - fast gait,s,0.358,,0.3403,,0.0177,No baseline
+PA395,Single Support Time - fast gait,s,0.318,,0.3255,,0.0075,No baseline
+PA004,Double Support Time - fast gait,s,0.099,,0.1555,,0.0565,No baseline
+PA005,Double Support Time - fast gait,s,0.145,,0.0947,,0.0503,No baseline
+PA006,Double Support Time - fast gait,s,0.153,,0.123,,0.03,No baseline
+PA018,Double Support Time - fast gait,s,0.17,,0.1217,,0.0483,No baseline
+PA019,Double Support Time - fast gait,s,0.145,,0.1427,,0.0023,No baseline
+PA020,Double Support Time - fast gait,s,0.102,,0.1353,,0.0333,No baseline
+PA021,Double Support Time - fast gait,s,0.16,,0.1272,,0.0328,No baseline
+PA022,Double Support Time - fast gait,s,0.172,,0.1463,,0.0257,No baseline
+PA030,Double Support Time - fast gait,s,0.105,,0.1027,,0.0023,No baseline
+PA031,Double Support Time - fast gait,s,0.099,,0.0954,,0.0036,No baseline
+PA033,Double Support Time - fast gait,s,0.152,,0.1492,,0.0028,No baseline
+PA035,Double Support Time - fast gait,s,0.138,,0.1282,,0.0098,No baseline
+PA037,Double Support Time - fast gait,s,0.11,,0.1241,,0.0141,No baseline
+PA040,Double Support Time - fast gait,s,0.105,,0.1447,,0.0397,No baseline
+PA042,Double Support Time - fast gait,s,0.122,,0.1075,,0.0145,No baseline
+PA043,Double Support Time - fast gait,s,0.148,,0.1265,,0.0215,No baseline
+PA045,Double Support Time - fast gait,s,0.1,,0.1452,,0.0452,No baseline
+PA047,Double Support Time - fast gait,s,0.121,,0.1291,,0.0081,No baseline
+PA048,Double Support Time - fast gait,s,0.089,,0.1126,,0.0236,No baseline
+PA049,Double Support Time - fast gait,s,0.17,,0.1475,,0.0225,No baseline
+PA051,Double Support Time - fast gait,s,0.157,,0.1115,,0.0455,No baseline
+PA052,Double Support Time - fast gait,s,0.151,,0.1191,,0.0319,No baseline
+PA054,Double Support Time - fast gait,s,0.121,,0.1562,,0.0352,No baseline
+PA057,Double Support Time - fast gait,s,0.098,,0.1257,,0.0277,No baseline
+PA058,Double Support Time - fast gait,s,0.159,,0.1554,,0.0036,No baseline
+PA059,Double Support Time - fast gait,s,0.187,,0.1111,,0.0759,No baseline
+PA063,Double Support Time - fast gait,s,0.074,,0.0929,,0.0189,No baseline
+PA066,Double Support Time - fast gait,s,0.111,,0.106,,0.005,No baseline
+PA070,Double Support Time - fast gait,s,0.163,,0.1359,,0.0271,No baseline
+PA072,Double Support Time - fast gait,s,0.133,,0.1265,,0.0065,No baseline
+PA074,Double Support Time - fast gait,s,0.124,,0.1014,,0.0226,No baseline
+PA079,Double Support Time - fast gait,s,0.107,,0.1065,,0.0005,No baseline
+PA080,Double Support Time - fast gait,s,0.044,,0.047,,0.003,No baseline
+PA081,Double Support Time - fast gait,s,0.115,,0.1225,,0.0075,No baseline
+PA082,Double Support Time - fast gait,s,0.073,,0.098,,0.025,No baseline
+PA083,Double Support Time - fast gait,s,0.171,,0.1334,,0.0376,No baseline
+PA084,Double Support Time - fast gait,s,0.157,,0.1176,,0.0394,No baseline
+PA091,Double Support Time - fast gait,s,0.149,,0.1235,,0.0255,No baseline
+PA092,Double Support Time - fast gait,s,0.118,,0.1015,,0.0165,No baseline
+PA093,Double Support Time - fast gait,s,0.164,,0.0956,,0.0684,No baseline
+PA094,Double Support Time - fast gait,s,0.149,,0.1442,,0.0048,No baseline
+PA096,Double Support Time - fast gait,s,0.117,,0.1101,,0.0069,No baseline
+PA098,Double Support Time - fast gait,s,0.097,,0.1031,,0.0061,No baseline
+PA099,Double Support Time - fast gait,s,0.081,,0.0825,,0.0015,No baseline
+PA100,Double Support Time - fast gait,s,0.108,,0.0964,,0.0116,No baseline
+PA106,Double Support Time - fast gait,s,0.18,,0.1405,,0.0395,No baseline
+PA108,Double Support Time - fast gait,s,0.124,,0.1189,,0.0051,No baseline
+PA112,Double Support Time - fast gait,s,0.196,,0.1624,,0.0336,No baseline
+PA115,Double Support Time - fast gait,s,0.184,,0.1387,,0.0453,No baseline
+PA116,Double Support Time - fast gait,s,0.113,,0.1155,,0.0025,No baseline
+PA117,Double Support Time - fast gait,s,0.147,,0.122,,0.025,No baseline
+PA118,Double Support Time - fast gait,s,0.139,,0.1147,,0.0243,No baseline
+PA119,Double Support Time - fast gait,s,0.127,,0.1029,,0.0241,No baseline
+PA120,Double Support Time - fast gait,s,0.154,,0.1344,,0.0196,No baseline
+PA131,Double Support Time - fast gait,s,0.024,,0.0609,,0.0369,No baseline
+PA133,Double Support Time - fast gait,s,0.155,,0.1308,,0.0242,No baseline
+PA136,Double Support Time - fast gait,s,0.074,,0.1156,,0.0416,No baseline
+PA137,Double Support Time - fast gait,s,0.12,,0.1167,,0.0033,No baseline
+PA139,Double Support Time - fast gait,s,0.14,,0.0977,,0.0423,No baseline
+PA144,Double Support Time - fast gait,s,0.163,,0.1303,,0.0327,No baseline
+PA145,Double Support Time - fast gait,s,0.117,,0.0993,,0.0177,No baseline
+PA147,Double Support Time - fast gait,s,0.125,,0.1384,,0.0134,No baseline
+PA158,Double Support Time - fast gait,s,0.115,,0.0976,,0.0174,No baseline
+PA159,Double Support Time - fast gait,s,0.163,,0.1979,,0.0349,No baseline
+PA160,Double Support Time - fast gait,s,0.116,,0.1013,,0.0147,No baseline
+PA162,Double Support Time - fast gait,s,0.201,,0.1872,,0.0138,No baseline
+PA166,Double Support Time - fast gait,s,0.276,,0.2282,,0.0478,No baseline
+PA167,Double Support Time - fast gait,s,0.082,,0.1047,,0.0227,No baseline
+PA168,Double Support Time - fast gait,s,0.165,,0.1596,,0.0054,No baseline
+PA170,Double Support Time - fast gait,s,0.124,,0.1256,,0.0016,No baseline
+PA171,Double Support Time - fast gait,s,0.227,,0.1669,,0.0601,No baseline
+PA172,Double Support Time - fast gait,s,0.046,,0.0881,,0.0421,No baseline
+PA173,Double Support Time - fast gait,s,0.142,,0.1484,,0.0064,No baseline
+PA175,Double Support Time - fast gait,s,0.139,,0.129,,0.01,No baseline
+PA178,Double Support Time - fast gait,s,0.134,,0.1254,,0.0086,No baseline
+PA184,Double Support Time - fast gait,s,0.155,,0.1364,,0.0186,No baseline
+PA187,Double Support Time - fast gait,s,0.064,,0.1242,,0.0602,No baseline
+PA188,Double Support Time - fast gait,s,0.181,,0.1708,,0.0102,No baseline
+PA190,Double Support Time - fast gait,s,0.157,,0.1413,,0.0157,No baseline
+PA191,Double Support Time - fast gait,s,0.155,,0.1211,,0.0339,No baseline
+PA192,Double Support Time - fast gait,s,0.093,,0.0911,,0.0019,No baseline
+PA196,Double Support Time - fast gait,s,0.1,,0.0843,,0.0157,No baseline
+PA199,Double Support Time - fast gait,s,0.162,,0.1377,,0.0243,No baseline
+PA200,Double Support Time - fast gait,s,0.127,,0.1074,,0.0196,No baseline
+PA201,Double Support Time - fast gait,s,0.162,,0.1442,,0.0178,No baseline
+PA203,Double Support Time - fast gait,s,0.159,,0.1782,,0.0192,No baseline
+PA207,Double Support Time - fast gait,s,0.154,,0.1479,,0.0061,No baseline
+PA208,Double Support Time - fast gait,s,0.177,,0.1544,,0.0226,No baseline
+PA209,Double Support Time - fast gait,s,0.131,,0.12,,0.011,No baseline
+PA210,Double Support Time - fast gait,s,0.088,,0.0915,,0.0035,No baseline
+PA212,Double Support Time - fast gait,s,0.194,,0.1443,,0.0497,No baseline
+PA213,Double Support Time - fast gait,s,0.11,,0.0779,,0.0321,No baseline
+PA214,Double Support Time - fast gait,s,0.162,,0.1458,,0.0162,No baseline
+PA215,Double Support Time - fast gait,s,0.128,,0.101,,0.027,No baseline
+PA217,Double Support Time - fast gait,s,0.117,,0.105,,0.012,No baseline
+PA219,Double Support Time - fast gait,s,0.147,,0.1206,,0.0264,No baseline
+PA221,Double Support Time - fast gait,s,0.154,,0.1252,,0.0288,No baseline
+PA224,Double Support Time - fast gait,s,0.176,,0.1585,,0.0175,No baseline
+PA225,Double Support Time - fast gait,s,0.168,,0.1396,,0.0284,No baseline
+PA227,Double Support Time - fast gait,s,0.104,,0.1415,,0.0375,No baseline
+PA230,Double Support Time - fast gait,s,0.13,,0.0923,,0.0377,No baseline
+PA232,Double Support Time - fast gait,s,0.201,,0.1746,,0.0264,No baseline
+PA233,Double Support Time - fast gait,s,0.211,,0.1836,,0.0274,No baseline
+PA234,Double Support Time - fast gait,s,0.153,,0.1575,,0.0045,No baseline
+PA241,Double Support Time - fast gait,s,0.106,,0.1418,,0.0358,No baseline
+PA242,Double Support Time - fast gait,s,0.159,,0.1372,,0.0218,No baseline
+PA243,Double Support Time - fast gait,s,0.113,,0.1133,,0.0003,No baseline
+PA246,Double Support Time - fast gait,s,0.121,,0.1298,,0.0088,No baseline
+PA247,Double Support Time - fast gait,s,0.177,,0.1482,,0.0288,No baseline
+PA248,Double Support Time - fast gait,s,0.118,,0.1318,,0.0138,No baseline
+PA249,Double Support Time - fast gait,s,0.132,,0.103,,0.029,No baseline
+PA252,Double Support Time - fast gait,s,0.084,,0.1377,,0.0537,No baseline
+PA257,Double Support Time - fast gait,s,0.129,,0.1399,,0.0109,No baseline
+PA261,Double Support Time - fast gait,s,0.179,,0.1652,,0.0138,No baseline
+PA266,Double Support Time - fast gait,s,0.129,,0.135,,0.006,No baseline
+PA267,Double Support Time - fast gait,s,0.101,,0.095,,0.006,No baseline
+PA268,Double Support Time - fast gait,s,0.132,,0.1406,,0.0086,No baseline
+PA270,Double Support Time - fast gait,s,0.165,,0.1584,,0.0066,No baseline
+PA274,Double Support Time - fast gait,s,0.138,,0.1405,,0.0025,No baseline
+PA276,Double Support Time - fast gait,s,0.135,,0.1467,,0.0117,No baseline
+PA277,Double Support Time - fast gait,s,0.206,,0.2007,,0.0053,No baseline
+PA280,Double Support Time - fast gait,s,0.099,,0.1462,,0.0472,No baseline
+PA284,Double Support Time - fast gait,s,0.093,,0.1269,,0.0339,No baseline
+PA285,Double Support Time - fast gait,s,0.139,,0.1527,,0.0137,No baseline
+PA288,Double Support Time - fast gait,s,0.151,,0.1284,,0.0226,No baseline
+PA289,Double Support Time - fast gait,s,0.107,,0.1222,,0.0152,No baseline
+PA290,Double Support Time - fast gait,s,0.127,,0.1358,,0.0088,No baseline
+PA292,Double Support Time - fast gait,s,0.227,,0.1782,,0.0488,No baseline
+PA293,Double Support Time - fast gait,s,0.229,,0.2098,,0.0192,No baseline
+PA296,Double Support Time - fast gait,s,0.14,,0.1247,,0.0153,No baseline
+PA297,Double Support Time - fast gait,s,0.154,,0.1379,,0.0161,No baseline
+PA299,Double Support Time - fast gait,s,0.104,,0.1239,,0.0199,No baseline
+PA300,Double Support Time - fast gait,s,0.136,,0.1313,,0.0047,No baseline
+PA302,Double Support Time - fast gait,s,0.122,,0.1318,,0.0098,No baseline
+PA303,Double Support Time - fast gait,s,0.311,,0.238,,0.073,No baseline
+PA304,Double Support Time - fast gait,s,0.12,,0.1234,,0.0034,No baseline
+PA305,Double Support Time - fast gait,s,0.141,,0.1524,,0.0114,No baseline
+PA309,Double Support Time - fast gait,s,0.134,,0.138,,0.004,No baseline
+PA311,Double Support Time - fast gait,s,0.173,,0.1369,,0.0361,No baseline
+PA312,Double Support Time - fast gait,s,0.15,,0.1081,,0.0419,No baseline
+PA314,Double Support Time - fast gait,s,0.18,,0.1736,,0.0064,No baseline
+PA319,Double Support Time - fast gait,s,0.084,,0.1191,,0.0351,No baseline
+PA320,Double Support Time - fast gait,s,0.167,,0.1609,,0.0061,No baseline
+PA326,Double Support Time - fast gait,s,0.122,,0.1485,,0.0265,No baseline
+PA331,Double Support Time - fast gait,s,0.126,,0.1356,,0.0096,No baseline
+PA333,Double Support Time - fast gait,s,0.107,,0.1054,,0.0016,No baseline
+PA334,Double Support Time - fast gait,s,0.127,,0.1539,,0.0269,No baseline
+PA336,Double Support Time - fast gait,s,0.142,,0.175,,0.033,No baseline
+PA337,Double Support Time - fast gait,s,0.143,,0.1366,,0.0064,No baseline
+PA339,Double Support Time - fast gait,s,0.134,,0.1019,,0.0321,No baseline
+PA340,Double Support Time - fast gait,s,0.184,,0.1624,,0.0216,No baseline
+PA341,Double Support Time - fast gait,s,0.139,,0.1332,,0.0058,No baseline
+PA343,Double Support Time - fast gait,s,0.062,,0.0991,,0.0371,No baseline
+PA344,Double Support Time - fast gait,s,0.165,,0.1794,,0.0144,No baseline
+PA347,Double Support Time - fast gait,s,0.105,,0.1559,,0.0509,No baseline
+PA350,Double Support Time - fast gait,s,0.103,,0.1547,,0.0517,No baseline
+PA351,Double Support Time - fast gait,s,0.082,,0.1021,,0.0201,No baseline
+PA352,Double Support Time - fast gait,s,0.133,,0.1159,,0.0171,No baseline
+PA354,Double Support Time - fast gait,s,0.136,,0.1007,,0.0353,No baseline
+PA355,Double Support Time - fast gait,s,0.128,,0.1285,,0.0005,No baseline
+PA356,Double Support Time - fast gait,s,0.15,,0.119,,0.031,No baseline
+PA358,Double Support Time - fast gait,s,0.114,,0.1366,,0.0226,No baseline
+PA360,Double Support Time - fast gait,s,0.081,,0.1249,,0.0439,No baseline
+PA363,Double Support Time - fast gait,s,0.096,,0.1251,,0.0291,No baseline
+PA366,Double Support Time - fast gait,s,0.12,,0.1418,,0.0218,No baseline
+PA369,Double Support Time - fast gait,s,0.103,,0.1141,,0.0111,No baseline
+PA371,Double Support Time - fast gait,s,0.201,,0.1838,,0.0172,No baseline
+PA372,Double Support Time - fast gait,s,0.115,,0.1804,,0.0654,No baseline
+PA375,Double Support Time - fast gait,s,0.035,,0.0764,,0.0414,No baseline
+PA377,Double Support Time - fast gait,s,0.147,,0.1789,,0.0319,No baseline
+PA380,Double Support Time - fast gait,s,0.102,,0.0773,,0.0247,No baseline
+PA382,Double Support Time - fast gait,s,0.052,,0.0903,,0.0383,No baseline
+PA383,Double Support Time - fast gait,s,0.174,,0.1236,,0.0504,No baseline
+PA386,Double Support Time - fast gait,s,0.137,,0.1811,,0.0441,No baseline
+PA387,Double Support Time - fast gait,s,0.107,,0.1541,,0.0471,No baseline
+PA388,Double Support Time - fast gait,s,0.104,,0.1025,,0.0015,No baseline
+PA389,Double Support Time - fast gait,s,0.126,,0.1299,,0.0039,No baseline
+PA390,Double Support Time - fast gait,s,0.129,,0.1529,,0.0239,No baseline
+PA391,Double Support Time - fast gait,s,0.165,,0.165,,0.0,No baseline
+PA392,Double Support Time - fast gait,s,0.139,,0.1373,,0.0017,No baseline
+PA393,Double Support Time - fast gait,s,0.104,,0.1071,,0.0031,No baseline
+PA394,Double Support Time - fast gait,s,0.1,,0.1246,,0.0246,No baseline
+PA395,Double Support Time - fast gait,s,0.063,,0.122,,0.059,No baseline

@@ -1,0 +1,9 @@
+﻿Parameter,Unit,N,Mean_Sensor_Value,Mean_Baseline_Prediction,R2,MAE,RMSE,MAPE_Percent,MedAPE_Percent
+Step Length - usual,cm,183,56.929,71.827,-1.192,17.282,18.952,32.7,31.3
+Stride Length - usual,cm,183,115.373,143.646,-1.299,34.031,38.528,31.6,30.9
+Cadence - usual,steps/min,183,115.509,119.316,0.013,9.076,12.716,8.4,5.2
+Gait Speed - usual,m/s,183,1.551,1.54,0.256,0.147,0.18,9.6,7.9
+Step Length - fast,cm,183,68.315,82.65,-1.631,16.085,17.982,25.2,26.6
+Stride Length - fast,cm,183,141.162,163.29,-1.432,31.931,36.459,23.7,23.0
+Cadence - fast,steps/min,183,144.212,147.739,0.406,13.07,17.443,9.7,6.7
+Gait Speed - fast,m/s,183,2.292,2.282,0.718,0.149,0.198,6.6,5.2

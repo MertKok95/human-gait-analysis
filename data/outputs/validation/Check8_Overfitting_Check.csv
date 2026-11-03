@@ -1,0 +1,17 @@
+﻿Target,Model,Train_R2,Test_R2,Overfitting_Gap
+Step Length - usual gait,Ridge,0.185,0.277,-0.092
+Step Length - usual gait,RandomForest,0.429,0.293,0.135
+Stride Length - usual gait,Ridge,0.203,0.272,-0.069
+Stride Length - usual gait,RandomForest,0.44,0.263,0.177
+Cadence - usual gait,Ridge,0.262,-0.167,0.43
+Cadence - usual gait,RandomForest,0.457,-0.136,0.593
+Gait Speed - usual gait,Ridge,0.479,0.385,0.095
+Gait Speed - usual gait,RandomForest,0.723,0.341,0.382
+Step Length - fast gait,Ridge,0.212,0.03,0.182
+Step Length - fast gait,RandomForest,0.517,-0.032,0.549
+Stride Length - fast gait,Ridge,0.268,-0.019,0.286
+Stride Length - fast gait,RandomForest,0.632,-0.038,0.67
+Cadence - fast gait,Ridge,0.306,0.375,-0.069
+Cadence - fast gait,RandomForest,0.642,0.293,0.349
+Gait Speed - fast gait,Ridge,0.762,0.551,0.21
+Gait Speed - fast gait,RandomForest,0.745,0.574,0.171

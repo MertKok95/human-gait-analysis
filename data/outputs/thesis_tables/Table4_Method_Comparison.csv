@@ -1,0 +1,9 @@
+﻿Measurement,Method,Description,Condition,Correlation_With_Sensor_r,p_value,Participants
+Cadence,PREVIOUS,PREVIOUS - from heel-strike intervals,usual gait,0.349,1.3e-06,183
+Cadence,PREVIOUS,PREVIOUS - from heel-strike intervals,fast gait,0.472,1.5e-11,183
+Cadence (spectral),NEW,NEW - from spectral analysis,usual gait,0.456,8.7e-11,183
+Cadence (spectral),NEW,NEW - from spectral analysis,fast gait,0.566,7.4e-17,183
+Speed (step x cadence),PREVIOUS,PREVIOUS - step length x cadence,usual gait,0.511,1.4e-13,183
+Speed (step x cadence),PREVIOUS,PREVIOUS - step length x cadence,fast gait,0.483,4.3e-12,183
+Speed (displacement),NEW,NEW - from trunk displacement,usual gait,0.674,1.4e-25,183
+Speed (displacement),NEW,NEW - from trunk displacement,fast gait,0.856,7.3e-54,183

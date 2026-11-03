@@ -1,0 +1,216 @@
+﻿Participant_ID,Exclusion_Reason
+PA000,Duplicate record: usual and fast gait identical
+PA001,Implausible gait speed (5.09 m/s)
+PA008,Missing sensor reading
+PA009,Missing sensor reading
+PA010,Missing sensor reading
+PA011,Missing sensor reading
+PA012,Missing sensor reading
+PA013,Missing sensor reading
+PA014,Missing sensor reading
+PA015,Missing sensor reading
+PA016,Missing sensor reading
+PA017,Missing sensor reading
+PA023,Missing sensor reading
+PA024,Missing sensor reading
+PA025,Missing sensor reading
+PA026,Missing sensor reading
+PA027,Missing sensor reading
+PA028,Missing sensor reading
+PA029,Missing sensor reading
+PA034,Missing sensor reading
+PA036,Missing sensor reading
+PA053,Missing sensor reading
+PA064,Contradiction: usual gait faster than fast gait
+PA076,Missing sensor reading
+PA085,Missing sensor reading
+PA088,Contradiction: usual gait faster than fast gait
+PA101,Missing sensor reading
+PA103,Missing sensor reading
+PA110,Missing sensor reading
+PA113,Missing sensor reading
+PA114,Missing sensor reading
+PA121,Missing sensor reading
+PA122,Missing sensor reading
+PA127,Missing sensor reading
+PA130,Missing sensor reading
+PA140,Contradiction: usual gait faster than fast gait
+PA143,Missing sensor reading
+PA146,Missing sensor reading
+PA148,Missing sensor reading
+PA174,Missing sensor reading
+PA180,Missing sensor reading
+PA182,Missing sensor reading
+PA183,Missing sensor reading
+PA186,Missing sensor reading
+PA189,Missing sensor reading
+PA197,Missing sensor reading
+PA202,Missing sensor reading
+PA211,Missing sensor reading
+PA223,Missing sensor reading
+PA226,Missing sensor reading
+PA228,Missing sensor reading
+PA237,Missing sensor reading
+PA250,Missing sensor reading
+PA256,Missing sensor reading
+PA269,Missing sensor reading
+PA279,Missing sensor reading
+PA298,Missing sensor reading
+PA315,Missing sensor reading
+PA317,Missing sensor reading
+PA338,Missing sensor reading
+PA345,Missing sensor reading
+PA348,Missing sensor reading
+PA370,Missing sensor reading
+PA376,Missing sensor reading
+PA381,Missing sensor reading
+PA385,Missing sensor reading
+PA396,Missing sensor reading
+PA397,Missing sensor reading
+PA044,Failed pose cleaning (fgs WoJ_1)
+PA251,Failed pose cleaning (ugs WoJ_2)
+PA002,No valid gait cycle (fgs_WoJ_2)
+PA003,No valid gait cycle (fgs_WoJ_2)
+PA007,No valid gait cycle (fgs_WoJ_2)
+PA032,No cycle passed quality control (ugs_WoJ_1)
+PA038,No valid gait cycle (fgs_WoJ_2)
+PA039,No cycle passed quality control (ugs_WoJ_1)
+PA041,No cycle passed quality control (ugs_WoJ_2)
+PA046,No valid gait cycle (fgs_WoJ_1)
+PA050,No valid gait cycle (fgs_WoJ_2)
+PA055,No cycle passed quality control (ugs_WoJ_2)
+PA056,Kinematik hata (ugs_WoJ_1)
+PA060,Kinematik hata (fgs_WoJ_1)
+PA061,Kinematik hata (fgs_WoJ_2)
+PA062,No valid gait cycle (fgs_WoJ_1)
+PA065,No valid gait cycle (ugs_WoJ_1)
+PA067,No cycle passed quality control (ugs_WoJ_2)
+PA068,No valid gait cycle (fgs_WoJ_2)
+PA069,No cycle passed quality control (ugs_WoJ_1)
+PA071,No valid gait cycle (fgs_WoJ_1)
+PA073,No cycle passed quality control (fgs_WoJ_1)
+PA075,No valid gait cycle (fgs_WoJ_2)
+PA077,Kinematik hata (fgs_WoJ_1)
+PA078,No valid gait cycle (ugs_WoJ_1)
+PA086,No cycle passed quality control (ugs_WoJ_1)
+PA087,Kinematik hata (ugs_WoJ_1)
+PA089,Kinematik hata (ugs_WoJ_1)
+PA090,Kinematik hata (fgs_WoJ_2)
+PA095,Kinematik hata (fgs_WoJ_2)
+PA097,No cycle passed quality control (ugs_WoJ_1)
+PA102,Kinematik hata (ugs_WoJ_1)
+PA104,No valid gait cycle (fgs_WoJ_2)
+PA105,No valid gait cycle (fgs_WoJ_1)
+PA107,No valid gait cycle (ugs_WoJ_1)
+PA109,Kinematik hata (ugs_WoJ_1)
+PA111,No valid gait cycle (fgs_WoJ_2)
+PA123,No cycle passed quality control (fgs_WoJ_1)
+PA124,No cycle passed quality control (ugs_WoJ_2)
+PA125,No valid gait cycle (fgs_WoJ_2)
+PA126,No valid gait cycle (fgs_WoJ_1)
+PA128,No valid gait cycle (fgs_WoJ_1)
+PA129,No valid gait cycle (ugs_WoJ_2)
+PA132,No valid gait cycle (fgs_WoJ_1)
+PA134,No cycle passed quality control (ugs_WoJ_1)
+PA135,No valid gait cycle (fgs_WoJ_1)
+PA138,No valid gait cycle (fgs_WoJ_2)
+PA141,Kinematik hata (fgs_WoJ_1)
+PA142,Kinematik hata (ugs_WoJ_1)
+PA149,No valid gait cycle (fgs_WoJ_2)
+PA150,No valid gait cycle (fgs_WoJ_2)
+PA151,No valid gait cycle (fgs_WoJ_2)
+PA152,No valid gait cycle (fgs_WoJ_2)
+PA153,No valid gait cycle (fgs_WoJ_1)
+PA154,No valid gait cycle (fgs_WoJ_2)
+PA155,No valid gait cycle (fgs_WoJ_2)
+PA156,No valid gait cycle (fgs_WoJ_1)
+PA157,No cycle passed quality control (fgs_WoJ_1)
+PA161,No valid gait cycle (ugs_WoJ_1)
+PA163,No valid gait cycle (fgs_WoJ_1)
+PA164,No valid gait cycle (fgs_WoJ_2)
+PA165,No valid gait cycle (fgs_WoJ_1)
+PA169,No cycle passed quality control (ugs_WoJ_1)
+PA176,Kinematik hata (fgs_WoJ_2)
+PA177,No valid gait cycle (fgs_WoJ_1)
+PA179,No valid gait cycle (fgs_WoJ_2)
+PA181,No valid gait cycle (fgs_WoJ_1)
+PA185,No valid gait cycle (fgs_WoJ_2)
+PA193,No cycle passed quality control (ugs_WoJ_2)
+PA194,No valid gait cycle (ugs_WoJ_2)
+PA195,No valid gait cycle (fgs_WoJ_2)
+PA198,Kinematik hata (fgs_WoJ_1)
+PA204,No valid gait cycle (fgs_WoJ_2)
+PA205,No cycle passed quality control (ugs_WoJ_1)
+PA206,Kinematik hata (fgs_WoJ_2)
+PA216,No cycle passed quality control (ugs_WoJ_1)
+PA218,No valid gait cycle (ugs_WoJ_1)
+PA220,No cycle passed quality control (ugs_WoJ_2)
+PA222,No valid gait cycle (ugs_WoJ_2)
+PA229,No cycle passed quality control (ugs_WoJ_1)
+PA231,No valid gait cycle (fgs_WoJ_2)
+PA235,No valid gait cycle (fgs_WoJ_2)
+PA236,No cycle passed quality control (ugs_WoJ_2)
+PA238,No cycle passed quality control (fgs_WoJ_2)
+PA239,No valid gait cycle (fgs_WoJ_1)
+PA240,No valid gait cycle (fgs_WoJ_2)
+PA244,No cycle passed quality control (ugs_WoJ_1)
+PA245,Kinematik hata (ugs_WoJ_2)
+PA253,No cycle passed quality control (fgs_WoJ_2)
+PA254,Kinematik hata (ugs_WoJ_1)
+PA255,Kinematik hata (fgs_WoJ_2)
+PA258,No valid gait cycle (fgs_WoJ_1)
+PA259,No valid gait cycle (fgs_WoJ_2)
+PA260,No valid gait cycle (fgs_WoJ_2)
+PA262,No valid gait cycle (ugs_WoJ_2)
+PA263,No valid gait cycle (fgs_WoJ_2)
+PA264,No valid gait cycle (fgs_WoJ_2)
+PA265,No valid gait cycle (ugs_WoJ_2)
+PA271,No valid gait cycle (fgs_WoJ_2)
+PA272,No valid gait cycle (fgs_WoJ_2)
+PA273,No cycle passed quality control (ugs_WoJ_2)
+PA275,No valid gait cycle (fgs_WoJ_2)
+PA278,Kinematik hata (fgs_WoJ_1)
+PA281,Kinematik hata (fgs_WoJ_2)
+PA282,No valid gait cycle (fgs_WoJ_2)
+PA283,No valid gait cycle (fgs_WoJ_1)
+PA286,No valid gait cycle (ugs_WoJ_1)
+PA287,Kinematik hata (ugs_WoJ_2)
+PA291,Kinematik hata (ugs_WoJ_2)
+PA294,No valid gait cycle (ugs_WoJ_2)
+PA295,No valid gait cycle (fgs_WoJ_2)
+PA301,Kinematik hata (fgs_WoJ_2)
+PA306,No cycle passed quality control (ugs_WoJ_1)
+PA307,No valid gait cycle (fgs_WoJ_2)
+PA308,Kinematik hata (fgs_WoJ_2)
+PA310,Kinematik hata (fgs_WoJ_2)
+PA313,Kinematik hata (fgs_WoJ_1)
+PA316,No cycle passed quality control (ugs_WoJ_1)
+PA318,No valid gait cycle (ugs_WoJ_1)
+PA321,Kinematik hata (fgs_WoJ_2)
+PA322,Kinematik hata (ugs_WoJ_2)
+PA323,Kinematik hata (ugs_WoJ_2)
+PA324,No valid gait cycle (fgs_WoJ_1)
+PA325,Kinematik hata (fgs_WoJ_1)
+PA327,No valid gait cycle (fgs_WoJ_2)
+PA328,No valid gait cycle (ugs_WoJ_2)
+PA329,No cycle passed quality control (ugs_WoJ_1)
+PA330,No valid gait cycle (fgs_WoJ_2)
+PA332,No cycle passed quality control (ugs_WoJ_2)
+PA335,No valid gait cycle (ugs_WoJ_1)
+PA342,No cycle passed quality control (ugs_WoJ_1)
+PA346,Kinematik hata (fgs_WoJ_2)
+PA349,No cycle passed quality control (ugs_WoJ_2)
+PA353,No cycle passed quality control (ugs_WoJ_1)
+PA357,No valid gait cycle (fgs_WoJ_1)
+PA359,Kinematik hata (ugs_WoJ_2)
+PA361,No valid gait cycle (fgs_WoJ_2)
+PA362,No valid gait cycle (ugs_WoJ_1)
+PA364,No valid gait cycle (ugs_WoJ_2)
+PA365,No valid gait cycle (ugs_WoJ_1)
+PA367,Kinematik hata (fgs_WoJ_2)
+PA368,Kinematik hata (fgs_WoJ_1)
+PA373,No valid gait cycle (fgs_WoJ_2)
+PA374,No cycle passed quality control (ugs_WoJ_2)
+PA378,No valid gait cycle (ugs_WoJ_2)
+PA379,No cycle passed quality control (fgs_WoJ_2)
+PA384,No valid gait cycle (fgs_WoJ_2)
